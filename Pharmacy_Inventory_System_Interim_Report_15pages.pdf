@@ -1,0 +1,7387 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Pharmacy Inventory System \055 Project Interim Report)
+/Author (Priyani Pandey)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 15
+/Kids [ 4 0 R 16 0 R 23 0 R 26 0 R 34 0 R 37 0 R 40 0 R 43 0 R 46 0 R 49 0 R 52 0 R 55 0 R 58 0 R 61 0 R 64 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+>>
+/XObject <<
+/FormXob.80b28738523601a2cdc75378cee1ce07 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3479
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+2.2 w
+n 39.68504 39.68504 515.9055 762.5197 re S
+.8 w
+n 41.88504 41.88504 511.5055 758.1197 re S
+2.2 w
+n 44.08504 44.08504 507.1055 753.7197 re S
+Q
+q
+1 0 0 1 56 768.8819 cm
+Q
+q
+1 0 0 1 56 754.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 11 Tf 14 TL 188.1503 0 Td (Project Interim Report) Tj T* -188.1503 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 742.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL 235.6348 0 Td (On) Tj T* -235.6348 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 734.378 cm
+Q
+q
+1 0 0 1 56 702.378 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 26 Tf 32 TL 79.0858 0 Td (Pharmacy Inventory System) Tj T* -79.0858 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 685.378 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 13 Tf 17 TL 46.2023 0 Td (\(Using Java, HashMap, BST, Sorting, Linked List and File Handling\)) Tj T* -46.2023 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 671.2047 cm
+Q
+q
+1 0 0 1 56 658.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 218.8478 0 Td (PS No. 61) Tj T* -218.8478 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 645.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 201.6228 0 Td (RU-200-01-00029) Tj T* -201.6228 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 632.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 157.1678 0 Td (Data Structures and Algorithms \(DSA\)) Tj T* -157.1678 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 623.7008 cm
+Q
+q
+1 0 0 1 56 607.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 13 Tf 16 TL 185.2763 0 Td (SESSION: 2026-27) Tj T* -185.2763 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 596.3622 cm
+Q
+q
+1 0 0 1 212.5984 540.3135 cm
+q
+170.0787 0 0 56.04868 0 0 cm
+/FormXob.80b28738523601a2cdc75378cee1ce07 Do
+Q
+Q
+q
+1 0 0 1 56 506.2978 cm
+Q
+q
+1 0 0 1 56 489.2978 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 13 Tf 17 TL 202.9823 0 Td (Submitted By) Tj T* -202.9823 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 472.2978 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 13 Tf 17 TL 197.9253 0 Td (Priyani Pandey) Tj T* -197.9253 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 455.2978 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 13 Tf 17 TL 177.3398 0 Td (ERP ID: RU-25-11037) Tj T* -177.3398 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 443.9592 cm
+Q
+q
+1 0 0 1 56 419.9592 cm
+q
+BT 1 0 0 1 0 14.5 Tm 62.12105 0 Td 12 TL /F1 9.5 Tf 0 0 0 rg (Bachelor of Technology in Computer Science & Engineering with Artificial Intelligence) Tj  T* 76.02375 0 Td (and Machine Learning in association with Google) Tj T* -138.1448 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 402.9513 cm
+Q
+q
+1 0 0 1 56 385.9513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 13 Tf 17 TL 176.2413 0 Td (Under the Guidance of) Tj T* -176.2413 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 368.9513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL 186.7258 0 Td (Suryamani Verma) Tj T* -186.7258 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 329.2663 cm
+Q
+q
+1 0 0 1 56 311.2663 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL 56.9008 0 Td (SCHOOL OF COMPUTER SCIENCE AND ENGINEERING) Tj T* -56.9008 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 285.2663 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL 93.2168 0 Td (RUNGTA INTERNATIONAL SKILLS UNIVERSITY) Tj T* -93.2168 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 259.2663 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL 164.3658 0 Td (BHILAI, CHHATTISGARH) Tj T* -164.3658 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 235.2663 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 193.2898 0 Td (\(November 2026\)) Tj T* -193.2898 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+232 367.8898 132 17.5 re
+f*
+0 0 0 rg
+BT
+/F2-0 13 Tf
+15.6 TL
+ET
+BT
+1 0 0 1 229.7258 372.9898 Tm
+(Mr\056 Surya Mani Verma) Tj
+T*
+ET
+BT
+/F1-0 13 Tf
+15.6 TL
+ET
+BT
+1 0 0 1 247.4318 355.3898 Tm
+(Technical Trainer) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F6
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 87
+/SMask 15 0 R
+/Subtype /Image
+/Type /XObject
+/Width 264
+/Length 18951
+>>
+stream
+Gb"/LLR0"2\S($Zh:4N@b,NjK,%2L2JAmmhN!$L[k$\p6OhieB-A*?@/20q/&>2-AR[e"90Rater^ZkA>MZ'Bd3LmQ]Pl-\n(cBi]=R:Y%H$VI2\AH=HIS]2or(ADl;<Uge>")XW(0#9;3-%QUE9*,7m6-7O*]<N*qcI%4mGn*HIS]2or(ADl;<Uge>")XW(0#9;3-%QUE9*,7m6-7O*]<N*qcI%4mGn*2Be5+./^XJPMGBqMp?_#k8O)2q0bp3OPOAajUmARn^O"Q;WQ!X>Ge6oUWJ#+e#SD6EC6jSE7L;))ZB9bpeN5s,%Q7\6s*<\-lT[_i'^0M)-NWIB&1AmcK1dp8.$Oc$4P7e$r&??@-J'3QfgnGTR!-f=_`T`!XIl:&dr:5)298s;40jAhMC)%JKs*8QibqS&kg@e+jm@ZiG"O;)Nt>ej@*_n3ZdHCXWoq@QO"'b,>p(mKQWtIK_a&'/5$9N+j6g#%*iT:0dOSt"Op.G=QkM414tl*H1X)W8MfS\,`O'7Ql+>QPf1tr<ajui)A3F7,8h9)Gsp@a0>fs#L]FtO*s$:FLIs[N!?lH9^hi!*s/u\X.l0SX7ib%X-LD(&RNcGk?K$M2okI3EKeQ("*["f"&kT=$Qm\5WDtm()'T!1u(DN"B:pAuS+eF6\NaYM$-NuMJW\Pbq/h@<V_IN(q$[Yea5XKS2rDHPoV[<8jY_0P#1<JQ(BppAO!PYi*L(-H\P1XK"n.eb?l?m*79#4;hU_m>J)TaUpm4+l2\Npj1>]-j:7AjB)<g&P'bMX)s]Ni:i^!%8'R)IunWI0M%_YOlNOs3>r?etb^#jTApVi,YP!C2[O*9pBeJfc6c1+\L?S0fNDCFN!)&\'J2Q4YPY'S_9\JPZp7^b?JU`=APq@qC#uE5`_)%UCT9LkMZt%ehFT>srN6$n9?Z2_l58Lu5]MR%7k$(jJ>404COXW$PD9_R^1A+\dO;/-oZt6\8hsNb-nO9f3'J.*EeuUhE@cKkJ[M@?<k>:,72O'UN,%A-mu;<jHl#HC-oYW:*o0/AlH9F<;o<:lILbJ"@9!+bEqq4:K(3faW9e`"'h-W;UBF6%VQX"20Fg5OP9ppWkXrTJ-^AAn\3_d]P.n8#;b2AVVc(LdcL,+[oU4ab`VYO\`3?9TpFM&f207L*Qi,'"Et3H_ALi:XCXAb,?CQ$5s_d9h)Xpf^S2=&&;TK&/mCEG;[>X%B1b3-NQCR_g!fV;]Ls4.sVQ^6BVmMd3+hh1a&hnEM5d3oI.[eo)pO3?&/jufl&DSJXhNJ&qUiciK"gGOm"Y3N_kOP/;?A\KFdY/C(ZD@3W*c2@Z_'5T&?:Lb;JGII,PYY]isKNV7S^EB"$VqOiY6L"AXWm$Cjd'!',c;KO&sq1<9ga40;!R!%:=p"^mn*,.Kas^nCOb,FK`<=nk9FH>au$VfMTpVS-'[O8?[)fDX?E5&n52*9W.DJ*OP93p?/;h0RDS?It/7\bq)Jgcaooc]cId19&!TP2*,J!:6_9A/:6fL*VSrMui_X:dJidikU);OHTR2p*8K>lr2gX(><cG@\o5BpgiV;c`/f'-ZT>ji.<.a3J-<T^kYD8KR.I@mZpiVl[E4t2T,d2P05Ru,9=^CJ0:/EUS'B.kmNXA9%R'rCse?V8HNl>[P26SA#L.:6s*%a1Q+ThTs,l>8<MQ+Bq\j<Qf"+@f[O(_eLHG*8H!M;T$Zc$SC0j\47Jtd/4O)W`NW0#RV'Br!&"L<,?-Fa7cl=*R_U:X7sM1..A$K=0(H9LqPnB@[N!7D@n8P6C=YX=4575c8@QY;`i)r\[3>?U<di3_a3FIJiJhXPV!3q>S/J4ZOOkigDpkR[]?Po4n\/nuQVLkZ:g6dO.l'5n7]E*Cd\(A01`3;iO`UXTV(8-(s5Ig.$\SnMmc[td,EEbBG]<*Gd&$fOTb0mYG/=jm#\5@g\0(eg<2eA,%ur&Q/Aq]M[coYhJRpWP#*)c(cH)LY6>.]Z"[bWhf75!iFrb(s^Gq<3T]9(GT3>P/F=0FRr+=?.Y=29uG`8N3i[AVjn_uu`>X?Z#bUFeLFp2bP>ZleKiWt#'/@X^&r1h>m8N/!W"4b8.dhjd_A*(j$4W"W[nO>2I1hI\diJP?ODpS3<.Bbr"2C9Gog9+6+resjL2SHG7He.g)m,hj'K's(BIAC\>QF&<8k&@1+[iNSW5'Pd@/E7>EHqQ3',8F!..sM^g>@iY3KSSthM0'"7W$!?C8h'\i'`t>EO>b-d5lYX3>+paS9E9\JN!Bi4(WCG@GfT_SR0k:C,,tpk@#A@[-0WS_$TT!A%LqVgkYDuSikf_j(h8[T6G?"BK*=\/"+*iOp:qij+tGnn!KWd]66^AZ+Ke7O\(FNaR)EI;S-<>Z'#VQ[%8'9se2;$i`aS8]lXB!PF?4NY,Kdtc!IuDW"lBMX6cb,#D@T3sY#gFa`Zd2Gg#4LZFeb9HPn`A8XE&643Dq;$g%M0%/XYsXj3RM:R-T_,hJB5Ql*tB>qP"p&=l+i!9q![[p^W*^Sq]nlV!\57-4C,E[-5!]FSkP"p8m\R%GIRh0]k2eea*s(F2A:pRau?/oWEEi0:^Vr4A!Nr2T?<.5XYc"+sMbP^S^s_$#kF]>7u^Y,alUE)^on2r'6BD'FK3k;=%Bm+_o*F'43bkZ:*%YZ4ID'o<%%>MFdr2GCb1fPGg-9"dpba'e(1a+Fj]__L/uN(d`bIO:ruILaSrpAlZ4+_F,MX_+;b.$7r.'/RXfe[,sCX7,]P^_P>HX:D)DR'TL<RRL>l^3"_Vai.-l`&pDb2n@,0$"*#-V0+nQtQ[obeM8p)DZa/X#h2T:&&>>fB-s?@L9X?h#rAGf_T9PC>eM5+3pY<ljp4ZkGF1lS2pi>,tKkBpuWANf8Mlo9S=L4#HD7_Tc*,jF$+i0Kof/qaT4(_W6Q-4+.ZGW8TdaCpYg?7SWOJ.`gp987l]?'E/G2$DBJVjJF1)KS2<id:Cf+0b)^G`.;-rf:m:n[t5#crXV=_+7WR0p)UfaSRUR.Y0jj8K-bJVPi`_T!HG_Z_(7.+DkB+\0=J#@.F\,8t?*Z)=i^>=.Il:_Z`aoYkRMJ:agA$YTSW8+?nO?j/<EY!R]7;)Mlf?sj[&@93SWi/]R`dm5^FPh(QHi4:?G`5uE-,?`ho'Jb[s$l@j;9e$Q1jYLlXTbqmPLr9;28Jbn#`02Ap-]7(0IDMVaL/ZPU5"Gk]1GRrNH;gkf%0?iX=cBtJ,n:_HJ;@psR4rd!"X%:.Z=b2%hX`*g'+ba&\-RQb,!*6<h%1eE[PMgS1\LSVcauE.q1^0]N^g_pPJ83)DpH:>c`)7!l9VKE=4dG]VOuB)1KA'#;T56+fQ0e$r03DZs,lVpd-r*]Zu>*U8TF>VXFCHU.nHa.;\G+Cb"*5Ai@H7b_VltNTL)')-3i?n`Ij*7&i0$')7u%o650p-1Rm>i;FLFPA-t$c<Qp/?PXp?gJ:_hF.ru?s`%UW)n[jms+Zi;R(O<7]_E\la1).%ke<S#qO$.`LW5u8QkjBS8C*IYeK[.Z%<l)[Gi"scB)R$tg#U-XM0SA-.nL1isG`%JiBJ:F8<JG(h4+op=TOGYq`INb:'"oh7*0L`YKLG?<'VIoR,*(>mnMSK^HYlZ/-CathYeVjmJIc33W;mHCJSE/mEEu,/7Te(H=>dUM&8H#PhCQ5T9Y%umj.Fh\[n<L/dYW]&/Us,&:cXZm(0@Z`,k!CPT?.e-eD)i\j)ifQhu%;+a0=fgea"IQqPT)<8PjoaZ*2JdF50!)L^&][/qW.!(Eme*E-W"d%&[a28.JGe34MB'/1YOE4JN1=WZ[iBrJU`n6LRP[Za!$HMC?t'Z<ZRp_"t+M!/[J%fN8]8g$q"e?!S#c*Z[bCku_)^'+O>`@XFiB660'DL&1pV-$?"4&WJ'?4bC^.[`1S*>N2%M_N?jCiF]cVS=lg:OiF(3"mBWOMCIj%_^m%2Q5YsRU=(TNL=9!F%0n"P%"c>G"EYiCK9lufa<XWZTS8N-a`"Fr*P+;$GUZ]V<\[([0<jcXgGj?&JM[GJ`R:#(.+Z?@\/WnGA&r[\qYOX)W`Q+KaBER2+I-AO6+ArfIjgpRA^q#Xk)@ahB*;J&KqJTMeqDZO9X>6H`f6C^#3P!ce8#/<mZ5^%ZBrt+0]Ej)Iq,<^an&g.M_kTH(e(.M$g/_'":;n@-o!P)d&9G?7I1k(kKSJR.>e1K,fR#sQQ\^!1t75F2XjE\=[/R6AE<9b!k#Ib$/)=6eX<iH\!+nu&U6RS^iNB>\54oG=Z&C[TSeB+64*`e2%DSOH`U%fH6(+'@bi3U*OA@Id7ZKWfJq4u&fPmjAU"ZI3MIK[0Wso7Z7FuViRtGM34(2h/n$_2!3(Ut#K4V-Klp#.%jYkO#0hak&d46JZ@!)odJZi-W#n\j[Z-c*Ll6!%T=3Q%>_'s^$!U+s$+t0b%0Qn97@7]S!7JM#9^Bujc#'+5Np-=PgR:(`'-$fV1.?UYQCgh4-`g^OC<Us_.Du,4m@-'#j-kJGFT36^YIX?[;^k?R[p$7`Lr:=&THt2.(+.Q0+CY$[pRp@ZYqt/U[mcL@e9,QC?m?Xc"lU:\`eS13@:i<S'_')\#VV*@9LeUuaDd@Z]-'sOTQ(fuc*/$4i\1B_+:)+B+t8(GRgDY+fp4#h:O$SIN*mI"PMf&DX[/S`23qi>Z(3U5UeLhE;3?S77q=oEnj6"],!<%7Tk4Jj4TEn7cL6'RP`Eg)71(#qisk4G68Gk:ZS[DF<90bT17<Bu1WQ@3[O4DH[JWXaT-,<k%4Wu`;*96lVT(3=qO7>i><CX07U#bcAcOq2iaU($VCZ?d)PAWJ>en>JHMH)A>el[;(LMEh75J&q]THZ?dVk^p2I8)[QY']rQD_lFpE\2i6"A]PT<%]<<rN'IfKEO57gsl$BHDB_T3&+Hg!VJ:9_@Xrj^;:<#mq(i.@en=-T"AV(#294Eu,]Npr22^6JjRGX_U<\fY8ZJ&]p&H#.0LtkhB!+1/$96iNWFb\VUC8*&82Z*0*>USEm\u15U`IV/A$=XVsplr&YaHRhZ.@&KWJkKf.c)dU6(L@(;$#*f$X$!rBe.L-bAA$QYN@VuP`R_cGd*At]3OkG&A+AkUPq5GocMK;i06/jP@?Qe_VFSAH$G=stq?ARq*GGQ\<FZ64!Jns'pAQeVM]H8$*kVjtc&fboMMEH+1bK^G`"b+`ZG+c@kh"TekA!k;@:K%[I&V-3i1gR`KOK=:`PXl!:+VkoA>3[#e_lL&cb0DWJ@i@\*B^ZhCNr7QB<\E%$rbln!_21OCr]r]uCip+;)XF`'`YloSD-&=+1Up_`s[Ya%tXih#-GEbD&,seQk'Fr&oAKn_2O9^V07UQlQ*i!Cf`e=t&i"T#O=W-BITs82J<.TWW>`Yq9acd.E5:gXkV]8-AX>0g=!,$a`-n5'3gMenhE!o2:O:=`o#_^R,m*_ej9,k]=`^uo5UaDBU`mQ;jO`3KWq%k<&"4'&$&QK_=Fq!)U5r/ro\GBDdL_;NNN`2Z&:I;9Qhea@XBrBM-GP"TQAH<?U:)Etd?p.brnh4UF-*,/R3Z$YKMu8KY[fIu=S.U-_2<HH>h"=J>mX`*`N@-i,9"UkHS$$hdYeLUTS[FoMFr`7lkI%23!"(_re`X=9RA0MFli3tc<\Kj3ZPAX+,0j+A@!e1>[kB4n.?R;[CR?J_?4'K/,Q_e8-6iS:"@PX#')ZJUXWeJ8AWTG^"@6X],*rHG"D3Uj^n-Z:@Oi+LOF9QM.g-KGPctOe&ntq+M&I5Ya9n*OW(;J\/TO6aVGr]5\BIUl,!Eo.,+e`c0kf!n!l^g'i(4fR$E;!ocYsckIpCtINWPU['keJR66MQdVeR?P8YeXY_&F+!\Us<%[%X_ci"DE20mG.,hP,TBb9QtdEej`ST`:18:LA.aR52)26.E*T`H"'*6<mnUJQrN.%e,<?iH\os8eWh_\0bu,>b;Io'@#Zr^cd(up?gPo<pESDb(k1Y5OQ+\F:0c[e*[<&"gBmkZeu5LDFXC#XgMpkBRa9ir8'>8l:$`#p8CJ#d^KRO\_WS\QOMe54D]H&mp>Q06GIjVI=Yj(#S\F7^sSP=^!QhVn\CdfI8D4G(1Q;9huCp,hS"#$1D/G8WP4Qj*NfXf/U,PP-MmU'[u=+ig*`>3ZIqIWF4[3p#8E5!bmE,DF1_P&3S**^_b<\8\0,%;HF,;A:T>(p>rGS=Q]*>_4>a$I\KA)j^'I"ZgVq-N*Mk&eT]ET.366f!U#Gk5k.$5RbTA_>=P4a:)C(P,(t>1YA?JYFHr7C8P6%&03qdBb!P3!`F[eN<h"K%Gc=,J?WK?!5+9s=e1s9KU5/V@HSlId3atP;>-Q"1!dqOP.d^70D;2Ts`&X%gn38?bs;%d5h";`N^8]3#,L2J62,cQmHg/09nJisD;=-W.6KC:1M2$3N6UeHk*q?.J#MP+TD7Q^MO2o(%XPRiWNL%"f5O9<D9GIUelIL81CAa#G8N'fU>r#K'5Al"?mb=TRq.XhuD!]?]Or"k`Vh1U5(d!Mar)#+G#L!"qLi2YahS-rTBd-4AGk)a3Yj\/!F`Gp<'XViI?9+DCPB:ssP-.,/'"#Mu36(>p44)%qLoSM?7e/')0I0&5(/=U0Q\C/JTC_ke9n/8'!AYEH"+pBne<)Z89Ta!g_6FOCRd3k06AV:N1b'B+4eF":,SLLbUd+U\D[D7`nFi,@2n%>"#TcJi+JR_XAo`Yh3!G&(-(:XIaVYd?14A`'mj\8(C4AGbuRig)DUO%@,Cn.GkpVt`+MIN.Y8`#em6fpb%3SarfHl%>Xn>Er\.#q`^)f4*oXHo\79]ZN>q0UfEO^5Ss0)s5LV-!S;kKX0irBd?(W+LKh\Y#;`OOlO.3ZgB=iLp0B]'r0hs)S_k[-[Ohi6@F)YcRe=WUt3ps&(KD>.JmV>WYnB%[Du?RE>b7pU-1X6E]rI[Wo#U4.*2mFrI!ac-[QDO*gP\+Fi3n1KSrU<VhoBqEmBW0:Mml9_Df-Z9OrW@j:kN1@n1%rOQ2-+B*\E=nkW]4&Dk<T?9AE-XOu3Y@bq\jsi#!/,LOUTA\!_B"t(SP"`QW/cDMJH*=$W>Lq[\l0hTrGAH>FAc9q$m9d3](K6_<iot++oM\A0Ik5lL:jG'`H9IaE,F<a;*^>`Y]p_^0P"\%UMnL*+*D#:aQ4nb*AREY\?HSM)94a^<AH%fg5Ee]&)c,p$e;#61I>R$knJ(oo\>h_oWU*RDIu($.TIFp#=4=]=9!u,Yk+AtkBSqkXi2r18HD^CJg&/X)hll:bS'@_"pPJ@OCDq[WosYt)IE25hC)noGn'q!=X2_adirdR(CX!o:oUcEc:\amdNRi'QitJWpEMIs7oaV^Pn!MrN<TDVWq;k<<[6j,[9'sl4p%<.komHRp@eCbtrc=o^W2dU0WP*-cYE]G:3::":osP[Lj4E1h[pF-GK>)]!XX2PZ!eGn#7BnPSA+s]<52G!XM1STL>3rP7^%M$:P2G)T7%n$Q@+Rur>mqXXRe>R/p/a_3VWsa%=eD2//VO8@+\9EXqHbLoU2S)F<BjZph_+6(UpFO^33jju2+p0qQtKZNb4d5'#@9@LUBuq<cA[)KE"ICndr*HC2I>Q8TU6.1B;L!uDiIu'.C]>!]m7hA7SRg;CX+lme"/d'eNjWR=NJ+B21e93n"f=Ze^:1=Yh[%O)6<XeSolB!!2m_p4`1Mf)E[,qIaGO@L3pQ;j`HMug8Nbro\6.P4)VT=Q9,a:7r.h2gR?\3j')CT/Qcgp11dm@Xld.L3+Fqc%Q&4qA]=V?7e?(7s0V$MC!M=dr0uN6bT$SaDs*kP)D0Iafo;u:H.H]F%Hj2IiMnVA\YmTX6/<Hf]lCeNm5N&S)^jGA--$8<0s98@21;-"):6Va\iBol?E6e9eJZ&Dc@`UY6`%q5Yqfh!;hdN9,A2);D]CEr-7jAloOa$T=%;eOh)B7/cfE?MW^#P::"mj+/XSK_B<C<<c2F[!5GL7=f%bQ%m[L@;-Hj5qhHho5VJ7_CRq"<mgbL4(B=@&rXqjNUCTLM@iAP=.B7]1B`],U3KP"!t0"@b</t/dL^>tg5*,rR>Sq"CRRI=o%enS^'4m.B)j$86I=Iq=]3?s'G3pX4E.i.coBGKgh(po7NNd4g[5aEIplB@2coG"+c<r_,OFrTt2"qGH<I]M9gju*2Xco[rYNM3U;/jf>@>]b)1'`OW(k^R[=J#iBd"m\g*gULDd93JkX[`S<`[hA5_9!s_rO(e8PSBpS]7@*uNc#dD3S8k;^juO0a4_\'g3JD+DJ8Trc"_\=obTj9;D*GH!Me%_C%Br6Ia.h%l?o<t4rgil_:XY[*9l&+a+"H>p.FP\:@:-!Y\54$CkXQ*V-8fds,X&(q?`@"BcDE3ojR"/SZW*R4Ij5`BZWMZ*;ZLP3*F<E!gc&g?HdToWg!nK*oj1dJ7PhcT.(a'PH]cD"n^OCeFL;s2,*k5mEW99#Y>eucGi>QXqJ%Y_8Kg=W2\))EX2X;+'Br:LF/39hR-s3JD-nc:M'VI$KY?p*Vs33?FT-BeI+%WT.@.[]NU7M#*?=f\']iP]aA4RZQc`-rb`<s1.i%06D"`+aHoP3[(Q\SUVLCmu09PA>'H->O8X:G2q);6WA!Q&fV#!eW]UWR$';Q:Am8U5Ne)%>g=1gF,HWX)KMT02KT!%pF;q7L3W_]md:u'nuo"@G?[,qmcljr^a0-Z8=7-.gM4KS@R(%3Ykf7.^Dp32#\U=4UdU-BNV?_9l:99Ht$<PG.V^FEjQ[.Q?cWB]"W^Wts_bSNQp]r"8*8>U6!B<FfOp6R6NBXRRSq\Q7(Nt[@_o(g$;[Dt/lqi^GZ3dma"!@U.TjSi?6mRX4YQW6l,@l82!@S]&06`Iq@@``PHdOn\XWCYB=%ogr@eC-9r`q3n#GL:9?Z`RSq7Q+WeN[1gSB1FWTp7U:J_@7IoYbQ1.QV=COE"S,r@;*.f)E+Boa$/hc$^uKEo0CZ^PjK,AkNSF4OZ"th/r@VDD;,Mgio@%aDn/u7<sP+B:s9@!K)r)4DV7sc"h5CmX`;[T2r-pY!QbXGESbW+X;Qe_FZZnV5`&$p^TNedHD'g#MZ%!.;nu$?mRX:[j>3,QSS'aO<[.+8]^SlU*QM)bIiOSWWY?Mr->ul14@6QujObQpjSbnf=B7B=$+HRZ^WSAsQ'n6ng`r62+%uD['!X.">GKSm'C%3_TM/kJ#AN^Pd=fr=+L4oWI`o&NX0M!<Z<<nti1A,)^'L/L8)nq@Z!pebJn]Xg,_&W?SoLmK+F$)B^K$F8GXmB;6/99I:M&#DQAYDc8dPq1P!<R3-[G,p0[;,A8<VRSigt8_=,OLl5a)IP,^BJb58iF`ljf1E=g+NT5HsJrU<t<Cf"bWc:nM@CJ)>DEl`'dml178](.moP`/c[-JPp@"P,Qec2!c5tm%%*n8G>@[/d=D`"hQt@'H^?h3BRfK9nBj/-Z=s#2rmk4\b_rHOa@a6Ni$P"o5gM6*_Jte1.>I`NP:Y'*6]_taWuF]itQcs_!Y'r[YTZFY%-/2b+R?;^r;5b@Mpgm^Q%@$?lf)P.eh+W/=]PCNM1j?;qFI'S$UcM\otHXc!0')BQ$,iBKbh:)1E6KZm,%d"jNeP(^Z1[S0*H)JYu$>*$Bs^=EOL1gHXjZVp35Z"mo:hp)C<j%Et;7e]>Aq`oeZ.N75F$SPH7DRHcl5`)+-i1gbo;!uC#mHebkR>\ClpcPg]bqkF-X^$h3Oh,VQglcdEOK"l1tVp=_C"?fb+Sr4nQ'H0TX,8#F=!m1SL2s?JW935flB9MmsMH98_d&h%nE_##[D*AgP%6S>#9pn4TBg[n:^LP<F`/`6SPGW7h.).=0*mLVWQO6gP26[7Q\hBE,Rn`78d)7H,TjC<%+&UQ*IO7gQi:+0Xp?+P^\U[/l>9&!_<1KuQY:!9')&h;bb67);M#mA(TVr*jb#,hZNBaQ`*uE+%Z^aFH]0u2>9P15,*RXOCU6rn%E7YZ>NS$;s<r!=pN`>Tp@)H[>GI+7h(i'UUh9HS`b%U42Lr#?Dd&):Z;$M'Daf>a5E3:s0>/-:IW(@nB9b@gsid:o(+3J/f,J`Eg-o=$]AqBiX>a]I&:P-.@p+J=J*j;%0j7+3ZPTicP"nnBQoN)q'pQbZ3:&?S5q:CL#+A$fN$88M7:t4k62s_BFD?$!$h49SL(ofM#b\s4B*UVWIr.$&R<ibC%XU3g22OQ#CBR'/M?9%,Wrnb-UN+"r=9LDa/!3+DrG89AO`S<8ggi-WdMs]8sF_ehai7WN^[BO[@l\.`hjS"u;C&]K3"rMUQK],U->n:ECEP82oK1i]S6qhkSNL;-k4(?j?D?!#)mkLrAXeREMMYpm@IAG\K<-(P-euP*:?>!aCY'BREfUkHX6oWEUmb`,)d5jM`,Y[C6^;7*0A:#E0k4RCA[Ee\Oi.0S)V8^V1T5D$7KA]Q$>_n;b&rG5@q-@*&D-+7)VBT)466,_<J\s-*M^d,Wp1V]u<0D!@T$8"Epi`>jjYT_soNUfYCZrg.6uc!dEIUi6\s!"Z1%T6%2ZRC=Bd/.%[$.C0ip#L"ia,WAOsnUs1J^359"QB@mLJs@=aGQCqH5lR,ID%p?+cCG^.f35m_=ut?\kYuKaJ[["',:L##0nh;:NJt2.;o:QMG2FR_`F,CC0"`R$f+Qmo..JSf9?E:Z\oYo6^Y@]G<m%Oi;*<oV5.m\!+aq,a#pZ/g?6OOMhe`qe.6ai@="^ik#WPO2VTnp*VE]DD(c=$rNnLSiPCVjK#9@4)/N5^AZ7+V6b>\_/%B+qqnGTI\03eSVUQ#E&G:u[O#ne.cTh8RjZUHEe"noIu9t<AEh"Bbc"Be^RVn\.RW5`/T.5;4*\odP8^.##Lqs:d.k+IH8:m;;D^6-9cWnIT`D4u\=_g[m5O\&IB!"FeB$/A>K2ji0,9.QP3K1(49!:/h;E-5WE$6.=Mb%K?Bn-2D?j[;5N1+in?@&&_J&?'Z8?XZd72JbAk+#B)dMjBB(Lsq9XhJOZ(4)no9X&eCVDXK1V_.F5'G`A"p2ca\p[j6\Xo&;Aa)J1!9\ILCFj3A5[siT@aakFHlOQ=HuKp8][i2+*n.J@I;N7n]AasaD_'qig3loEef!6<@l@P%d.3L[,SC?e^47tDTdk!4b&?D52i4):q7seTX,0+e(p5j5QXU^g?,1u?4'Ps/l@Xh<X!!.TNA"pXk`-a]UA(S9VfSj+-o,>c@-Ka5iWb6l?AAH-+<hl/QMs_)Wd$f&Sd9POP^+jOfdV,ufFEr?*Q?g96m<nF)S;Q:Y7lWU-##<]#e7VL08J*M<6>%`;n,Cg9!4du?cci>B6#B*Knfg\K6>s$"SE`Zgr9[:6,a/)ag+ugg_Cg,OVDbE5a$>ToRU]R>.doBi*md&^TU&njMZGT\\:EBG>lGV1pVe-,;85Y+%Y123SMFf5`I&WQ'aXHU4@/?.I-d=F%8?4W,*O$lY!ouURLq+\ao?6H=nMo?R(]67)"DFXp1nW@=Cer)3V'to\DA$)iE<<UH/&L^b?[T0cI`(5mpXW'`=2m_8u9<EW^r'XqJ^Ga5W0!id9^"%<WZlR(ZNtmS"r<<%?4H)\S5/K('4@\lOqN]HD1&+MO5e:MAU\mX\7*]^HWsc"A=7Gdi6rPmV$'D5Rhe.VOf%_6i*O"OL9?RaCa!V@RCWn`O/,hY*fuBA2s>*G,&QVLsui#NLA"i]?!$&*`eU7e7k^qfs?+i?WJXd%+$ZJ#3'lW=66F2k$AiZk%ds=)?]L+t89BA(<tG6$2V(lbg:k)>N^4a];n&!'GR(Qta#ijYb*V`_"WCdr+&>aKC@TOWn\fVrtL,#73(#C`@5-Ham1)+C?%#1sYLRH`!7D/XJM3e@t5*H.H[=jc*p%q&;ce2DtJ7anjH#I&bm[?M,DcQ$s?A4I\!`=q7pZQu;o6=9/t]8!'m:UoP3k`d%FWCA!8K]i(p01`#t:TeNG0':,shPP]&FE<t:FYCgS:+Hub@.XfJ2('3GQo2)T7=#TllR.OK5o6*=05?G?L(B8M.r^&I3=1.O#Z?/p!hCh<8OJKo0kqb3kSDK^5H-`B\^PXB3A]cfXhb;^,d(LY-rAW-BmBZST<-bM15V:iMV&rU05E2XDb0'HIkn[F8T9WcGeJ"AAUuiYMl9sZnA9*<k4]AbLVTM[`M(9JCC0#^MM8#A!K1rdP;YCC5)mSV)L!0c%Gt#53k&68JT1rr/UiL\&dI2,2pI+OT-$jnfqk</sfmR3erUX(]ZV9UNc$VKX\g`d<Y7^G_Z@#_!p1u;UI_,#H1A`_>k+QneK7\)"X1a]J5H&1tO2gqUbJt%c]o$f24FLEjokM'c3)b8gS%f`#--JN3WjehqYLi-%FoTQMp#\[5Wi15T<4t)SJ)Bf]/j$9!o_[(5lf4s[e\iJbljN(#nZ4p:\"PolgJ<+^KC*hbg$6NBSA7=a)$BQGdp@I(ffp)@S^C[r&l?Zpo"g4hF8uFD&HIfsok(.!_JsF'ae6FQ0Es.$]a`-DYF>G[1[rd-8Lm>CR%Irr+'"7UARhFAID@P_q#6\-E2qU(+e)fAC`ofsb3*D]?A9f$>7RUZ#uFEKJ'+^LGkTg6Hc!#683M\3nCre3I?.N(Y\QqDP\K\@]m.KFL@!j*jpc%@Z'$t@6OR^cN9Yq"*7W,pN]U>s^2.%p,$l<Dg@L%T?IGa2p8HP$<";Y<Xj]^KTONlDekCVJ@GGnLe;R>:dQjK]Y+)>0"o*b/Vopqg-]8`7(G1Eogqe@IKh\QWg)@i-%i;6Z+ahP'G8hc,CIE4J.oe8k:KNH%8i]_%a)]-t"b!3+:[,!b)OJZ]hK7!^alU9V]e>oLFOd!@)A=M%jFFfE&*jV<In'11C[QGh*%gB<'mnL;-M:cVA3c9;B/4O!Nd4!knq,8ZW]K?Uh#ZOId[98ao8]TVrUj#-?luP=:oYBPN;6kgAj_/RS-/Z;E<ZfiED7N)<(AIi\b_>KJj*MB:6oYq.k'IXboa.*B73rNiR<p:Fg>J:Q$'#V]P+7>&(RaQ^HHE0K,&U?k"k3cM-:"Z3kPiX!GPMWTbq8sDc1@9'dcY%UoKt7f&2Naj[gH[*nC3fOJhK;Y%h@UT;ak=7=.pJT$HO%-%3Ggbi\9VUj4:b?8VN![Dj)b1$H$:G+;082.s'^'M7@fp<HS#8A0#eX\\WY7$1\m`a(^]f(&:E+7:nN*#UH$EBq^f_r#-:eRYF8&:!ZUp3$3'Wqg5'/3F29<-+a#s(8`k6Pc,=!$s<,5He*p23%![Fi1b(SpA,QIV<Bp$8c>'@K=#lK.uFK1PYj^>Fu.u_eu4AY^YW]^jWraRF*m6,tF(Z<TR)ip91WCd'(4;h!n(gIa7SW-ruofjr__,mSB[.'9,.YeFk3sq[30UAc7I-qQW`V_0G7%Hj,2g,P_t"5#E^jQH_UXb<;B<4HdoNSh3'j.6O3*g_WUGPg8\kU`W.'+?bt65FO+j:$!Dt7m!,c11,;^=,&f/ba77M58L7pj\*qc(4:To>M`G]4dIT\D]#YpjoNMN,+!d-=*QQ'H7W:SQ`iQ8auu%DhA;%9NQ:c]UO/a#UZpRjAGUa4Ym6OSqIhLj-PkI+9^YV#*_I^OW/83E'O8Sc-1=X.HaDslF1L1>1;?JXmZ4C3fm*FD<P;I6s$_qH"sk#4^%(1^an208!q(P#?[f#V5F*bU)b]Wo(@R=Ip;GF@AkESHoCo!RB(dM!O(S!Fg[A,6`]\)-IPned#,TJtVe.!+6W7M:bnTk_Mu/Fo<t+uj@ca#`[_HE:<RZG)WViGlr_pB(@a0?jF'bqOqod^-@V&oOr;1O1Z"!-XHkF(W;q3$S<N/)`/3[2b4BX("g/k:<<N\Jbe"4&9kB-Z!U].Qq5GRP*((/D,HP/oKq#4aaNN2qh`I5pE]rD63Q]4MYqHi"UIOZLZAL1?CJ;Y'\F*"<?\7=,^V[hXRFB`.6JIi#V643+*&?"QS%ChdHl:\Ve?9Mqq@*rX!]WIIe.VFuWF-^8TF%n*5d'3iR('oJtHMoA+q1XTu$M08>9YEVqD[q"EG\<A_U[-1UCrGG%lh3nU+3W:8\)0,O0p.scK>b+cMN;/mCs6+CnTsLGhgY1&Q60Hmk.ommXW4e+g$\8KCF6Xi0>6`LWZ+:N,-:5.[:2c:rjqjnpiXc$@kL;OG@r:8jo"`<dd:UkP+?tQ/BOpjQI"GUY/kR-#qo!5Z95*tO&4$B8M7'e`XU"j/0qp7^u:T;*-o9fCM-)!94abfE[_6:=XPh%EI!mj<+g,H[%N%T0-mk11_cCm3g9I+b%jIurW1gaSaf:d53hqdfS:Jo_Y<3XBF6?tB>?qq'F=Qp$NodsF4/KDBNhufhX,/1ie+**S!EQ$^`R`]dIid^[qL%3`QDYb0l@h9"c\ahaQ/RtJno=P/mB(AfKY(bL`bcCVml>Y</kro!:L!.$9lae?UoHCl#gMUJGsDm4q=Z</o1@SYIh<J7m1$N!_$7dppapp[s*kDBM]`_(d,]r$_B66@`ed1d?o'=FUe%E\0;6lO&<gmfJ^L8kR8eM)"Q6_l6A,NktO$>Z[MeiRYff5%pThgD64?PkPG%0X&\*FBe[)M5-We&QM"<9mAa\@Ee1NS1#u'/nqgodC\k[[9\9iR0_g>!5uZ!q9s@9GK>qPHkNuPt?eltsh4l#s/-/6f=n^QkqQi5gfLIK2e9$e=!H+e#,NmZEh?VbQcu%"ckjD$sGb^G6?B'W!?PX4ae4M)]7DR*:DP)''M5pPnm;4Y62=L?>2Y*1^I='U%(Ace'L&i(;K]A-JaE&FW]h`CoZ^'fuku;9VihJJ#?_:.YpYA-[(p_B-7XY[M_*Fto3)(e0T#'_UBiiICm!U?^KZ^(O/Vtn0ZV4P<AKsPT$A2@l5oq4Ga:b`l=,VoOPUBIfM=@<3U-5$u1fYuH-QOg59*mGeCl`J*64;.N]J(hXTlkV`?<&RSGT@cTQiE_4T,[$AOX([1$l@PG1g23Zfs1hN`[l4uI%F+j10!1i"B@hDhVr9Jkj<'V.ub>@EV+O?#)^HD(W1-p9,po'`++DX)qj>Md992A`,6S1(,^#4CmH=[&fp0*8hh6LT-mKuG[)<b.FFs.dZA"*M"#)M4_T$&ROCrWAQHZNn^Q83jN7mQ,nY]uH*jGBiJ7m9a1`r'3t/-'bOSrXiX)ePiWc0T2eKT6?3'Bn19PGXcmBf/$X!6gXaH&,jD!%Mg&&,?pJQiF9j;`<"l!=)]EJaia0QTsF1sm#HfM7h))u,W$Ye+3_*S6h"<9Vc[Dkpjb\<TK>%;aA:f[B]0&;E,b84</:R:^Tl>^#mKr4>_Ve4GZUU@7L#iekqr1oENef+4Y_C<sDCS2c5**Nnt@<44![a#r)'HmdRFhq`m)4$Q!CT'><4DEfl=7P+Gj5J_<-t\a@b[im`,)%#RF?1*q2MKasic/;;J+YkhaPmHBje^p`muRWcN!lo&+?`Ck*#nkc(XH"8qnn;1/)?_lg'KaJ8GHcXlJ8[r9",46f?WQFI1Or*01UeL=5uc:XcTAu$cbh\;=9IiZc`]1QZ\L:V0o1%.YYeZh9B:rs.[7P(MqdAUT*gT-5*oS+0msUN>oeN`P$OR*&cq<d"6&hSalQRXX9G-?b1[7ReKCfnp%G74[m(;.R'1pO-h9(_e<8_+;hODJA@]:baC@oR<4r*cPlO/2#fK'`][ta7uJg8nc<iGmf`s`IPB_hdn"OU=jACTolrLs,;gB]%nlCPk3cdH/Z\T5D4Gbi\7_\DD,NkcHlcuY>&+;:Lo(&8p^V44elcG+FSe*5/M)8JbQ=15"i>6^/#"%q3h6G+CR&]E>sbe(5^o-B-*c)23Da*S@G1KTSdJVP%Q>qDF$9ubiEgW9&DA@CV(fs(-\F<(Tr%7Njj*Fs9rH)CNmR*&QKL;5B+[eW+bcA:_`SK^CT4GS-0UKS1CUbkUq9i[5rg3fHf>M^M8GaGOO/<49Q3X2.(9U`TnBFc!gH;"_:@V446+N1HjP-u,Y/MY`UJ,DcgnN-"OoUZftkWlr3."VX`L1Z.+2$tFfKrSY_dNVT/IWq3;o$e#6=>/iV]r_IL.i(huf=+<R'cs3U:p&FD\\YN<OJbBk/,NZoij@J7@;"e!qbuE1e2Qi!<D?K2jgbN$>V:qP)YFW1gJ4pc/aXIEa`TX?@at^X)L4bF0DtCGL?\HiHq#:BZ*`\i3T04u_8hQ\rZV/,8U=TFO3,=L9g?Kt!3c)2eub+im[.M,"m$\JT_"1bsXc[^.L;WdRJVoH_P%m>=nT5W^[$[H8M(2;0c$PsJM^1ZT%$UO><k7'*pP/5*6=/WeI/ZQ3^i16Hh9^^reI>8VH0P-Z?)[^8CsGZGNhWZ\!]-!-`j]UXgHZ$M#=;]@MB1bV&ZAYWF:+Tki!"C9!hm#"Xj1>H=QUKIL+gY3GmQ"HFJ6+B"=)6b"]H#kZPSo%ag]CYUXmCT:p^'PA&<Hm;:bujr]6$#XSkC[0ZFTsE<GlaKUXoY05C\kWkER1P%%H(Bi^1\a)be&jUG%8o.(@:18LSjsCi0`+U?I=duC[^CYcc"9ce;Ulm@.CPGs44npghrYURWmn7Z&R@]J.MfC6IH:]i[ou<VJ&ro6ij8%8+5pkcZ0X.]8AEm7q6P-79db;+t8.?ZE3Td+YoU0!G$YuMc+O@F9g0t%4dE^/Cd>-7<h-%Erf3i(_pa#T36o&rrj.qGS-neHpGhTJs%8:72]qd9s1gZN5W![`]1#.[YWgCC?7W>S%ObMh@RSXk?j>:\h.SG*Y+`@e_*uL1SU4ZNWOPYdYU>cj"Sj2Ebp]li"WSK,XIQ06+AqHGd^fQgoGo/c?TAlirrr/lX.$q`sNSQpp5sonX;=FUM/q%?f*hD$K/7OK,nMJ7*N2T@`c:M/QaF[0B^rGce:p0!'o[@J(AM]H*'*)3GeuYHHc6Q.Bba:0rHN;=r?H-s6H03raOWYU[9)reLI%`+\%,DSn5`Y@+O3'Y1qJ8h?&R;FflH4/)b1Y1bURGhI`'@1,7S3Y&!6`$4fmBk<M(.=^foR*$'2^NuhZQ*UkH1R[Bm9<lWY>"sMf6"(n[Qe2esNTHf+XW#plXI/!b4kjHF!N+=q2;[J#,ioqb1OCC6T(QT**64T?dqK2iUmdX%]m=t0@pPW7V7>Yo7@fM.ZQCYXs(6RgVdBHT>*%KO9E/VeVcS]g%AS=n;SW1#VaV86am8;u:I.:UI3op%+[d$fZ[L'VJ\ml_`n"/%"E:-"?s1q&mCi@llreKh&f>H<.B.$KF!(TuHma.8P[QsTGhZc4<L"SS(2;pX\NjGi.!u5<.W#r"'h_WKGo=6HDj9b3#oD$BPC->f5L^c`tZtWsnNXh,u,F@e$0$8tV734!1.M57(p5_]&1s(E_8#ju.K.6SsRAJA;^a*7ha?2ltU%M-_:`180T9eN)FnaG,#Htrk*?M)aCtt#[i-Zg`n';s@6n[ITQ69C7-9E0F!Io+;;OK1un.@R7]iUf9L'G`[N_pZT8F&B480Yr\Bs['L[nB+&k>*ZpXi+.sp`F*1D1S>`o.56BWnrr_]OSGrICkN(NT7T5AGX*To6u&!L*lE6>E,sa$b.+"q[9;2f$Uk8@]h]K!Y>C8GLtV:3X*s-Ns6B94Bo1^o2SU;NJ5A1E6JQ%jtXb9Cf^T"BU9uS>8IYkSkb+\T3FD<',p\?EQbHm'XRRF6aW[JZc:oJg@U4:nW>-1L^mF\83BK`;-)=:$*^2oMt%qlCWt<p&As-i!$>e*8h5E0cZQZi?^F*U^bMS-DS"nWM3jkr\P*bA!N66+$;XtsqghBZXsr+u!.YH)Z6'Z]FoX>hWaao]i"I]oQXM"/ZC(h-DUH,YILZ6;=]FmIZN$<@;Z7gBdQ5FRhak]S/sTbABrC6E")e()At;4oZOcaoGj&'qI7CEdg8ue/`FHf.j`;bDQ4HM([ln\"7XR%.IF^\_b!V.EX8=\63]giun4mcEJF7k_W'$/:?5c1SrRM>oqT'qJ=(M&=QrV)"h6n15$m?>2=Q00%1^PqoR@0eKeUB6,V^>mAO2<Lu(#%WpZBN>f*];A+[h816mn@#a]4!70-[6;m<*C'6n-Vgk)f.niF2>V9-['23HT]I/4&@ILVI1W@4M44[;fTG7#'8CMbUIM)qqpB#<Q/*U(7sbUY>]Xq\O'_WLZsPsefYTt/BOQ+D`0VsBe;YA)mFQgC@XRu1mSF"_\C'?ip*Yb_XEA9G8e<>G5J(B5Gm2UX6+-6*AG0*\he/tZhZ:Wr+S8\I`t&eLdRIkCmee%!DX!3&d'HYAD-aZC)h(K%f-*Pq>Bt%=_BBk]n[:+LhNg+GV%*1,2*;D$t`'>cZB.#9>p"S&0/%1'&[In@.4bcCWS]MHYt/oaI<[#[oapsd0LZIfbJ/*m\)r*X=CmA/Ur5Xc\B'<U>7.N++]IcSt-c\p)sOt#f6=u15T;U&Al4U4M(Yb1tt0B#]3k]g4?/@/a..<oBq:7--&,1iGN?f'Y3RiJ6\?+L8X]2-4qsp,EK^Gh'uj*Mns;elLUqQ',((C$'qu0l11YHK4OnHREU;Kb3sEI^\Z2RDL3AY&-n2LKPASF9N[8d_k.;45g)hX\%Ur-Nu#o'9-h4j;joF$`VsA-;[Ui_>T1giZ:iU@0)/,d$[;\L39O+I46ITc=cuOU#TkNCF?S:<H%eOZ&K`br>p*sMhmR:T@FGZJBrhlfA^sobeFM:L9B?ScF6ag2).l;LSMP4d<>HNhSanG'V?f<+L4degqUSVimru)7F%tZ*7gU^U>AT#WmNG]k'L^nET<d)V8JG1_Gup.*eC`mQ32CI='&QB]hhEe(\.[O;N<HPcM1S?:H@">tV,$2ORs+nd"js2P8p7h3=Y&(EY2#@mj#::tRCN7@e-2%2M3V"S0=9!FAO,"-/6XOgH=\Fi'jsrNl([m*?Cj0"0kfiLO*]<N*qcI%4mGn*HIS]2or(ADl;<Uge>")XW(0#9;3-%QUE9*,7m6-7O*]<N*qcI%4mGn*HIS]2or(ADl;<Uge>")XW(0#9;3-%QUE9*,7m6]u9E,eZr$8o~>
+endstream
+endobj
+15 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceGray
+/Decode [ 0 1 ]
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 87
+/Subtype /Image
+/Type /XObject
+/Width 264
+/Length 7316
+>>
+stream
+Gb"/)#>gXVdiJh-AAj9:(GHgYT&EA1%M9C2Ad&8d"p>&3"VYN6&.&^/M1U7+$7lRd"@^7^-NXn`#ndB**0`!g^R9<&9n7P4hd?'T=1(h$`Ish3B6q.9H?p>,!<`s!!!*365QCff&3p3r";!fu!<`s!!!3(Y&=^CMldcg"jTb&kUqU6!cL2,W/srP"GM[oTe&IF_jn("fkj.Nul"Z*[)b0-1/7,Em=A'X"AUdpcVmg@=bi)f5ndCcJl00/b-H!`.6saZVL@*`Teur7:7Z,YEX1_D<&$jc?4Q$d,,tjO@kl)dM_ee1mV+^IQQYI'1Y6@0V`[Lg*$_emEW6t\%Eiu@)e_AL"gt^]=g<rq;H[6`>pu'Uh([IYB8Lo+kL1kfp(KNHT'BPgQ"WUi1^CX+RM`AmcHoAF;]r)[@]<egec$-c<mT>jrlK[a&BQ*q%K0S8He^M]Nh,35%)KuR=SCQZ=/(T3/M7:'!CrFU:5RpjtrQsIePN]T.WtFA_>,l]qd?'?RDHoe3B,Iq"mJVdOF`CEu,dB#cSp]_#W(Xn0s&UA<-aHm3SDZ6T>6t3%@Mj*KpH&o+oHP4>M7_KVf%&>1ZXriJ-0fNeQ,m<'>#EHYU*4)+P!_F&lfSAG.@E*S_0SLDT0D1:Mp.l?b[=Hc'bu-FC*X`KMFpK)IO`(-_4K5HO5(=-$\,lc)5W2DCNc37he.,JGhJTojM_>npWq1FSO;qAILKbl*-tp.:RNqMr[RXL9_ickm(/"rN3OW[`>WZ>at-XLqS6OoG".e]hpk+oF-j_Kpq\Gc2qQB)gY,A&hTn:)L.eg;84@UdQn_2H0As8o,F,Oo1po/qZ2MT8#i98#%.?,l?7;te)"G'$9,F)1Z`3lYj87\VL1;YPRS!%^%+B[ma+VrtmSHng[r*GU2&i3Ih=.?S'oj9<25b.53Uitjf,YdphbcnnhBP&I+h'MuTE8?Wl_E=6VnYrUc^;iM\cl-=gu%lS76-Df-i[*uqVSmQqa-Z`8*<_i54fODh07-iO,&_*gl<:oOa_[K3HWY?(M/U"[$Obs%7Ahe&%f#=dY]$]1=&47P157.@]$4djEaMb3;W-f"$H;=n%9a;MG&b(`OWS`8;C+tQ[_o6Y`&ra*3/N6B7b]>nlFFfKYU(U$ZBP7^s`dn+g!qG\S-IfCqFr'l.6e/jr/Q3A(k^;(M0+U3L%OG"'4GU64QG/oA_=j;N.841_@Vg.#72^LggasP;3=Ibfq^j&""2Phmm7;%MM!Fp=HFN4qu9%S!+&?BPmF8N!_qA_I@d"G^.NIRE71<+5o#nCpk/\>%Tsl+[.gUVuuQ6jhU.qC$YQFfn"AAbJhkZWt1ojdnI[mD]dPc&u,<UMNu:OU%>@;E@mK/!<@UWb"k%u3\7B\r:<PA\3hc_KnXpN5WskDdUiK`%X[65JLojNe&or:f3Lbt'+Z!+pT"e2r-i\ETXQrERL[^k8]i30bsC"A/(&n?!Lr14>qe,CdtP>?-2=\_!*^FWe>u+!ISJi%`!c8>"K^AJ#X16c@Lr@`"BCKA:VN:JGN'7lR106jJ]0)FgpMUWnOm:>TA+YBQ/apu7rl+maZ`.hiBi_5Hi%BqF-FH6%mm^LqbiM3fT%QI*AdhW5XPB3Gfm+>'`e12L+%6A,$."IfZECM+(n>0"CUEgOt-cb!#>(Y`M>IUmqf%!gG^$3P5ak28H*mm>d*3k,X8k)#9d.XjF5p2Nh4Y>BeOV"dH<LV-\pPT27<=+lKLcKQdg"kIAOqo_g$4^@oZrK#N#B;-*TMer>X'>O;t3p$sTl/jF0bT%l`>eh+%so4E?O)B(OufrDl#ZBZdIRHVtt_iQV:Uo$Xk7':W!NIIVjE!M1*o0h&T5+9fT]YpB2^jcE0^0:ec13n+!eXu7:eS\&j:nSU@eLt_><?MRD-5_4kmHcu>1c_2eH<1^AO,o\d+k+7_ofYG\?YrUIg2"8Y.f'lGhY]O8&0!<B=Ldt[^i<7\R_7B`k6-]l45CfHHfPk*pC.3</?6>o<^7"SHMaZ(%)p9CO"X[OGOOIQEJ/Vs7MV/Hp24r#T\!!$=bM5_nYebZm\WG:7o875GaTrBj(D:mUpg-cVabMmB4&.X1B4?Bg0$c"[hW@H)PIh1cO.fWpmirNUZ,=*&j.uCMIG3MDJ&Ye7KU?4eQH.jZ0tqI]+p6UU/YK-4@-G)q[e4TX+$#:lMs9*`F,@>S-CVLuE=Yji&,eK^7GFC'4<N"]a.m6b2Y)MT,Xqp@La2cX1fVq],tU7SiU2g5,)WpSqQ2T#5Prm?$i?POc7M]C&RRJ"($jLH$_1R)E'6^0<V#sRHr_jfHD#<PGp.:8Q^COk@32ElrhKt3ELKq;rDX9.<5)#DhG67>buaaIZm7T?H[9p]?8`Zf<6&+Q?Z8'djQ4H/<*OLlq+k?^^ME$+/_8kVgIYGK(XBY&>0sdl<h8i(Fh)b].$"GQ9NepH_>R.O+7F:%S#/dOrVG;Jm]I?Z>dS)b#%C'iDAV-a>n8FU;N8),^YnD>EGdXH)pNjb#1f][]KFbok3ID'fKZbB(W,f_aJ":5!j1`b>=Vg[WCcam6iL/Ns$+GV`ZIbP,BGlk!7aVNJ^rq*4BfhoqU:UT/;In6clAsdXK&-]7RL0Y77DV59gr3EVQ?MlWhLn+;GhFuJuX^6.SW?'@C3]F-tT7&$M*`p8kM^u8kLoLAHaAK73r[K)GOM.7T39:K2e)#'NJ-V!u2Q>R[TCk&l"poXIohh.#q2Y:f^RoJPD5b2I9ZV>tnU16]It;U8e9mTVeD;DQF`cN`K%WJ@#Z@UIU;A;HH:mC,Bg?ED"q\`R#>WKtGFB(Z9;`qfj\0I%O'j_5e/GN]$2UNFfXB5$$1`Pnh19V&tWeo5epZ96,+E5NHEfk'\X-XfAEQ.EkG7oiGaKl<c2NV.A]MAu6lPjl^9R^4)XL0!CqHUo4QZb",<TPFV2%.jmDA2)XJi>&$\#S+MYu[qW%;-`(?aUo#C`V.O:OjV/CFjlI6lQWMd=^s<aDaNsbQTqK',WiEMAZEgLCi-k=2XS7!cmkV4jEmU%C5?E4^/\0+dE@!::<"<cJZCF@@fYQ%2g'OodLF428ofS:)$k)hR\";0Z*kmAXk9rXHg"#nXH`XU+P"CcGHrtLM6/R"b%IENLHQa:-*UG!uCDpj>Mi3'E"JTWAGEHM,[ZeE-Q1jej1ef@-,f=Q)OJo80^>.OT*a@NnA%OBTl0sE:b?&P"9MR8t0\UG?s309,`am\5S!_3S""TqKgV,Fd]9RMfWspdgo4LX1>Od!6[B%mu+&,Em^@t3G7C<$)<NFa+1Q-%:7b^8p]5+TQK\(CSA=m+7FK`?fq;"W3(C_dklDe<\D-k!FfUM_]V`]%#OrSX$b1#bF?C1GS1$Ug6jIJH$d+Zs=IsoA+AZOWO1j=)KP.6r5mIE%n,][g8-mo^g6[*mkIJdosPllo=SrX]"P.(f?;#Y$bdF,089P5ZEmI<1%,*92)$VX*t!,AZY@kcq7#X%%r`9(3Te`j0tH^XrUHWKjk-[=p.?d?Y+KhRfEOCY8jC#a8[SJ]U/knji4cb=b&-i$79X2n<UJGE&:h6C.9]kbt)f?r-bhJ4Jj6]/`;-K"ID)S5rcL$rt,rti825H7iqZ/`bT26j/e-,9^D40-C24fk6bESUM^PO`3<FIqHe\IZR(JY@qDL\WT9_8A6UJ`>tX'4n>4mK0.29Qb>R)?OgsR>ZmN^h"+ObpPZGj]V[ZT;Wbc#&-aWTW5[&qHi\LRB1TOLK`?Qc[GjS=!*_a9P:W)-B("S0gaS#l?^u]TG)L-13CBXMe`^]*(j?m'Jpeh#@!M!R+(+YLqM9iQPL6VXh5b-2MOtkV%&mWhp(H!0m(pQ-b>J=)Ha]C'4fnWEgVUP;bars''DV%:P:.-\UUj+Mq@RR)smd3_)^jUrQZ<FWoi@.N9F)[c[)H;IC3lQfGSBa=r%O!)Y.VqYc(rPGY&=K&#,t4*<M*K7t@^5c(X_!mNKc/;ShXol;N5EpX!l`nPps;hHJ>MU$Z'o`\82NFV2g6cK83O^p;$ke>7_O2+@mDSBQ@;#A?,6!lP&>%b$S_.V_8PU89R#a*nfS0ICb?b\s8@:OVT4\LK]=C>=1k`sPjgN2D79oPU3[_3^3sM/7MJ#K0BqEUZs)n(tZ"8kd@Bos\>-H]=rU&_O`[C/i9_*jkgG(RgLg$T8<\Q5/+H!_&`Ip6YB$AI5ERRnD@CGClE$0"d^'C?2JSlML.Ir7^#C:jURmY7[#D8*i-,#p8uq?"kh&r8lPmn?G@91;'uZIc"orFn"DK/3A_T;WVILH)F/:7E=c&4/=A`/*u\7TRGHEq+GpIp(@7O[aW$^0ONOe+N=c1q=NGmK1GdVl@@PG0!Y/JJiS#2aU*;0Cd0ZiCe0:>dfc7(49.tph\SZ3?(;oNhYn9jbLritTFok4ng&oZ*u]Pj5CSMSP6bGBe(tt6c.0:aa0i36hAkEj])0j,W[DG2Rl_i8Qn;m@meOP%"lArsF!>G'B%8gS#?]h2mqIY@GIP;aqnj_H\"-7^mi:2p__rX6U$\8#?S/<%cMDMP$^[WN,n772:3I.HYF=lCi0`*8lDf,V`QZ9cqO?1QGG"5V!e9f'`TbZ\?C(gumb*(653qq$h'QdkQG:"IDL.gMN\9Nkq:"`kms\=JAN5uTEPn3]N^)1J)Y'"3r0609c]Ru!JTguV_pc_TEY':ArB#[TkJRqJni6>7S\LaZBMpZOl2.<eIB[9lApVV#B92)J,K&aXd17<fa2UP(UE;[I&/5'l3\$<7N/ELMN/3@JNK.U++!s*Z7PU[1]Qb40LgVt_mK_V[UGEbZYcnBm4H^c*J/*B484Zj-31V*_VpiO$o^Jf7d>W#K,9f5a[=j4Lf$M&'_BNIL';$Vk5E&Bcro1o'K_S%J@q$K*,fISR7E7QK:J=AT:5B1N8&W/58pZp#..VVTgtX%6o)jlDj"@p?d@;_t:&3p\jIko<:PoT#g"[jKUno?UW">\t'WSY[<Erdf6D[R.@M0<JK7lZ^KLJ9X@T'M[i`%Yb,U"<W6)@1E_#'R^0L]XdKd',(K1!U',pgJQ+=GQ&YR?F'-+F;?MFiU2$&_V*W1kIMEA@5+pd[X*-kpY-0rc(\K!_nLKK'._;^nFb,/TG@KVYD'<CBAK<(pP%6@pC6.h)8^d)^ife==>/`Gf_\'DV-E]skC@LZm71g\u>*?`*iq%%\QWlAHQ:W;^*\I@KipEU&5>e&'T1Fo>+Mn1Og-G,3HACJFn=PLP0Mjo*k(BSa5IDf0;5a_0AaE-d$HcEGI]\eB>GGq+o[#bp4gGE-c<'@-md"LuYU@%#?S4(1Wj7[sks$Fm@+S]DAs)0j=haDusHAROFjhj_?oI_N;h&'0;.NWDFsrjVe-IBRuYX<hrfiqg^n,2s8Fl.<'"+pPngD?^=$[2D*Xq0p]XgUDfe!WiIB#Mm(CD<%c\pOhnDOiR?2hg9Pa2gKFd>R3tTnDSf@Btg<!-`FSJ$o#hBDaSed]0&j3%<>ouk^L@ZL#^>s.,M)_!_,;lZGO?*&>_'!GC`%-;.K/"i.;SeV-D&uD#OjFn#I=nPm%,N@)]'q,mE(MDg0SDF?*J#\:rD_aO#We:&HX&Z*GuS(\P'e?1>VJX9;LI9k:Q=&oT)T'>T,0+/6gSM*YX9Q#"3[Ud2/5mBoP[aFHRV6jl*.-]@!LY,e?<d#&2hJ<=BL;/V+l=-^S\-TJmW)-5`B0HgXk8's<=*JY'1dnL1n7^%#qZ#8u9T&*dX,_8-OdslZ*kNi0+1ST@S'kh6SR3\E/]O$/B<NlabHQmCJPTOX_c2470F*&AFpP1<Fr!Fb`:W:`N@^#uTlFcul"Ho^8;$+;Pr0WG8?"#f-lt4K9-M!Eb=4nAu.J0dpGo<M>N0,+:Y6Dh\a<Bs6@E/`IU0G&0!%Xj_ER;_VTLYkkimp0S#R^N;C&p"-.8_NA7gntHTkP)>N@B0jBK?Q\d@Hr`*FAVc?+diJ4Qcc;igD$W9`CVKR9h4%b:jqC[Pq;p,mO=_2<qe_J>WK\bf5/Kf&&r.+sRE=4-]?bMWNbZPc/Ce08Aps"1`a]26rBQ9s>JJdD1YR3/$Yf1%ZCDDJ8)0RLY+S7%'b.h68^t&XKF[eu^[^ZunPIJ>Ge=+&K7BBHP\!\q=B;,4;R^i35h3]FE!pEeklG'HGM_(<)]r!q_f+'-2tub5QdVgOUKLj.?)@,sd'\`>L7YU@\r!+^@%gX9,[q`#A#tF=1@$%n.NKcn;D^`]ZV2rp*KNE)d%fOQLY0UL1m_H:IBn$I;?B"`!XU=R4+gNaa?/qdo^p\.ZLE9)O<u]!q<qg4MA*^s5R91l;J]3H>,kruriGrF_`6C1)uX^%8Sf6h$bfK86E7b&Fb6@(Y'Illt<u80^.e?Bn\u!rpk96lP\$b/":A:*<l&M:_0V/&3=(a_Bu5;IC")\tA^Pl.)i19/J%%Y#Apis5gm)7mSW*Ns2@Z&K\4%T*E6;U$d\<+,%r_5JkqUBNq\1pffu5"qndOCh*H6%Mp:*&+=:o-q`ju7&Ub6#BZ6U>`.XY\cF&JAG2r+@o<g,6ukun*:e"Y/<O7<iFbDB%ZT8q1jpX)p?R1KQn$@"S"uR51^n=nY7!Y9g]9PHn[oc1rcZ?p<>__udp%ltMT+*CRpnVoRppP&GJNho%r.i@B`,d!UJn&][[rraD^UW.lh+<[EeHX3JF]/S5*;k=*:-M\a`M!Z"p7k]&G6OAF_tY*%Jr/EFjUh:<f8p[n!\$LR[-)e/M'T(LQ^:j"BD2N"T[QQ*)68p8#-Y(hWMpNkg9+AqmuI00M9sJmq(m1Kb/Gt8#l"h.5RLbChb6DTtR.=^IJL'@M!j7)Km&!g7ljqJ0RSiSrpcf>0Tg5-^,(^$](j4G/E:X`9.H81-c)dTjfg"/*KFsbA$b5n\k$8D^mo10]SM7!t(08Nl1%6aB>=";*=<_?j\qFRSWjF?Vnn*>C>pL?sHkm:MR>9,X1.Fd1l*O#L'oH9cc=^`PEK*NI3.Sh885WL]pj(s+!'UY[?cL)@;JV?pWB,,?nc868;u#%Qa8IU@Vj?8)uc7`W.^J2!SR46.5WVr@HIl_:R&$7sO:8kJ"b>;k7Q=e'RR^RZIF=7l[1cPB@:XmP<U:IUM?)<SFhZ0>'DD0\C`rals>Z'k;62/Ym=J?t7*'-_7XAOJS3K>fGcPG4rAFfWQ`E/$3ZiD!]`Y_jfVcXcHTP2`k\bDII+Q0+3N<ZTMd/RJ7MKrZN4rLODRX/in9[\\4cud@J%5+@[ri['R5F-:+e\^Ose)V<f-VreTr-$WI&;K)brY+FjFn#U"Wt!XKp!!!3EKJ,fWV+FjIl>Pn_3]K;2~>
+endstream
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/XObject <<
+/FormXob.e85fa36b59e2cdbf071e5c543a4fd0bb 18 0 R
+>>
+/Font <<
+/F1 20 0 R
+/F1-0 21 0 R
+/F2 22 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 3247
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+2.2 w
+n 34 34 527.2756 773.8898 re S
+.8 w
+n 40 40 515.2756 761.8898 re S
+q
+170 0 0 56 212.6378 706.8898 cm
+/FormXob.e85fa36b59e2cdbf071e5c543a4fd0bb Do
+Q
+BT /F2 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 139.2918 681.8898 Tm (SCHOOL OF COMPUTER SCIENCE AND ENGINEERING) Tj T* ET
+0 0 0 rg
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 121.2478 664.8898 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY, BHILAI, CHHATTISGARH) Tj T* ET
+0 0 0 rg
+BT /F2 24 Tf 28.8 TL ET
+.419608 .184314 .878431 rg
+BT 1 0 0 1 218.3058 606.8898 Tm (CERTIFICATE) Tj T* ET
+0 0 0 rg
+.419608 .184314 .878431 RG
+1.2 w
+n 227.6378 596.8898 m 367.6378 596.8898 l S
+0 0 0 RG
+q
+1 0 0 1 72 396.8898 cm
+q
+BT 1 0 0 1 0 148 Tm 3.523963 Tw 20 TL /F1 12 Tf 0 0 0 rg (This is to certify that the Project Interim Report entitled ) Tj /F2 12 Tf ("Pharmacy Inventory) Tj T* 0 Tw 1.548359 Tw (System \(Using Java, HashMap, BST, Sorting, Linked List and File Handling\)") Tj /F1 12 Tf  T* 0 Tw 3.312359 Tw (\(PS No. 61, RU-200-01-00029\), submitted for the course ) Tj /F2 12 Tf (Data Structures and) Tj T* 0 Tw .906738 Tw (Algorithms \(DSA\)) Tj /F1 12 Tf (, is a bonafide record of the work carried out by ) Tj /F2 12 Tf (Priyani Pandey) Tj /F1 12 Tf  T* 0 Tw -0.020701 Tw (\(ERP ID: ) Tj /F2 12 Tf (RU-25-11037) Tj /F1 12 Tf (\), a student of Bachelor of Technology in Computer Science &) Tj T* 0 Tw 3.381732 Tw (Engineering with Artificial Intelligence and Machine Learning in association with) Tj T* 0 Tw 1.896399 Tw (Google, School of Computer Science and Engineering, Rungta International Skills) Tj T* 0 Tw (University, Bhilai, Chhattisgarh, during the session ) Tj /F2 12 Tf (2026-27) Tj /F1 12 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72 302.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 68 Tm /F1 12 Tf 20 TL 1.792542 Tw (The work was carried out under my guidance and supervision. To the best of my) Tj T* 0 Tw 2.699353 Tw (knowledge, the work reported in this interim report is original and has not been) Tj T* 0 Tw -0.161744 Tw (submitted to any other institution or university for the award of any degree, diploma or) Tj T* 0 Tw (certificate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72 268.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8 Tm /F1 12 Tf 20 TL (I wish the student success in the completion of the final project.) Tj T* ET
+Q
+Q
+BT /F1 11 Tf 13.2 TL ET
+n 72 215 m 232 215 l S
+n 363.2756 215 m 523.2756 215 l S
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 72 199 Tm (Mr. Surya Mani Verma) Tj T* ET
+BT 1 0 0 1 423.6486 199 Tm (Head of the School) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 72 184 Tm (Technical Trainer \(Project Guide\)) Tj T* ET
+BT 1 0 0 1 320.9556 184 Tm (School of Computer Science and Engineering) Tj T* ET
+BT 1 0 0 1 72 169 Tm (School of Computer Science and Engineering) Tj T* ET
+BT 1 0 0 1 360.4456 169 Tm (Rungta International Skills University) Tj T* ET
+BT 1 0 0 1 72 154 Tm (Rungta International Skills University) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 72 110 Tm (Date: ____________________) Tj T* ET
+BT 1 0 0 1 72 90 Tm (Place: Bhilai, Chhattisgarh) Tj T* ET
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 284.1717 33.5 Tm
+(Page 2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+18 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 87
+/SMask 19 0 R
+/Subtype /Image
+/Type /XObject
+/Width 264
+/Length 18951
+>>
+stream
+Gb"/LLR0"2\S($Zh:4N@b,NjK,%2L2JAmmhN!$L[k$\p6OhieB-A*?@/20q/&>2-AR[e"90Rater^ZkA>MZ'Bd3LmQ]Pl-\n(cBi]=R:Y%H$VI2\AH=HIS]2or(ADl;<Uge>")XW(0#9;3-%QUE9*,7m6-7O*]<N*qcI%4mGn*HIS]2or(ADl;<Uge>")XW(0#9;3-%QUE9*,7m6-7O*]<N*qcI%4mGn*2Be5+./^XJPMGBqMp?_#k8O)2q0bp3OPOAajUmARn^O"Q;WQ!X>Ge6oUWJ#+e#SD6EC6jSE7L;))ZB9bpeN5s,%Q7\6s*<\-lT[_i'^0M)-NWIB&1AmcK1dp8.$Oc$4P7e$r&??@-J'3QfgnGTR!-f=_`T`!XIl:&dr:5)298s;40jAhMC)%JKs*8QibqS&kg@e+jm@ZiG"O;)Nt>ej@*_n3ZdHCXWoq@QO"'b,>p(mKQWtIK_a&'/5$9N+j6g#%*iT:0dOSt"Op.G=QkM414tl*H1X)W8MfS\,`O'7Ql+>QPf1tr<ajui)A3F7,8h9)Gsp@a0>fs#L]FtO*s$:FLIs[N!?lH9^hi!*s/u\X.l0SX7ib%X-LD(&RNcGk?K$M2okI3EKeQ("*["f"&kT=$Qm\5WDtm()'T!1u(DN"B:pAuS+eF6\NaYM$-NuMJW\Pbq/h@<V_IN(q$[Yea5XKS2rDHPoV[<8jY_0P#1<JQ(BppAO!PYi*L(-H\P1XK"n.eb?l?m*79#4;hU_m>J)TaUpm4+l2\Npj1>]-j:7AjB)<g&P'bMX)s]Ni:i^!%8'R)IunWI0M%_YOlNOs3>r?etb^#jTApVi,YP!C2[O*9pBeJfc6c1+\L?S0fNDCFN!)&\'J2Q4YPY'S_9\JPZp7^b?JU`=APq@qC#uE5`_)%UCT9LkMZt%ehFT>srN6$n9?Z2_l58Lu5]MR%7k$(jJ>404COXW$PD9_R^1A+\dO;/-oZt6\8hsNb-nO9f3'J.*EeuUhE@cKkJ[M@?<k>:,72O'UN,%A-mu;<jHl#HC-oYW:*o0/AlH9F<;o<:lILbJ"@9!+bEqq4:K(3faW9e`"'h-W;UBF6%VQX"20Fg5OP9ppWkXrTJ-^AAn\3_d]P.n8#;b2AVVc(LdcL,+[oU4ab`VYO\`3?9TpFM&f207L*Qi,'"Et3H_ALi:XCXAb,?CQ$5s_d9h)Xpf^S2=&&;TK&/mCEG;[>X%B1b3-NQCR_g!fV;]Ls4.sVQ^6BVmMd3+hh1a&hnEM5d3oI.[eo)pO3?&/jufl&DSJXhNJ&qUiciK"gGOm"Y3N_kOP/;?A\KFdY/C(ZD@3W*c2@Z_'5T&?:Lb;JGII,PYY]isKNV7S^EB"$VqOiY6L"AXWm$Cjd'!',c;KO&sq1<9ga40;!R!%:=p"^mn*,.Kas^nCOb,FK`<=nk9FH>au$VfMTpVS-'[O8?[)fDX?E5&n52*9W.DJ*OP93p?/;h0RDS?It/7\bq)Jgcaooc]cId19&!TP2*,J!:6_9A/:6fL*VSrMui_X:dJidikU);OHTR2p*8K>lr2gX(><cG@\o5BpgiV;c`/f'-ZT>ji.<.a3J-<T^kYD8KR.I@mZpiVl[E4t2T,d2P05Ru,9=^CJ0:/EUS'B.kmNXA9%R'rCse?V8HNl>[P26SA#L.:6s*%a1Q+ThTs,l>8<MQ+Bq\j<Qf"+@f[O(_eLHG*8H!M;T$Zc$SC0j\47Jtd/4O)W`NW0#RV'Br!&"L<,?-Fa7cl=*R_U:X7sM1..A$K=0(H9LqPnB@[N!7D@n8P6C=YX=4575c8@QY;`i)r\[3>?U<di3_a3FIJiJhXPV!3q>S/J4ZOOkigDpkR[]?Po4n\/nuQVLkZ:g6dO.l'5n7]E*Cd\(A01`3;iO`UXTV(8-(s5Ig.$\SnMmc[td,EEbBG]<*Gd&$fOTb0mYG/=jm#\5@g\0(eg<2eA,%ur&Q/Aq]M[coYhJRpWP#*)c(cH)LY6>.]Z"[bWhf75!iFrb(s^Gq<3T]9(GT3>P/F=0FRr+=?.Y=29uG`8N3i[AVjn_uu`>X?Z#bUFeLFp2bP>ZleKiWt#'/@X^&r1h>m8N/!W"4b8.dhjd_A*(j$4W"W[nO>2I1hI\diJP?ODpS3<.Bbr"2C9Gog9+6+resjL2SHG7He.g)m,hj'K's(BIAC\>QF&<8k&@1+[iNSW5'Pd@/E7>EHqQ3',8F!..sM^g>@iY3KSSthM0'"7W$!?C8h'\i'`t>EO>b-d5lYX3>+paS9E9\JN!Bi4(WCG@GfT_SR0k:C,,tpk@#A@[-0WS_$TT!A%LqVgkYDuSikf_j(h8[T6G?"BK*=\/"+*iOp:qij+tGnn!KWd]66^AZ+Ke7O\(FNaR)EI;S-<>Z'#VQ[%8'9se2;$i`aS8]lXB!PF?4NY,Kdtc!IuDW"lBMX6cb,#D@T3sY#gFa`Zd2Gg#4LZFeb9HPn`A8XE&643Dq;$g%M0%/XYsXj3RM:R-T_,hJB5Ql*tB>qP"p&=l+i!9q![[p^W*^Sq]nlV!\57-4C,E[-5!]FSkP"p8m\R%GIRh0]k2eea*s(F2A:pRau?/oWEEi0:^Vr4A!Nr2T?<.5XYc"+sMbP^S^s_$#kF]>7u^Y,alUE)^on2r'6BD'FK3k;=%Bm+_o*F'43bkZ:*%YZ4ID'o<%%>MFdr2GCb1fPGg-9"dpba'e(1a+Fj]__L/uN(d`bIO:ruILaSrpAlZ4+_F,MX_+;b.$7r.'/RXfe[,sCX7,]P^_P>HX:D)DR'TL<RRL>l^3"_Vai.-l`&pDb2n@,0$"*#-V0+nQtQ[obeM8p)DZa/X#h2T:&&>>fB-s?@L9X?h#rAGf_T9PC>eM5+3pY<ljp4ZkGF1lS2pi>,tKkBpuWANf8Mlo9S=L4#HD7_Tc*,jF$+i0Kof/qaT4(_W6Q-4+.ZGW8TdaCpYg?7SWOJ.`gp987l]?'E/G2$DBJVjJF1)KS2<id:Cf+0b)^G`.;-rf:m:n[t5#crXV=_+7WR0p)UfaSRUR.Y0jj8K-bJVPi`_T!HG_Z_(7.+DkB+\0=J#@.F\,8t?*Z)=i^>=.Il:_Z`aoYkRMJ:agA$YTSW8+?nO?j/<EY!R]7;)Mlf?sj[&@93SWi/]R`dm5^FPh(QHi4:?G`5uE-,?`ho'Jb[s$l@j;9e$Q1jYLlXTbqmPLr9;28Jbn#`02Ap-]7(0IDMVaL/ZPU5"Gk]1GRrNH;gkf%0?iX=cBtJ,n:_HJ;@psR4rd!"X%:.Z=b2%hX`*g'+ba&\-RQb,!*6<h%1eE[PMgS1\LSVcauE.q1^0]N^g_pPJ83)DpH:>c`)7!l9VKE=4dG]VOuB)1KA'#;T56+fQ0e$r03DZs,lVpd-r*]Zu>*U8TF>VXFCHU.nHa.;\G+Cb"*5Ai@H7b_VltNTL)')-3i?n`Ij*7&i0$')7u%o650p-1Rm>i;FLFPA-t$c<Qp/?PXp?gJ:_hF.ru?s`%UW)n[jms+Zi;R(O<7]_E\la1).%ke<S#qO$.`LW5u8QkjBS8C*IYeK[.Z%<l)[Gi"scB)R$tg#U-XM0SA-.nL1isG`%JiBJ:F8<JG(h4+op=TOGYq`INb:'"oh7*0L`YKLG?<'VIoR,*(>mnMSK^HYlZ/-CathYeVjmJIc33W;mHCJSE/mEEu,/7Te(H=>dUM&8H#PhCQ5T9Y%umj.Fh\[n<L/dYW]&/Us,&:cXZm(0@Z`,k!CPT?.e-eD)i\j)ifQhu%;+a0=fgea"IQqPT)<8PjoaZ*2JdF50!)L^&][/qW.!(Eme*E-W"d%&[a28.JGe34MB'/1YOE4JN1=WZ[iBrJU`n6LRP[Za!$HMC?t'Z<ZRp_"t+M!/[J%fN8]8g$q"e?!S#c*Z[bCku_)^'+O>`@XFiB660'DL&1pV-$?"4&WJ'?4bC^.[`1S*>N2%M_N?jCiF]cVS=lg:OiF(3"mBWOMCIj%_^m%2Q5YsRU=(TNL=9!F%0n"P%"c>G"EYiCK9lufa<XWZTS8N-a`"Fr*P+;$GUZ]V<\[([0<jcXgGj?&JM[GJ`R:#(.+Z?@\/WnGA&r[\qYOX)W`Q+KaBER2+I-AO6+ArfIjgpRA^q#Xk)@ahB*;J&KqJTMeqDZO9X>6H`f6C^#3P!ce8#/<mZ5^%ZBrt+0]Ej)Iq,<^an&g.M_kTH(e(.M$g/_'":;n@-o!P)d&9G?7I1k(kKSJR.>e1K,fR#sQQ\^!1t75F2XjE\=[/R6AE<9b!k#Ib$/)=6eX<iH\!+nu&U6RS^iNB>\54oG=Z&C[TSeB+64*`e2%DSOH`U%fH6(+'@bi3U*OA@Id7ZKWfJq4u&fPmjAU"ZI3MIK[0Wso7Z7FuViRtGM34(2h/n$_2!3(Ut#K4V-Klp#.%jYkO#0hak&d46JZ@!)odJZi-W#n\j[Z-c*Ll6!%T=3Q%>_'s^$!U+s$+t0b%0Qn97@7]S!7JM#9^Bujc#'+5Np-=PgR:(`'-$fV1.?UYQCgh4-`g^OC<Us_.Du,4m@-'#j-kJGFT36^YIX?[;^k?R[p$7`Lr:=&THt2.(+.Q0+CY$[pRp@ZYqt/U[mcL@e9,QC?m?Xc"lU:\`eS13@:i<S'_')\#VV*@9LeUuaDd@Z]-'sOTQ(fuc*/$4i\1B_+:)+B+t8(GRgDY+fp4#h:O$SIN*mI"PMf&DX[/S`23qi>Z(3U5UeLhE;3?S77q=oEnj6"],!<%7Tk4Jj4TEn7cL6'RP`Eg)71(#qisk4G68Gk:ZS[DF<90bT17<Bu1WQ@3[O4DH[JWXaT-,<k%4Wu`;*96lVT(3=qO7>i><CX07U#bcAcOq2iaU($VCZ?d)PAWJ>en>JHMH)A>el[;(LMEh75J&q]THZ?dVk^p2I8)[QY']rQD_lFpE\2i6"A]PT<%]<<rN'IfKEO57gsl$BHDB_T3&+Hg!VJ:9_@Xrj^;:<#mq(i.@en=-T"AV(#294Eu,]Npr22^6JjRGX_U<\fY8ZJ&]p&H#.0LtkhB!+1/$96iNWFb\VUC8*&82Z*0*>USEm\u15U`IV/A$=XVsplr&YaHRhZ.@&KWJkKf.c)dU6(L@(;$#*f$X$!rBe.L-bAA$QYN@VuP`R_cGd*At]3OkG&A+AkUPq5GocMK;i06/jP@?Qe_VFSAH$G=stq?ARq*GGQ\<FZ64!Jns'pAQeVM]H8$*kVjtc&fboMMEH+1bK^G`"b+`ZG+c@kh"TekA!k;@:K%[I&V-3i1gR`KOK=:`PXl!:+VkoA>3[#e_lL&cb0DWJ@i@\*B^ZhCNr7QB<\E%$rbln!_21OCr]r]uCip+;)XF`'`YloSD-&=+1Up_`s[Ya%tXih#-GEbD&,seQk'Fr&oAKn_2O9^V07UQlQ*i!Cf`e=t&i"T#O=W-BITs82J<.TWW>`Yq9acd.E5:gXkV]8-AX>0g=!,$a`-n5'3gMenhE!o2:O:=`o#_^R,m*_ej9,k]=`^uo5UaDBU`mQ;jO`3KWq%k<&"4'&$&QK_=Fq!)U5r/ro\GBDdL_;NNN`2Z&:I;9Qhea@XBrBM-GP"TQAH<?U:)Etd?p.brnh4UF-*,/R3Z$YKMu8KY[fIu=S.U-_2<HH>h"=J>mX`*`N@-i,9"UkHS$$hdYeLUTS[FoMFr`7lkI%23!"(_re`X=9RA0MFli3tc<\Kj3ZPAX+,0j+A@!e1>[kB4n.?R;[CR?J_?4'K/,Q_e8-6iS:"@PX#')ZJUXWeJ8AWTG^"@6X],*rHG"D3Uj^n-Z:@Oi+LOF9QM.g-KGPctOe&ntq+M&I5Ya9n*OW(;J\/TO6aVGr]5\BIUl,!Eo.,+e`c0kf!n!l^g'i(4fR$E;!ocYsckIpCtINWPU['keJR66MQdVeR?P8YeXY_&F+!\Us<%[%X_ci"DE20mG.,hP,TBb9QtdEej`ST`:18:LA.aR52)26.E*T`H"'*6<mnUJQrN.%e,<?iH\os8eWh_\0bu,>b;Io'@#Zr^cd(up?gPo<pESDb(k1Y5OQ+\F:0c[e*[<&"gBmkZeu5LDFXC#XgMpkBRa9ir8'>8l:$`#p8CJ#d^KRO\_WS\QOMe54D]H&mp>Q06GIjVI=Yj(#S\F7^sSP=^!QhVn\CdfI8D4G(1Q;9huCp,hS"#$1D/G8WP4Qj*NfXf/U,PP-MmU'[u=+ig*`>3ZIqIWF4[3p#8E5!bmE,DF1_P&3S**^_b<\8\0,%;HF,;A:T>(p>rGS=Q]*>_4>a$I\KA)j^'I"ZgVq-N*Mk&eT]ET.366f!U#Gk5k.$5RbTA_>=P4a:)C(P,(t>1YA?JYFHr7C8P6%&03qdBb!P3!`F[eN<h"K%Gc=,J?WK?!5+9s=e1s9KU5/V@HSlId3atP;>-Q"1!dqOP.d^70D;2Ts`&X%gn38?bs;%d5h";`N^8]3#,L2J62,cQmHg/09nJisD;=-W.6KC:1M2$3N6UeHk*q?.J#MP+TD7Q^MO2o(%XPRiWNL%"f5O9<D9GIUelIL81CAa#G8N'fU>r#K'5Al"?mb=TRq.XhuD!]?]Or"k`Vh1U5(d!Mar)#+G#L!"qLi2YahS-rTBd-4AGk)a3Yj\/!F`Gp<'XViI?9+DCPB:ssP-.,/'"#Mu36(>p44)%qLoSM?7e/')0I0&5(/=U0Q\C/JTC_ke9n/8'!AYEH"+pBne<)Z89Ta!g_6FOCRd3k06AV:N1b'B+4eF":,SLLbUd+U\D[D7`nFi,@2n%>"#TcJi+JR_XAo`Yh3!G&(-(:XIaVYd?14A`'mj\8(C4AGbuRig)DUO%@,Cn.GkpVt`+MIN.Y8`#em6fpb%3SarfHl%>Xn>Er\.#q`^)f4*oXHo\79]ZN>q0UfEO^5Ss0)s5LV-!S;kKX0irBd?(W+LKh\Y#;`OOlO.3ZgB=iLp0B]'r0hs)S_k[-[Ohi6@F)YcRe=WUt3ps&(KD>.JmV>WYnB%[Du?RE>b7pU-1X6E]rI[Wo#U4.*2mFrI!ac-[QDO*gP\+Fi3n1KSrU<VhoBqEmBW0:Mml9_Df-Z9OrW@j:kN1@n1%rOQ2-+B*\E=nkW]4&Dk<T?9AE-XOu3Y@bq\jsi#!/,LOUTA\!_B"t(SP"`QW/cDMJH*=$W>Lq[\l0hTrGAH>FAc9q$m9d3](K6_<iot++oM\A0Ik5lL:jG'`H9IaE,F<a;*^>`Y]p_^0P"\%UMnL*+*D#:aQ4nb*AREY\?HSM)94a^<AH%fg5Ee]&)c,p$e;#61I>R$knJ(oo\>h_oWU*RDIu($.TIFp#=4=]=9!u,Yk+AtkBSqkXi2r18HD^CJg&/X)hll:bS'@_"pPJ@OCDq[WosYt)IE25hC)noGn'q!=X2_adirdR(CX!o:oUcEc:\amdNRi'QitJWpEMIs7oaV^Pn!MrN<TDVWq;k<<[6j,[9'sl4p%<.komHRp@eCbtrc=o^W2dU0WP*-cYE]G:3::":osP[Lj4E1h[pF-GK>)]!XX2PZ!eGn#7BnPSA+s]<52G!XM1STL>3rP7^%M$:P2G)T7%n$Q@+Rur>mqXXRe>R/p/a_3VWsa%=eD2//VO8@+\9EXqHbLoU2S)F<BjZph_+6(UpFO^33jju2+p0qQtKZNb4d5'#@9@LUBuq<cA[)KE"ICndr*HC2I>Q8TU6.1B;L!uDiIu'.C]>!]m7hA7SRg;CX+lme"/d'eNjWR=NJ+B21e93n"f=Ze^:1=Yh[%O)6<XeSolB!!2m_p4`1Mf)E[,qIaGO@L3pQ;j`HMug8Nbro\6.P4)VT=Q9,a:7r.h2gR?\3j')CT/Qcgp11dm@Xld.L3+Fqc%Q&4qA]=V?7e?(7s0V$MC!M=dr0uN6bT$SaDs*kP)D0Iafo;u:H.H]F%Hj2IiMnVA\YmTX6/<Hf]lCeNm5N&S)^jGA--$8<0s98@21;-"):6Va\iBol?E6e9eJZ&Dc@`UY6`%q5Yqfh!;hdN9,A2);D]CEr-7jAloOa$T=%;eOh)B7/cfE?MW^#P::"mj+/XSK_B<C<<c2F[!5GL7=f%bQ%m[L@;-Hj5qhHho5VJ7_CRq"<mgbL4(B=@&rXqjNUCTLM@iAP=.B7]1B`],U3KP"!t0"@b</t/dL^>tg5*,rR>Sq"CRRI=o%enS^'4m.B)j$86I=Iq=]3?s'G3pX4E.i.coBGKgh(po7NNd4g[5aEIplB@2coG"+c<r_,OFrTt2"qGH<I]M9gju*2Xco[rYNM3U;/jf>@>]b)1'`OW(k^R[=J#iBd"m\g*gULDd93JkX[`S<`[hA5_9!s_rO(e8PSBpS]7@*uNc#dD3S8k;^juO0a4_\'g3JD+DJ8Trc"_\=obTj9;D*GH!Me%_C%Br6Ia.h%l?o<t4rgil_:XY[*9l&+a+"H>p.FP\:@:-!Y\54$CkXQ*V-8fds,X&(q?`@"BcDE3ojR"/SZW*R4Ij5`BZWMZ*;ZLP3*F<E!gc&g?HdToWg!nK*oj1dJ7PhcT.(a'PH]cD"n^OCeFL;s2,*k5mEW99#Y>eucGi>QXqJ%Y_8Kg=W2\))EX2X;+'Br:LF/39hR-s3JD-nc:M'VI$KY?p*Vs33?FT-BeI+%WT.@.[]NU7M#*?=f\']iP]aA4RZQc`-rb`<s1.i%06D"`+aHoP3[(Q\SUVLCmu09PA>'H->O8X:G2q);6WA!Q&fV#!eW]UWR$';Q:Am8U5Ne)%>g=1gF,HWX)KMT02KT!%pF;q7L3W_]md:u'nuo"@G?[,qmcljr^a0-Z8=7-.gM4KS@R(%3Ykf7.^Dp32#\U=4UdU-BNV?_9l:99Ht$<PG.V^FEjQ[.Q?cWB]"W^Wts_bSNQp]r"8*8>U6!B<FfOp6R6NBXRRSq\Q7(Nt[@_o(g$;[Dt/lqi^GZ3dma"!@U.TjSi?6mRX4YQW6l,@l82!@S]&06`Iq@@``PHdOn\XWCYB=%ogr@eC-9r`q3n#GL:9?Z`RSq7Q+WeN[1gSB1FWTp7U:J_@7IoYbQ1.QV=COE"S,r@;*.f)E+Boa$/hc$^uKEo0CZ^PjK,AkNSF4OZ"th/r@VDD;,Mgio@%aDn/u7<sP+B:s9@!K)r)4DV7sc"h5CmX`;[T2r-pY!QbXGESbW+X;Qe_FZZnV5`&$p^TNedHD'g#MZ%!.;nu$?mRX:[j>3,QSS'aO<[.+8]^SlU*QM)bIiOSWWY?Mr->ul14@6QujObQpjSbnf=B7B=$+HRZ^WSAsQ'n6ng`r62+%uD['!X.">GKSm'C%3_TM/kJ#AN^Pd=fr=+L4oWI`o&NX0M!<Z<<nti1A,)^'L/L8)nq@Z!pebJn]Xg,_&W?SoLmK+F$)B^K$F8GXmB;6/99I:M&#DQAYDc8dPq1P!<R3-[G,p0[;,A8<VRSigt8_=,OLl5a)IP,^BJb58iF`ljf1E=g+NT5HsJrU<t<Cf"bWc:nM@CJ)>DEl`'dml178](.moP`/c[-JPp@"P,Qec2!c5tm%%*n8G>@[/d=D`"hQt@'H^?h3BRfK9nBj/-Z=s#2rmk4\b_rHOa@a6Ni$P"o5gM6*_Jte1.>I`NP:Y'*6]_taWuF]itQcs_!Y'r[YTZFY%-/2b+R?;^r;5b@Mpgm^Q%@$?lf)P.eh+W/=]PCNM1j?;qFI'S$UcM\otHXc!0')BQ$,iBKbh:)1E6KZm,%d"jNeP(^Z1[S0*H)JYu$>*$Bs^=EOL1gHXjZVp35Z"mo:hp)C<j%Et;7e]>Aq`oeZ.N75F$SPH7DRHcl5`)+-i1gbo;!uC#mHebkR>\ClpcPg]bqkF-X^$h3Oh,VQglcdEOK"l1tVp=_C"?fb+Sr4nQ'H0TX,8#F=!m1SL2s?JW935flB9MmsMH98_d&h%nE_##[D*AgP%6S>#9pn4TBg[n:^LP<F`/`6SPGW7h.).=0*mLVWQO6gP26[7Q\hBE,Rn`78d)7H,TjC<%+&UQ*IO7gQi:+0Xp?+P^\U[/l>9&!_<1KuQY:!9')&h;bb67);M#mA(TVr*jb#,hZNBaQ`*uE+%Z^aFH]0u2>9P15,*RXOCU6rn%E7YZ>NS$;s<r!=pN`>Tp@)H[>GI+7h(i'UUh9HS`b%U42Lr#?Dd&):Z;$M'Daf>a5E3:s0>/-:IW(@nB9b@gsid:o(+3J/f,J`Eg-o=$]AqBiX>a]I&:P-.@p+J=J*j;%0j7+3ZPTicP"nnBQoN)q'pQbZ3:&?S5q:CL#+A$fN$88M7:t4k62s_BFD?$!$h49SL(ofM#b\s4B*UVWIr.$&R<ibC%XU3g22OQ#CBR'/M?9%,Wrnb-UN+"r=9LDa/!3+DrG89AO`S<8ggi-WdMs]8sF_ehai7WN^[BO[@l\.`hjS"u;C&]K3"rMUQK],U->n:ECEP82oK1i]S6qhkSNL;-k4(?j?D?!#)mkLrAXeREMMYpm@IAG\K<-(P-euP*:?>!aCY'BREfUkHX6oWEUmb`,)d5jM`,Y[C6^;7*0A:#E0k4RCA[Ee\Oi.0S)V8^V1T5D$7KA]Q$>_n;b&rG5@q-@*&D-+7)VBT)466,_<J\s-*M^d,Wp1V]u<0D!@T$8"Epi`>jjYT_soNUfYCZrg.6uc!dEIUi6\s!"Z1%T6%2ZRC=Bd/.%[$.C0ip#L"ia,WAOsnUs1J^359"QB@mLJs@=aGQCqH5lR,ID%p?+cCG^.f35m_=ut?\kYuKaJ[["',:L##0nh;:NJt2.;o:QMG2FR_`F,CC0"`R$f+Qmo..JSf9?E:Z\oYo6^Y@]G<m%Oi;*<oV5.m\!+aq,a#pZ/g?6OOMhe`qe.6ai@="^ik#WPO2VTnp*VE]DD(c=$rNnLSiPCVjK#9@4)/N5^AZ7+V6b>\_/%B+qqnGTI\03eSVUQ#E&G:u[O#ne.cTh8RjZUHEe"noIu9t<AEh"Bbc"Be^RVn\.RW5`/T.5;4*\odP8^.##Lqs:d.k+IH8:m;;D^6-9cWnIT`D4u\=_g[m5O\&IB!"FeB$/A>K2ji0,9.QP3K1(49!:/h;E-5WE$6.=Mb%K?Bn-2D?j[;5N1+in?@&&_J&?'Z8?XZd72JbAk+#B)dMjBB(Lsq9XhJOZ(4)no9X&eCVDXK1V_.F5'G`A"p2ca\p[j6\Xo&;Aa)J1!9\ILCFj3A5[siT@aakFHlOQ=HuKp8][i2+*n.J@I;N7n]AasaD_'qig3loEef!6<@l@P%d.3L[,SC?e^47tDTdk!4b&?D52i4):q7seTX,0+e(p5j5QXU^g?,1u?4'Ps/l@Xh<X!!.TNA"pXk`-a]UA(S9VfSj+-o,>c@-Ka5iWb6l?AAH-+<hl/QMs_)Wd$f&Sd9POP^+jOfdV,ufFEr?*Q?g96m<nF)S;Q:Y7lWU-##<]#e7VL08J*M<6>%`;n,Cg9!4du?cci>B6#B*Knfg\K6>s$"SE`Zgr9[:6,a/)ag+ugg_Cg,OVDbE5a$>ToRU]R>.doBi*md&^TU&njMZGT\\:EBG>lGV1pVe-,;85Y+%Y123SMFf5`I&WQ'aXHU4@/?.I-d=F%8?4W,*O$lY!ouURLq+\ao?6H=nMo?R(]67)"DFXp1nW@=Cer)3V'to\DA$)iE<<UH/&L^b?[T0cI`(5mpXW'`=2m_8u9<EW^r'XqJ^Ga5W0!id9^"%<WZlR(ZNtmS"r<<%?4H)\S5/K('4@\lOqN]HD1&+MO5e:MAU\mX\7*]^HWsc"A=7Gdi6rPmV$'D5Rhe.VOf%_6i*O"OL9?RaCa!V@RCWn`O/,hY*fuBA2s>*G,&QVLsui#NLA"i]?!$&*`eU7e7k^qfs?+i?WJXd%+$ZJ#3'lW=66F2k$AiZk%ds=)?]L+t89BA(<tG6$2V(lbg:k)>N^4a];n&!'GR(Qta#ijYb*V`_"WCdr+&>aKC@TOWn\fVrtL,#73(#C`@5-Ham1)+C?%#1sYLRH`!7D/XJM3e@t5*H.H[=jc*p%q&;ce2DtJ7anjH#I&bm[?M,DcQ$s?A4I\!`=q7pZQu;o6=9/t]8!'m:UoP3k`d%FWCA!8K]i(p01`#t:TeNG0':,shPP]&FE<t:FYCgS:+Hub@.XfJ2('3GQo2)T7=#TllR.OK5o6*=05?G?L(B8M.r^&I3=1.O#Z?/p!hCh<8OJKo0kqb3kSDK^5H-`B\^PXB3A]cfXhb;^,d(LY-rAW-BmBZST<-bM15V:iMV&rU05E2XDb0'HIkn[F8T9WcGeJ"AAUuiYMl9sZnA9*<k4]AbLVTM[`M(9JCC0#^MM8#A!K1rdP;YCC5)mSV)L!0c%Gt#53k&68JT1rr/UiL\&dI2,2pI+OT-$jnfqk</sfmR3erUX(]ZV9UNc$VKX\g`d<Y7^G_Z@#_!p1u;UI_,#H1A`_>k+QneK7\)"X1a]J5H&1tO2gqUbJt%c]o$f24FLEjokM'c3)b8gS%f`#--JN3WjehqYLi-%FoTQMp#\[5Wi15T<4t)SJ)Bf]/j$9!o_[(5lf4s[e\iJbljN(#nZ4p:\"PolgJ<+^KC*hbg$6NBSA7=a)$BQGdp@I(ffp)@S^C[r&l?Zpo"g4hF8uFD&HIfsok(.!_JsF'ae6FQ0Es.$]a`-DYF>G[1[rd-8Lm>CR%Irr+'"7UARhFAID@P_q#6\-E2qU(+e)fAC`ofsb3*D]?A9f$>7RUZ#uFEKJ'+^LGkTg6Hc!#683M\3nCre3I?.N(Y\QqDP\K\@]m.KFL@!j*jpc%@Z'$t@6OR^cN9Yq"*7W,pN]U>s^2.%p,$l<Dg@L%T?IGa2p8HP$<";Y<Xj]^KTONlDekCVJ@GGnLe;R>:dQjK]Y+)>0"o*b/Vopqg-]8`7(G1Eogqe@IKh\QWg)@i-%i;6Z+ahP'G8hc,CIE4J.oe8k:KNH%8i]_%a)]-t"b!3+:[,!b)OJZ]hK7!^alU9V]e>oLFOd!@)A=M%jFFfE&*jV<In'11C[QGh*%gB<'mnL;-M:cVA3c9;B/4O!Nd4!knq,8ZW]K?Uh#ZOId[98ao8]TVrUj#-?luP=:oYBPN;6kgAj_/RS-/Z;E<ZfiED7N)<(AIi\b_>KJj*MB:6oYq.k'IXboa.*B73rNiR<p:Fg>J:Q$'#V]P+7>&(RaQ^HHE0K,&U?k"k3cM-:"Z3kPiX!GPMWTbq8sDc1@9'dcY%UoKt7f&2Naj[gH[*nC3fOJhK;Y%h@UT;ak=7=.pJT$HO%-%3Ggbi\9VUj4:b?8VN![Dj)b1$H$:G+;082.s'^'M7@fp<HS#8A0#eX\\WY7$1\m`a(^]f(&:E+7:nN*#UH$EBq^f_r#-:eRYF8&:!ZUp3$3'Wqg5'/3F29<-+a#s(8`k6Pc,=!$s<,5He*p23%![Fi1b(SpA,QIV<Bp$8c>'@K=#lK.uFK1PYj^>Fu.u_eu4AY^YW]^jWraRF*m6,tF(Z<TR)ip91WCd'(4;h!n(gIa7SW-ruofjr__,mSB[.'9,.YeFk3sq[30UAc7I-qQW`V_0G7%Hj,2g,P_t"5#E^jQH_UXb<;B<4HdoNSh3'j.6O3*g_WUGPg8\kU`W.'+?bt65FO+j:$!Dt7m!,c11,;^=,&f/ba77M58L7pj\*qc(4:To>M`G]4dIT\D]#YpjoNMN,+!d-=*QQ'H7W:SQ`iQ8auu%DhA;%9NQ:c]UO/a#UZpRjAGUa4Ym6OSqIhLj-PkI+9^YV#*_I^OW/83E'O8Sc-1=X.HaDslF1L1>1;?JXmZ4C3fm*FD<P;I6s$_qH"sk#4^%(1^an208!q(P#?[f#V5F*bU)b]Wo(@R=Ip;GF@AkESHoCo!RB(dM!O(S!Fg[A,6`]\)-IPned#,TJtVe.!+6W7M:bnTk_Mu/Fo<t+uj@ca#`[_HE:<RZG)WViGlr_pB(@a0?jF'bqOqod^-@V&oOr;1O1Z"!-XHkF(W;q3$S<N/)`/3[2b4BX("g/k:<<N\Jbe"4&9kB-Z!U].Qq5GRP*((/D,HP/oKq#4aaNN2qh`I5pE]rD63Q]4MYqHi"UIOZLZAL1?CJ;Y'\F*"<?\7=,^V[hXRFB`.6JIi#V643+*&?"QS%ChdHl:\Ve?9Mqq@*rX!]WIIe.VFuWF-^8TF%n*5d'3iR('oJtHMoA+q1XTu$M08>9YEVqD[q"EG\<A_U[-1UCrGG%lh3nU+3W:8\)0,O0p.scK>b+cMN;/mCs6+CnTsLGhgY1&Q60Hmk.ommXW4e+g$\8KCF6Xi0>6`LWZ+:N,-:5.[:2c:rjqjnpiXc$@kL;OG@r:8jo"`<dd:UkP+?tQ/BOpjQI"GUY/kR-#qo!5Z95*tO&4$B8M7'e`XU"j/0qp7^u:T;*-o9fCM-)!94abfE[_6:=XPh%EI!mj<+g,H[%N%T0-mk11_cCm3g9I+b%jIurW1gaSaf:d53hqdfS:Jo_Y<3XBF6?tB>?qq'F=Qp$NodsF4/KDBNhufhX,/1ie+**S!EQ$^`R`]dIid^[qL%3`QDYb0l@h9"c\ahaQ/RtJno=P/mB(AfKY(bL`bcCVml>Y</kro!:L!.$9lae?UoHCl#gMUJGsDm4q=Z</o1@SYIh<J7m1$N!_$7dppapp[s*kDBM]`_(d,]r$_B66@`ed1d?o'=FUe%E\0;6lO&<gmfJ^L8kR8eM)"Q6_l6A,NktO$>Z[MeiRYff5%pThgD64?PkPG%0X&\*FBe[)M5-We&QM"<9mAa\@Ee1NS1#u'/nqgodC\k[[9\9iR0_g>!5uZ!q9s@9GK>qPHkNuPt?eltsh4l#s/-/6f=n^QkqQi5gfLIK2e9$e=!H+e#,NmZEh?VbQcu%"ckjD$sGb^G6?B'W!?PX4ae4M)]7DR*:DP)''M5pPnm;4Y62=L?>2Y*1^I='U%(Ace'L&i(;K]A-JaE&FW]h`CoZ^'fuku;9VihJJ#?_:.YpYA-[(p_B-7XY[M_*Fto3)(e0T#'_UBiiICm!U?^KZ^(O/Vtn0ZV4P<AKsPT$A2@l5oq4Ga:b`l=,VoOPUBIfM=@<3U-5$u1fYuH-QOg59*mGeCl`J*64;.N]J(hXTlkV`?<&RSGT@cTQiE_4T,[$AOX([1$l@PG1g23Zfs1hN`[l4uI%F+j10!1i"B@hDhVr9Jkj<'V.ub>@EV+O?#)^HD(W1-p9,po'`++DX)qj>Md992A`,6S1(,^#4CmH=[&fp0*8hh6LT-mKuG[)<b.FFs.dZA"*M"#)M4_T$&ROCrWAQHZNn^Q83jN7mQ,nY]uH*jGBiJ7m9a1`r'3t/-'bOSrXiX)ePiWc0T2eKT6?3'Bn19PGXcmBf/$X!6gXaH&,jD!%Mg&&,?pJQiF9j;`<"l!=)]EJaia0QTsF1sm#HfM7h))u,W$Ye+3_*S6h"<9Vc[Dkpjb\<TK>%;aA:f[B]0&;E,b84</:R:^Tl>^#mKr4>_Ve4GZUU@7L#iekqr1oENef+4Y_C<sDCS2c5**Nnt@<44![a#r)'HmdRFhq`m)4$Q!CT'><4DEfl=7P+Gj5J_<-t\a@b[im`,)%#RF?1*q2MKasic/;;J+YkhaPmHBje^p`muRWcN!lo&+?`Ck*#nkc(XH"8qnn;1/)?_lg'KaJ8GHcXlJ8[r9",46f?WQFI1Or*01UeL=5uc:XcTAu$cbh\;=9IiZc`]1QZ\L:V0o1%.YYeZh9B:rs.[7P(MqdAUT*gT-5*oS+0msUN>oeN`P$OR*&cq<d"6&hSalQRXX9G-?b1[7ReKCfnp%G74[m(;.R'1pO-h9(_e<8_+;hODJA@]:baC@oR<4r*cPlO/2#fK'`][ta7uJg8nc<iGmf`s`IPB_hdn"OU=jACTolrLs,;gB]%nlCPk3cdH/Z\T5D4Gbi\7_\DD,NkcHlcuY>&+;:Lo(&8p^V44elcG+FSe*5/M)8JbQ=15"i>6^/#"%q3h6G+CR&]E>sbe(5^o-B-*c)23Da*S@G1KTSdJVP%Q>qDF$9ubiEgW9&DA@CV(fs(-\F<(Tr%7Njj*Fs9rH)CNmR*&QKL;5B+[eW+bcA:_`SK^CT4GS-0UKS1CUbkUq9i[5rg3fHf>M^M8GaGOO/<49Q3X2.(9U`TnBFc!gH;"_:@V446+N1HjP-u,Y/MY`UJ,DcgnN-"OoUZftkWlr3."VX`L1Z.+2$tFfKrSY_dNVT/IWq3;o$e#6=>/iV]r_IL.i(huf=+<R'cs3U:p&FD\\YN<OJbBk/,NZoij@J7@;"e!qbuE1e2Qi!<D?K2jgbN$>V:qP)YFW1gJ4pc/aXIEa`TX?@at^X)L4bF0DtCGL?\HiHq#:BZ*`\i3T04u_8hQ\rZV/,8U=TFO3,=L9g?Kt!3c)2eub+im[.M,"m$\JT_"1bsXc[^.L;WdRJVoH_P%m>=nT5W^[$[H8M(2;0c$PsJM^1ZT%$UO><k7'*pP/5*6=/WeI/ZQ3^i16Hh9^^reI>8VH0P-Z?)[^8CsGZGNhWZ\!]-!-`j]UXgHZ$M#=;]@MB1bV&ZAYWF:+Tki!"C9!hm#"Xj1>H=QUKIL+gY3GmQ"HFJ6+B"=)6b"]H#kZPSo%ag]CYUXmCT:p^'PA&<Hm;:bujr]6$#XSkC[0ZFTsE<GlaKUXoY05C\kWkER1P%%H(Bi^1\a)be&jUG%8o.(@:18LSjsCi0`+U?I=duC[^CYcc"9ce;Ulm@.CPGs44npghrYURWmn7Z&R@]J.MfC6IH:]i[ou<VJ&ro6ij8%8+5pkcZ0X.]8AEm7q6P-79db;+t8.?ZE3Td+YoU0!G$YuMc+O@F9g0t%4dE^/Cd>-7<h-%Erf3i(_pa#T36o&rrj.qGS-neHpGhTJs%8:72]qd9s1gZN5W![`]1#.[YWgCC?7W>S%ObMh@RSXk?j>:\h.SG*Y+`@e_*uL1SU4ZNWOPYdYU>cj"Sj2Ebp]li"WSK,XIQ06+AqHGd^fQgoGo/c?TAlirrr/lX.$q`sNSQpp5sonX;=FUM/q%?f*hD$K/7OK,nMJ7*N2T@`c:M/QaF[0B^rGce:p0!'o[@J(AM]H*'*)3GeuYHHc6Q.Bba:0rHN;=r?H-s6H03raOWYU[9)reLI%`+\%,DSn5`Y@+O3'Y1qJ8h?&R;FflH4/)b1Y1bURGhI`'@1,7S3Y&!6`$4fmBk<M(.=^foR*$'2^NuhZQ*UkH1R[Bm9<lWY>"sMf6"(n[Qe2esNTHf+XW#plXI/!b4kjHF!N+=q2;[J#,ioqb1OCC6T(QT**64T?dqK2iUmdX%]m=t0@pPW7V7>Yo7@fM.ZQCYXs(6RgVdBHT>*%KO9E/VeVcS]g%AS=n;SW1#VaV86am8;u:I.:UI3op%+[d$fZ[L'VJ\ml_`n"/%"E:-"?s1q&mCi@llreKh&f>H<.B.$KF!(TuHma.8P[QsTGhZc4<L"SS(2;pX\NjGi.!u5<.W#r"'h_WKGo=6HDj9b3#oD$BPC->f5L^c`tZtWsnNXh,u,F@e$0$8tV734!1.M57(p5_]&1s(E_8#ju.K.6SsRAJA;^a*7ha?2ltU%M-_:`180T9eN)FnaG,#Htrk*?M)aCtt#[i-Zg`n';s@6n[ITQ69C7-9E0F!Io+;;OK1un.@R7]iUf9L'G`[N_pZT8F&B480Yr\Bs['L[nB+&k>*ZpXi+.sp`F*1D1S>`o.56BWnrr_]OSGrICkN(NT7T5AGX*To6u&!L*lE6>E,sa$b.+"q[9;2f$Uk8@]h]K!Y>C8GLtV:3X*s-Ns6B94Bo1^o2SU;NJ5A1E6JQ%jtXb9Cf^T"BU9uS>8IYkSkb+\T3FD<',p\?EQbHm'XRRF6aW[JZc:oJg@U4:nW>-1L^mF\83BK`;-)=:$*^2oMt%qlCWt<p&As-i!$>e*8h5E0cZQZi?^F*U^bMS-DS"nWM3jkr\P*bA!N66+$;XtsqghBZXsr+u!.YH)Z6'Z]FoX>hWaao]i"I]oQXM"/ZC(h-DUH,YILZ6;=]FmIZN$<@;Z7gBdQ5FRhak]S/sTbABrC6E")e()At;4oZOcaoGj&'qI7CEdg8ue/`FHf.j`;bDQ4HM([ln\"7XR%.IF^\_b!V.EX8=\63]giun4mcEJF7k_W'$/:?5c1SrRM>oqT'qJ=(M&=QrV)"h6n15$m?>2=Q00%1^PqoR@0eKeUB6,V^>mAO2<Lu(#%WpZBN>f*];A+[h816mn@#a]4!70-[6;m<*C'6n-Vgk)f.niF2>V9-['23HT]I/4&@ILVI1W@4M44[;fTG7#'8CMbUIM)qqpB#<Q/*U(7sbUY>]Xq\O'_WLZsPsefYTt/BOQ+D`0VsBe;YA)mFQgC@XRu1mSF"_\C'?ip*Yb_XEA9G8e<>G5J(B5Gm2UX6+-6*AG0*\he/tZhZ:Wr+S8\I`t&eLdRIkCmee%!DX!3&d'HYAD-aZC)h(K%f-*Pq>Bt%=_BBk]n[:+LhNg+GV%*1,2*;D$t`'>cZB.#9>p"S&0/%1'&[In@.4bcCWS]MHYt/oaI<[#[oapsd0LZIfbJ/*m\)r*X=CmA/Ur5Xc\B'<U>7.N++]IcSt-c\p)sOt#f6=u15T;U&Al4U4M(Yb1tt0B#]3k]g4?/@/a..<oBq:7--&,1iGN?f'Y3RiJ6\?+L8X]2-4qsp,EK^Gh'uj*Mns;elLUqQ',((C$'qu0l11YHK4OnHREU;Kb3sEI^\Z2RDL3AY&-n2LKPASF9N[8d_k.;45g)hX\%Ur-Nu#o'9-h4j;joF$`VsA-;[Ui_>T1giZ:iU@0)/,d$[;\L39O+I46ITc=cuOU#TkNCF?S:<H%eOZ&K`br>p*sMhmR:T@FGZJBrhlfA^sobeFM:L9B?ScF6ag2).l;LSMP4d<>HNhSanG'V?f<+L4degqUSVimru)7F%tZ*7gU^U>AT#WmNG]k'L^nET<d)V8JG1_Gup.*eC`mQ32CI='&QB]hhEe(\.[O;N<HPcM1S?:H@">tV,$2ORs+nd"js2P8p7h3=Y&(EY2#@mj#::tRCN7@e-2%2M3V"S0=9!FAO,"-/6XOgH=\Fi'jsrNl([m*?Cj0"0kfiLO*]<N*qcI%4mGn*HIS]2or(ADl;<Uge>")XW(0#9;3-%QUE9*,7m6-7O*]<N*qcI%4mGn*HIS]2or(ADl;<Uge>")XW(0#9;3-%QUE9*,7m6]u9E,eZr$8o~>
+endstream
+endobj
+19 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceGray
+/Decode [ 0 1 ]
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 87
+/Subtype /Image
+/Type /XObject
+/Width 264
+/Length 7316
+>>
+stream
+Gb"/)#>gXVdiJh-AAj9:(GHgYT&EA1%M9C2Ad&8d"p>&3"VYN6&.&^/M1U7+$7lRd"@^7^-NXn`#ndB**0`!g^R9<&9n7P4hd?'T=1(h$`Ish3B6q.9H?p>,!<`s!!!*365QCff&3p3r";!fu!<`s!!!3(Y&=^CMldcg"jTb&kUqU6!cL2,W/srP"GM[oTe&IF_jn("fkj.Nul"Z*[)b0-1/7,Em=A'X"AUdpcVmg@=bi)f5ndCcJl00/b-H!`.6saZVL@*`Teur7:7Z,YEX1_D<&$jc?4Q$d,,tjO@kl)dM_ee1mV+^IQQYI'1Y6@0V`[Lg*$_emEW6t\%Eiu@)e_AL"gt^]=g<rq;H[6`>pu'Uh([IYB8Lo+kL1kfp(KNHT'BPgQ"WUi1^CX+RM`AmcHoAF;]r)[@]<egec$-c<mT>jrlK[a&BQ*q%K0S8He^M]Nh,35%)KuR=SCQZ=/(T3/M7:'!CrFU:5RpjtrQsIePN]T.WtFA_>,l]qd?'?RDHoe3B,Iq"mJVdOF`CEu,dB#cSp]_#W(Xn0s&UA<-aHm3SDZ6T>6t3%@Mj*KpH&o+oHP4>M7_KVf%&>1ZXriJ-0fNeQ,m<'>#EHYU*4)+P!_F&lfSAG.@E*S_0SLDT0D1:Mp.l?b[=Hc'bu-FC*X`KMFpK)IO`(-_4K5HO5(=-$\,lc)5W2DCNc37he.,JGhJTojM_>npWq1FSO;qAILKbl*-tp.:RNqMr[RXL9_ickm(/"rN3OW[`>WZ>at-XLqS6OoG".e]hpk+oF-j_Kpq\Gc2qQB)gY,A&hTn:)L.eg;84@UdQn_2H0As8o,F,Oo1po/qZ2MT8#i98#%.?,l?7;te)"G'$9,F)1Z`3lYj87\VL1;YPRS!%^%+B[ma+VrtmSHng[r*GU2&i3Ih=.?S'oj9<25b.53Uitjf,YdphbcnnhBP&I+h'MuTE8?Wl_E=6VnYrUc^;iM\cl-=gu%lS76-Df-i[*uqVSmQqa-Z`8*<_i54fODh07-iO,&_*gl<:oOa_[K3HWY?(M/U"[$Obs%7Ahe&%f#=dY]$]1=&47P157.@]$4djEaMb3;W-f"$H;=n%9a;MG&b(`OWS`8;C+tQ[_o6Y`&ra*3/N6B7b]>nlFFfKYU(U$ZBP7^s`dn+g!qG\S-IfCqFr'l.6e/jr/Q3A(k^;(M0+U3L%OG"'4GU64QG/oA_=j;N.841_@Vg.#72^LggasP;3=Ibfq^j&""2Phmm7;%MM!Fp=HFN4qu9%S!+&?BPmF8N!_qA_I@d"G^.NIRE71<+5o#nCpk/\>%Tsl+[.gUVuuQ6jhU.qC$YQFfn"AAbJhkZWt1ojdnI[mD]dPc&u,<UMNu:OU%>@;E@mK/!<@UWb"k%u3\7B\r:<PA\3hc_KnXpN5WskDdUiK`%X[65JLojNe&or:f3Lbt'+Z!+pT"e2r-i\ETXQrERL[^k8]i30bsC"A/(&n?!Lr14>qe,CdtP>?-2=\_!*^FWe>u+!ISJi%`!c8>"K^AJ#X16c@Lr@`"BCKA:VN:JGN'7lR106jJ]0)FgpMUWnOm:>TA+YBQ/apu7rl+maZ`.hiBi_5Hi%BqF-FH6%mm^LqbiM3fT%QI*AdhW5XPB3Gfm+>'`e12L+%6A,$."IfZECM+(n>0"CUEgOt-cb!#>(Y`M>IUmqf%!gG^$3P5ak28H*mm>d*3k,X8k)#9d.XjF5p2Nh4Y>BeOV"dH<LV-\pPT27<=+lKLcKQdg"kIAOqo_g$4^@oZrK#N#B;-*TMer>X'>O;t3p$sTl/jF0bT%l`>eh+%so4E?O)B(OufrDl#ZBZdIRHVtt_iQV:Uo$Xk7':W!NIIVjE!M1*o0h&T5+9fT]YpB2^jcE0^0:ec13n+!eXu7:eS\&j:nSU@eLt_><?MRD-5_4kmHcu>1c_2eH<1^AO,o\d+k+7_ofYG\?YrUIg2"8Y.f'lGhY]O8&0!<B=Ldt[^i<7\R_7B`k6-]l45CfHHfPk*pC.3</?6>o<^7"SHMaZ(%)p9CO"X[OGOOIQEJ/Vs7MV/Hp24r#T\!!$=bM5_nYebZm\WG:7o875GaTrBj(D:mUpg-cVabMmB4&.X1B4?Bg0$c"[hW@H)PIh1cO.fWpmirNUZ,=*&j.uCMIG3MDJ&Ye7KU?4eQH.jZ0tqI]+p6UU/YK-4@-G)q[e4TX+$#:lMs9*`F,@>S-CVLuE=Yji&,eK^7GFC'4<N"]a.m6b2Y)MT,Xqp@La2cX1fVq],tU7SiU2g5,)WpSqQ2T#5Prm?$i?POc7M]C&RRJ"($jLH$_1R)E'6^0<V#sRHr_jfHD#<PGp.:8Q^COk@32ElrhKt3ELKq;rDX9.<5)#DhG67>buaaIZm7T?H[9p]?8`Zf<6&+Q?Z8'djQ4H/<*OLlq+k?^^ME$+/_8kVgIYGK(XBY&>0sdl<h8i(Fh)b].$"GQ9NepH_>R.O+7F:%S#/dOrVG;Jm]I?Z>dS)b#%C'iDAV-a>n8FU;N8),^YnD>EGdXH)pNjb#1f][]KFbok3ID'fKZbB(W,f_aJ":5!j1`b>=Vg[WCcam6iL/Ns$+GV`ZIbP,BGlk!7aVNJ^rq*4BfhoqU:UT/;In6clAsdXK&-]7RL0Y77DV59gr3EVQ?MlWhLn+;GhFuJuX^6.SW?'@C3]F-tT7&$M*`p8kM^u8kLoLAHaAK73r[K)GOM.7T39:K2e)#'NJ-V!u2Q>R[TCk&l"poXIohh.#q2Y:f^RoJPD5b2I9ZV>tnU16]It;U8e9mTVeD;DQF`cN`K%WJ@#Z@UIU;A;HH:mC,Bg?ED"q\`R#>WKtGFB(Z9;`qfj\0I%O'j_5e/GN]$2UNFfXB5$$1`Pnh19V&tWeo5epZ96,+E5NHEfk'\X-XfAEQ.EkG7oiGaKl<c2NV.A]MAu6lPjl^9R^4)XL0!CqHUo4QZb",<TPFV2%.jmDA2)XJi>&$\#S+MYu[qW%;-`(?aUo#C`V.O:OjV/CFjlI6lQWMd=^s<aDaNsbQTqK',WiEMAZEgLCi-k=2XS7!cmkV4jEmU%C5?E4^/\0+dE@!::<"<cJZCF@@fYQ%2g'OodLF428ofS:)$k)hR\";0Z*kmAXk9rXHg"#nXH`XU+P"CcGHrtLM6/R"b%IENLHQa:-*UG!uCDpj>Mi3'E"JTWAGEHM,[ZeE-Q1jej1ef@-,f=Q)OJo80^>.OT*a@NnA%OBTl0sE:b?&P"9MR8t0\UG?s309,`am\5S!_3S""TqKgV,Fd]9RMfWspdgo4LX1>Od!6[B%mu+&,Em^@t3G7C<$)<NFa+1Q-%:7b^8p]5+TQK\(CSA=m+7FK`?fq;"W3(C_dklDe<\D-k!FfUM_]V`]%#OrSX$b1#bF?C1GS1$Ug6jIJH$d+Zs=IsoA+AZOWO1j=)KP.6r5mIE%n,][g8-mo^g6[*mkIJdosPllo=SrX]"P.(f?;#Y$bdF,089P5ZEmI<1%,*92)$VX*t!,AZY@kcq7#X%%r`9(3Te`j0tH^XrUHWKjk-[=p.?d?Y+KhRfEOCY8jC#a8[SJ]U/knji4cb=b&-i$79X2n<UJGE&:h6C.9]kbt)f?r-bhJ4Jj6]/`;-K"ID)S5rcL$rt,rti825H7iqZ/`bT26j/e-,9^D40-C24fk6bESUM^PO`3<FIqHe\IZR(JY@qDL\WT9_8A6UJ`>tX'4n>4mK0.29Qb>R)?OgsR>ZmN^h"+ObpPZGj]V[ZT;Wbc#&-aWTW5[&qHi\LRB1TOLK`?Qc[GjS=!*_a9P:W)-B("S0gaS#l?^u]TG)L-13CBXMe`^]*(j?m'Jpeh#@!M!R+(+YLqM9iQPL6VXh5b-2MOtkV%&mWhp(H!0m(pQ-b>J=)Ha]C'4fnWEgVUP;bars''DV%:P:.-\UUj+Mq@RR)smd3_)^jUrQZ<FWoi@.N9F)[c[)H;IC3lQfGSBa=r%O!)Y.VqYc(rPGY&=K&#,t4*<M*K7t@^5c(X_!mNKc/;ShXol;N5EpX!l`nPps;hHJ>MU$Z'o`\82NFV2g6cK83O^p;$ke>7_O2+@mDSBQ@;#A?,6!lP&>%b$S_.V_8PU89R#a*nfS0ICb?b\s8@:OVT4\LK]=C>=1k`sPjgN2D79oPU3[_3^3sM/7MJ#K0BqEUZs)n(tZ"8kd@Bos\>-H]=rU&_O`[C/i9_*jkgG(RgLg$T8<\Q5/+H!_&`Ip6YB$AI5ERRnD@CGClE$0"d^'C?2JSlML.Ir7^#C:jURmY7[#D8*i-,#p8uq?"kh&r8lPmn?G@91;'uZIc"orFn"DK/3A_T;WVILH)F/:7E=c&4/=A`/*u\7TRGHEq+GpIp(@7O[aW$^0ONOe+N=c1q=NGmK1GdVl@@PG0!Y/JJiS#2aU*;0Cd0ZiCe0:>dfc7(49.tph\SZ3?(;oNhYn9jbLritTFok4ng&oZ*u]Pj5CSMSP6bGBe(tt6c.0:aa0i36hAkEj])0j,W[DG2Rl_i8Qn;m@meOP%"lArsF!>G'B%8gS#?]h2mqIY@GIP;aqnj_H\"-7^mi:2p__rX6U$\8#?S/<%cMDMP$^[WN,n772:3I.HYF=lCi0`*8lDf,V`QZ9cqO?1QGG"5V!e9f'`TbZ\?C(gumb*(653qq$h'QdkQG:"IDL.gMN\9Nkq:"`kms\=JAN5uTEPn3]N^)1J)Y'"3r0609c]Ru!JTguV_pc_TEY':ArB#[TkJRqJni6>7S\LaZBMpZOl2.<eIB[9lApVV#B92)J,K&aXd17<fa2UP(UE;[I&/5'l3\$<7N/ELMN/3@JNK.U++!s*Z7PU[1]Qb40LgVt_mK_V[UGEbZYcnBm4H^c*J/*B484Zj-31V*_VpiO$o^Jf7d>W#K,9f5a[=j4Lf$M&'_BNIL';$Vk5E&Bcro1o'K_S%J@q$K*,fISR7E7QK:J=AT:5B1N8&W/58pZp#..VVTgtX%6o)jlDj"@p?d@;_t:&3p\jIko<:PoT#g"[jKUno?UW">\t'WSY[<Erdf6D[R.@M0<JK7lZ^KLJ9X@T'M[i`%Yb,U"<W6)@1E_#'R^0L]XdKd',(K1!U',pgJQ+=GQ&YR?F'-+F;?MFiU2$&_V*W1kIMEA@5+pd[X*-kpY-0rc(\K!_nLKK'._;^nFb,/TG@KVYD'<CBAK<(pP%6@pC6.h)8^d)^ife==>/`Gf_\'DV-E]skC@LZm71g\u>*?`*iq%%\QWlAHQ:W;^*\I@KipEU&5>e&'T1Fo>+Mn1Og-G,3HACJFn=PLP0Mjo*k(BSa5IDf0;5a_0AaE-d$HcEGI]\eB>GGq+o[#bp4gGE-c<'@-md"LuYU@%#?S4(1Wj7[sks$Fm@+S]DAs)0j=haDusHAROFjhj_?oI_N;h&'0;.NWDFsrjVe-IBRuYX<hrfiqg^n,2s8Fl.<'"+pPngD?^=$[2D*Xq0p]XgUDfe!WiIB#Mm(CD<%c\pOhnDOiR?2hg9Pa2gKFd>R3tTnDSf@Btg<!-`FSJ$o#hBDaSed]0&j3%<>ouk^L@ZL#^>s.,M)_!_,;lZGO?*&>_'!GC`%-;.K/"i.;SeV-D&uD#OjFn#I=nPm%,N@)]'q,mE(MDg0SDF?*J#\:rD_aO#We:&HX&Z*GuS(\P'e?1>VJX9;LI9k:Q=&oT)T'>T,0+/6gSM*YX9Q#"3[Ud2/5mBoP[aFHRV6jl*.-]@!LY,e?<d#&2hJ<=BL;/V+l=-^S\-TJmW)-5`B0HgXk8's<=*JY'1dnL1n7^%#qZ#8u9T&*dX,_8-OdslZ*kNi0+1ST@S'kh6SR3\E/]O$/B<NlabHQmCJPTOX_c2470F*&AFpP1<Fr!Fb`:W:`N@^#uTlFcul"Ho^8;$+;Pr0WG8?"#f-lt4K9-M!Eb=4nAu.J0dpGo<M>N0,+:Y6Dh\a<Bs6@E/`IU0G&0!%Xj_ER;_VTLYkkimp0S#R^N;C&p"-.8_NA7gntHTkP)>N@B0jBK?Q\d@Hr`*FAVc?+diJ4Qcc;igD$W9`CVKR9h4%b:jqC[Pq;p,mO=_2<qe_J>WK\bf5/Kf&&r.+sRE=4-]?bMWNbZPc/Ce08Aps"1`a]26rBQ9s>JJdD1YR3/$Yf1%ZCDDJ8)0RLY+S7%'b.h68^t&XKF[eu^[^ZunPIJ>Ge=+&K7BBHP\!\q=B;,4;R^i35h3]FE!pEeklG'HGM_(<)]r!q_f+'-2tub5QdVgOUKLj.?)@,sd'\`>L7YU@\r!+^@%gX9,[q`#A#tF=1@$%n.NKcn;D^`]ZV2rp*KNE)d%fOQLY0UL1m_H:IBn$I;?B"`!XU=R4+gNaa?/qdo^p\.ZLE9)O<u]!q<qg4MA*^s5R91l;J]3H>,kruriGrF_`6C1)uX^%8Sf6h$bfK86E7b&Fb6@(Y'Illt<u80^.e?Bn\u!rpk96lP\$b/":A:*<l&M:_0V/&3=(a_Bu5;IC")\tA^Pl.)i19/J%%Y#Apis5gm)7mSW*Ns2@Z&K\4%T*E6;U$d\<+,%r_5JkqUBNq\1pffu5"qndOCh*H6%Mp:*&+=:o-q`ju7&Ub6#BZ6U>`.XY\cF&JAG2r+@o<g,6ukun*:e"Y/<O7<iFbDB%ZT8q1jpX)p?R1KQn$@"S"uR51^n=nY7!Y9g]9PHn[oc1rcZ?p<>__udp%ltMT+*CRpnVoRppP&GJNho%r.i@B`,d!UJn&][[rraD^UW.lh+<[EeHX3JF]/S5*;k=*:-M\a`M!Z"p7k]&G6OAF_tY*%Jr/EFjUh:<f8p[n!\$LR[-)e/M'T(LQ^:j"BD2N"T[QQ*)68p8#-Y(hWMpNkg9+AqmuI00M9sJmq(m1Kb/Gt8#l"h.5RLbChb6DTtR.=^IJL'@M!j7)Km&!g7ljqJ0RSiSrpcf>0Tg5-^,(^$](j4G/E:X`9.H81-c)dTjfg"/*KFsbA$b5n\k$8D^mo10]SM7!t(08Nl1%6aB>=";*=<_?j\qFRSWjF?Vnn*>C>pL?sHkm:MR>9,X1.Fd1l*O#L'oH9cc=^`PEK*NI3.Sh885WL]pj(s+!'UY[?cL)@;JV?pWB,,?nc868;u#%Qa8IU@Vj?8)uc7`W.^J2!SR46.5WVr@HIl_:R&$7sO:8kJ"b>;k7Q=e'RR^RZIF=7l[1cPB@:XmP<U:IUM?)<SFhZ0>'DD0\C`rals>Z'k;62/Ym=J?t7*'-_7XAOJS3K>fGcPG4rAFfWQ`E/$3ZiD!]`Y_jfVcXcHTP2`k\bDII+Q0+3N<ZTMd/RJ7MKrZN4rLODRX/in9[\\4cud@J%5+@[ri['R5F-:+e\^Ose)V<f-VreTr-$WI&;K)brY+FjFn#U"Wt!XKp!!!3EKJ,fWV+FjIl>Pn_3]K;2~>
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 20 0 R
+/F1-0 25 0 R
+/F2 22 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 3263
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+2.2 w
+n 34 34 527.2756 773.8898 re S
+.8 w
+n 40 40 515.2756 761.8898 re S
+BT /F2 24 Tf 28.8 TL ET
+.419608 .184314 .878431 rg
+BT 1 0 0 1 210.3138 691.8898 Tm (DECLARATION) Tj T* ET
+0 0 0 rg
+.419608 .184314 .878431 RG
+1.2 w
+n 227.6378 681.8898 m 367.6378 681.8898 l S
+0 0 0 RG
+q
+1 0 0 1 72 481.8898 cm
+q
+BT 1 0 0 1 0 148 Tm 1.811299 Tw 20 TL /F1 12 Tf 0 0 0 rg (I, ) Tj /F2 12 Tf (Priyani Pandey) Tj /F1 12 Tf (, ERP ID ) Tj /F2 12 Tf (RU-25-11037) Tj /F1 12 Tf (, a student of Bachelor of Technology in) Tj T* 0 Tw .509159 Tw (Computer Science & Engineering with Artificial Intelligence and Machine Learning in) Tj T* 0 Tw 3.304399 Tw (association with Google, School of Computer Science and Engineering, Rungta) Tj T* 0 Tw 1.900399 Tw (International Skills University, Bhilai, Chhattisgarh, hereby declare that the Project) Tj T* 0 Tw -0.136934 Tw (Interim Report entitled ) Tj /F2 12 Tf ("Pharmacy Inventory System \(Using Java, HashMap, BST,) Tj T* 0 Tw .067299 Tw (Sorting, Linked List and File Handling\)") Tj /F1 12 Tf ( \(PS No. 61, RU-200-01-00029\) is my own) Tj T* 0 Tw .980299 Tw (work, carried out under the guidance of ) Tj /F2 12 Tf (Mr. Surya Mani Verma) Tj /F1 12 Tf (, Technical Trainer,) Tj T* 0 Tw (as part of the course Data Structures and Algorithms \(DSA\) for the session 2026-27.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72 447.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8 Tm /F1 12 Tf 20 TL (I further declare that:) Tj T* ET
+Q
+Q
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 78 427.8898 Tm (\177) Tj T* ET
+q
+1 0 0 1 96 421.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8 Tm /F1 12 Tf 20 TL (The work presented in this report is original and has been prepared by me.) Tj T* ET
+Q
+Q
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 78 401.8898 Tm (\177) Tj T* ET
+q
+1 0 0 1 96 375.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F1 12 Tf 20 TL 2.147299 Tw (Wherever the ideas, text, figures or results of other authors or sources have) Tj T* 0 Tw (been used, they have been acknowledged and listed in the References section.) Tj T* ET
+Q
+Q
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 78 355.8898 Tm (\177) Tj T* ET
+q
+1 0 0 1 96 329.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F1 12 Tf 20 TL 1.227439 Tw (This report has not been submitted, in full or in part, to any other institution or) Tj T* 0 Tw (university for the award of any degree, diploma or certificate.) Tj T* ET
+Q
+Q
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 78 309.8898 Tm (\177) Tj T* ET
+q
+1 0 0 1 96 283.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F1 12 Tf 20 TL .701299 Tw (I have followed the academic integrity and ethical guidelines of the university in) Tj T* 0 Tw (preparing this report.) Tj T* ET
+Q
+Q
+n 343.2756 205 m 523.2756 205 l S
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 444.4056 189 Tm (Priyani Pandey) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 419.4096 174 Tm (ERP ID: RU-25-11037) Tj T* ET
+BT 1 0 0 1 333.6141 159 Tm (B.Tech CSE \(AI & ML\), Session 2026-27) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 72 110 Tm (Date: ____________________) Tj T* ET
+BT 1 0 0 1 72 90 Tm (Place: Bhilai, Chhattisgarh) Tj T* ET
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 284.1717 33.5 Tm
+(Page 3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/Contents 27 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 28 0 R
+/F1-0 29 0 R
+/F2 30 0 R
+/F3 31 0 R
+/F4 32 0 R
+/F5 33 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 6886
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 56 774.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Acknowledgement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 725.3898 cm
+q
+BT 1 0 0 1 0 33 Tm 14.5 TL /F1 10.5 Tf 0 0 0 rg (I would like to express my sincere gratitude to my project guide, ) Tj /F2 10.5 Tf (Mr. Surya Mani Verma) Tj /F1 10.5 Tf (, Technical) Tj T* (Trainer, School of Computer Science and Engineering, for his guidance, encouragement and valuable) Tj T* (suggestions throughout the preparation of this interim report on the Pharmacy Inventory System.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 661.3898 cm
+q
+BT 1 0 0 1 0 47.5 Tm 14.5 TL /F1 10.5 Tf 0 0 0 rg (I am thankful to the ) Tj /F2 10.5 Tf (School of Computer Science and Engineering, Rungta International Skills) Tj T* (University, Bhilai) Tj /F1 10.5 Tf (, for providing the opportunity and the learning environment to work on a Data) Tj T* (Structures and Algorithms project in the B.Tech CSE \(AI & ML\) programme offered in association with) Tj T* (Google.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 640.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10.5 Tf 14.5 TL (I also thank my classmates and family for their support and motivation during the work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 628.8898 cm
+Q
+q
+1 0 0 1 56 599.8898 cm
+q
+BT 1 0 0 1 0 18.5 Tm 412.6631 0 Td 14.5 TL /F1 10.5 Tf 0 0 0 rg (Priyani Pandey) Tj  T* -33.25351 0 Td (ERP ID: RU-25-11037) Tj T* -379.4096 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 579.8898 cm
+Q
+q
+1 0 0 1 56 550.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Table of Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 166.8898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 362.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Certificate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 362.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (2) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 344.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Declaration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 344.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (3) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 326.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Acknowledgement and Table of Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 326.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (4) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 308.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 308.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (5) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 290.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 290.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (5) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 272.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 272.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (5) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 254.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 254.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (6) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 236.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (System Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 236.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (6) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 218.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Methodology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 218.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (6) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 200.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 200.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (7) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 182.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Class Diagram) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 182.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (8) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 164.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Data Structure Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 164.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 22.44 0 Td (9) Tj T* -22.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 146.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Algorithms \(Pseudocode\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 146.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 16.88 0 Td (10) Tj T* -16.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 128.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Validation Rules and Test Plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 128.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 16.88 0 Td (11) Tj T* -16.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 110.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Console Interface and Sample Session) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 110.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 16.88 0 Td (12) Tj T* -16.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 92.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Implementation and Time Complexity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 92.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 16.88 0 Td (13) Tj T* -16.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 74.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Sample Input/Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 74.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 16.88 0 Td (14) Tj T* -16.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 56.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Future Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 56.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 16.88 0 Td (14) Tj T* -16.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 38.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Gantt Chart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 38.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 16.88 0 Td (15) Tj T* -16.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 20.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 20.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 16.88 0 Td (15) Tj T* -16.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 2.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 449.2756 2.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 16.88 0 Td (15) Tj T* -16.88 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.75 .75 .75 RG
+.3 w
+n 0 360 m 483.2756 360 l S
+n 0 342 m 483.2756 342 l S
+n 0 324 m 483.2756 324 l S
+n 0 306 m 483.2756 306 l S
+n 0 288 m 483.2756 288 l S
+n 0 270 m 483.2756 270 l S
+n 0 252 m 483.2756 252 l S
+n 0 234 m 483.2756 234 l S
+n 0 216 m 483.2756 216 l S
+n 0 198 m 483.2756 198 l S
+n 0 180 m 483.2756 180 l S
+n 0 162 m 483.2756 162 l S
+n 0 144 m 483.2756 144 l S
+n 0 126 m 483.2756 126 l S
+n 0 108 m 483.2756 108 l S
+n 0 90 m 483.2756 90 l S
+n 0 72 m 483.2756 72 l S
+n 0 54 m 483.2756 54 l S
+n 0 36 m 483.2756 36 l S
+n 0 18 m 483.2756 18 l S
+n 0 0 m 483.2756 0 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 284.1717 33.5 Tm
+(Page 4) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+34 0 obj
+<<
+/Contents 35 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 36 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+35 0 obj
+<<
+/Length 7199
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 284.1695 34.01575 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 56 766.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 700.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 49.5 Tm /F1 10.5 Tf 15 TL (The Pharmacy Inventory System is a console-based Java application that manages medicines and their) Tj T* (stock for a small pharmacy. It is a beginner-level Data Structures and Algorithms \(DSA\) project that) Tj T* (combines hashing, a Binary Search Tree \(BST\), sorting, a linked list and file handling in one practical) Tj T* (program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 604.8898 cm
+q
+BT 1 0 0 1 0 79.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (A HashMap stores every medicine against its medicine ID so that a medicine can be found in constant) Tj T* -0.093189 Tw (average time. A BST organises the medicines by name, and an in-order traversal of the tree lists them in) Tj T* 0 Tw (alphabetical order. Sorting is used to prepare expiry-date and price reports. Every stock change \(adding) Tj T* (a medicine, restocking and selling\) is recorded as a stock transaction in a singly linked list. Medicines) Tj T* (and transactions are loaded from the data file ) Tj /F2 10.5 Tf (pharmacy.txt) Tj /F1 10.5 Tf ( when the program starts and saved back) Tj T* (when the program exits.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 553.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (The program enforces simple business rules: the price of a medicine must be greater than zero, the) Tj T* (stock can never become negative and a sale cannot exceed the available stock. The project uses a text) Tj T* (file instead of a database, which keeps the scope suitable for a college-level submission.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 522.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 441.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 64.5 Tm /F1 10.5 Tf 15 TL -0.034827 Tw (Pharmacies handle hundreds of medicines, each with its own price, stock level and expiry date. Keeping) Tj T* 0 Tw -0.106377 Tw (these records on paper makes it slow to find a medicine, easy to miss a low-stock item and risky to sell a) Tj T* 0 Tw (medicine that has expired or is no longer available. A small computerised inventory system solves these) Tj T* (problems by keeping the records organised and by checking every operation before it changes the) Tj T* (stock.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 360.8898 cm
+q
+BT 1 0 0 1 0 64.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (This project demonstrates the idea on a small scale. The pharmacist chooses an option from a menu:) Tj T* (add a medicine, search, sell, restock, display all medicines or view the low-stock and expiry reports. The) Tj T* (program validates the input, finds the medicine using the HashMap or the BST, updates the stock,) Tj T* (records a transaction in the linked list and prints the result. When the pharmacist exits, all data is written) Tj T* (back to ) Tj /F2 10.5 Tf (pharmacy.txt) Tj /F1 10.5 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 339.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (The application is organised into the following parts:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 318.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 318.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Medicine) Tj /F1 10.5 Tf ( and ) Tj /F2 10.5 Tf (Transaction) Tj /F1 10.5 Tf ( \226 data classes that hold one medicine record and one stock transaction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 301.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 301.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (MedicineBST) Tj /F1 10.5 Tf ( \226 BST that organises the medicines by name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 284.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 284.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (TransactionList) Tj /F1 10.5 Tf ( \226 singly linked list that maintains the stock transactions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 267.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 267.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (PharmacyService) Tj /F1 10.5 Tf ( \226 manages the HashMap, the BST, the linked list, validation, sorting and reports) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 250.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 250.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (FileHandler) Tj /F1 10.5 Tf ( \226 loads data at start-up and saves it on exit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 233.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 233.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (PharmacyApp) Tj /F1 10.5 Tf ( \226 console menu that connects the user to the service) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 202.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 181.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 181.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Develop a console-based pharmacy inventory application in Java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 164.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 164.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Use a HashMap for fast medicine-ID lookup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 147.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 147.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Use a BST to organise medicines by name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 130.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 130.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Implement sorting to prepare expiry-date and price reports) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 113.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 113.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Maintain stock transactions in a linked list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 96.88976 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 96.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Provide add, search, sell, restock, display and report features) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 79.88976 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 79.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Reject non-positive prices, negative stock and sales that exceed the available stock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 62.88976 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 62.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Load medicines and transactions at start-up and save them on exit using file handling) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 284.1717 33.5 Tm
+(Page 5) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+36 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+37 0 obj
+<<
+/Contents 38 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 39 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 7616
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 284.1695 34.01575 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 56 770.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 770.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Understand the time complexity of the operations used) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 739.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 718.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (The first version of the project is limited to the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 697.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 697.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Medicine records with ID, name, price, stock quantity and expiry date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 680.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 680.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (ID-based lookup using a HashMap and name-based organisation using a BST) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 663.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 663.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Add, search, sell, restock and display operations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 646.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 646.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Expiry-date report, price report and low-stock report \(threshold: stock below 10 units\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 629.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 629.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Stock-transaction history stored in a linked list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 612.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 612.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (Input validation \(price > 0, stock >) Tj (= 0, sale quantity <) Tj (= available stock\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 595.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 595.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Persistent storage in the text file pharmacy.txt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 589.8898 cm
+Q
+q
+1 0 0 1 56 559.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (A database, graphical interface, billing and invoicing, supplier management and user authentication are) Tj T* (not required for this project.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 528.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (System Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 507.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Hardware:) Tj /F1 10.5 Tf ( Computer/laptop with 4 GB RAM \(recommended\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 486.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 10.5 Tf 15 TL (Software:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 465.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 465.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (JDK 21 \(recommended\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 448.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 448.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (IntelliJ IDEA, Eclipse or VS Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 431.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 431.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Command line / terminal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 414.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 414.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Git and GitHub for code and report submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 383.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Methodology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 362.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (The system works step-by-step as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 326.8898 cm
+BT /F1 10.5 Tf 12.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm (1) Tj T* ET
+Q
+q
+1 0 0 1 76 326.8898 cm
+q
+BT 1 0 0 1 0 19.5 Tm -0.084361 Tw 15 TL /F1 10.5 Tf 0 0 0 rg (When the program starts, the data file ) Tj /F2 10.5 Tf (pharmacy.txt) Tj /F1 10.5 Tf ( is read and the medicines and transactions are) Tj T* 0 Tw (loaded.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 309.8898 cm
+BT /F1 10.5 Tf 12.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm (2) Tj T* ET
+Q
+q
+1 0 0 1 76 309.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Each medicine is stored in a HashMap with the medicine ID as the key.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 292.8898 cm
+BT /F1 10.5 Tf 12.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm (3) Tj T* ET
+Q
+q
+1 0 0 1 76 292.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Each medicine is also inserted into the BST using its name \(in lowercase\) as the key.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 275.8898 cm
+BT /F1 10.5 Tf 12.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm (4) Tj T* ET
+Q
+q
+1 0 0 1 76 275.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Each loaded transaction is appended to the linked list.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 258.8898 cm
+BT /F1 10.5 Tf 12.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm (5) Tj T* ET
+Q
+q
+1 0 0 1 76 258.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (A menu is displayed and the user chooses an operation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 226.8898 cm
+BT /F1 10.5 Tf 12.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm (6) Tj T* ET
+Q
+q
+1 0 0 1 76 226.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (The input is validated: price must be greater than zero, stock must not be negative and the quantity) Tj T* (to sell must not exceed the available stock.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 194.8898 cm
+BT /F1 10.5 Tf 12.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm (7) Tj T* ET
+Q
+q
+1 0 0 1 76 194.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL -0.005877 Tw (For add, the system generates a new ID \(M101, M102, ...\), stores the medicine in the HashMap and) Tj T* 0 Tw (the BST and records an ADD transaction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 162.8898 cm
+BT /F1 10.5 Tf 12.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm (8) Tj T* ET
+Q
+q
+1 0 0 1 76 162.8898 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (For search, the HashMap is used for an ID and the BST for a name. If nothing is found, "Medicine) Tj T* (<) Tj (ID) Tj (> not found." is displayed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 130.8898 cm
+BT /F1 10.5 Tf 12.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm (9) Tj T* ET
+Q
+q
+1 0 0 1 76 130.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (For sell and restock, the stock is updated and a SELL or RESTOCK transaction is added to the) Tj T* (linked list.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 98.88976 cm
+BT /F1 10.5 Tf 12.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm (10) Tj T* ET
+Q
+q
+1 0 0 1 76 98.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (For the reports, the medicines are sorted by expiry date or price, or filtered by the low-stock) Tj T* (threshold, and then displayed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 81.88976 cm
+BT /F1 10.5 Tf 12.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm (11) Tj T* ET
+Q
+q
+1 0 0 1 76 81.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (When the user chooses Exit, all medicines and transactions are saved to pharmacy.txt.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 284.1717 33.5 Tm
+(Page 6) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+39 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+40 0 obj
+<<
+/Contents 41 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 42 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+41 0 obj
+<<
+/Length 11041
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 284.1695 34.01575 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 56 766.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 700.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 49.5 Tm /F1 10.5 Tf 15 TL -0.066553 Tw (The flowchart shows the complete working of the application: the data file is loaded once at start-up, and) Tj T* 0 Tw (then, for every menu choice, the input is validated and either the operation is performed and the result) Tj T* (displayed or an error message is shown. The loop on the left shows that the process repeats until the) Tj T* (user chooses Exit, when the data is saved to the file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 144.4898 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
+q
+.86 0 0 .86 0 0 cm
+q
+.980392 .980392 .980392 rg
+1 w
+0 J
+0 j
+[] 0 d
+n 0 0 495 640 re f*
+Q
+q
+BT /F2 10 Tf 12 TL ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 150 619 Tm (PROGRAM FLOW:) Tj T* ET
+Q
+q
+BT /F1 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 242 619 Tm (Pharmacy Inventory System) Tj T* ET
+Q
+q
+1 1 1 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 375 520 112 88 re B*
+Q
+q
+BT /F2 7 Tf 8.4 TL ET
+BT /F2 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 393.263 595.9 Tm (Key to Process Blocks) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n
+387 576 m
+399 576 l
+401.764 576 404 578.236 404 581 c
+404 582 l
+404 584.764 401.764 587 399 587 c
+387 587 l
+384.236 587 382 584.764 382 582 c
+382 581 l
+382 578.236 384.236 576 387 576 c
+h
+B*
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 382 556 22 11 re B*
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 386 546 m 406 546 l 400 536 l 380 536 l h
+B*
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 393 531 m 404 526 l 393 521 l 382 526 l h
+B*
+Q
+q
+BT /F1 6.5 Tf 7.8 TL ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 409 580.05 Tm (- Start / End) Tj T* ET
+Q
+q
+BT /F1 6.5 Tf 7.8 TL ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 409 560.05 Tm (- Process) Tj T* ET
+Q
+q
+BT /F1 6.5 Tf 7.8 TL ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 409 539.05 Tm (- Data Input / Output) Tj T* ET
+Q
+q
+BT /F1 6.5 Tf 7.8 TL ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 409 524.05 Tm (- Decision) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n
+174 584 m
+276 584 l
+283.7392 584 290 590.2608 290 598 c
+290 598 l
+290 605.7392 283.7392 612 276 612 c
+174 612 l
+166.2608 612 160 605.7392 160 598 c
+160 598 l
+160 590.2608 166.2608 584 174 584 c
+h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 211.888 595.6 Tm (START) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 119 565 m 345 565 l 331 525 l 105 525 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 169.2 547.4 Tm (Load Medicines & Transactions) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 192.992 537.9 Tm (from pharmacy.txt) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 100 468 250 40 re B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 155.648 490.4 Tm (Build HashMap \(by ID\), BST \(by name\)) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 172.756 480.9 Tm (and Linked List \(transactions\)) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 124 450 m 340 450 l 326 410 l 110 410 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 192.988 432.4 Tm (Display Menu and) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 192.324 422.9 Tm (Read User Choice) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 225 395 m 295 365 l 225 335 l 155 365 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 209.104 367.4 Tm (Choice =) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 216.108 357.9 Tm (Exit?) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 120 277 210 36 re B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 200.54 297.4 Tm (Validate Input) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 162.412 287.9 Tm (\(price > 0, stock >= 0, qty <= stock\)) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 225 265 m 295 235 l 225 205 l 155 235 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 216.104 237.4 Tm (Input) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 213.884 227.9 Tm (Valid?) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 30 140 180 40 re B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 87.1 162.4 Tm (Perform Operation) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 83.536 152.9 Tm (and Log Transaction) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 44 120 m 210 120 l 196 80 l 30 80 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 94.44 102.4 Tm (Display Result) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 75.54 92.9 Tm (\(e.g. Remaining stock: 7\)) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 277 120 m 435 120 l 423 80 l 265 80 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 309.548 102.4 Tm (Display Error Message) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 293.528 92.9 Tm (\(e.g. Medicine M999 not found.\)) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n
+153 22 m
+297 22 l
+304.1864 22 310 27.8136 310 35 c
+310 35 l
+310 42.1864 304.1864 48 297 48 c
+153 48 l
+145.8136 48 140 42.1864 140 35 c
+140 35 l
+140 27.8136 145.8136 22 153 22 c
+h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 177.872 32.6 Tm (End / Wait for Next Choice) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 359 385 m 475 385 l 461 345 l 345 345 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 377.988 367.4 Tm (Save Medicines &) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 375.1 357.9 Tm (Transactions to File) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n
+378 282 m
+442 282 l
+449.1864 282 455 287.8136 455 295 c
+455 295 l
+455 302.1864 449.1864 308 442 308 c
+378 308 l
+370.8136 308 365 302.1864 365 295 c
+365 295 l
+365 287.8136 370.8136 282 378 282 c
+h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 401.556 292.6 Tm (END) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 225 584 m 225 565 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 225 565 m 227.7 572.2 l 222.3 572.2 l h
+B*
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 225 525 m 225 508 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 225 508 m 227.7 515.2 l 222.3 515.2 l h
+B*
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 225 468 m 225 450 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 225 450 m 227.7 457.2 l 222.3 457.2 l h
+B*
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 225 410 m 225 395 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 225 395 m 227.7 402.2 l 222.3 402.2 l h
+B*
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 225 335 m 225 313 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 225 313 m 227.7 320.2 l 222.3 320.2 l h
+B*
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 225 277 m 225 265 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 225 265 m 227.7 272.2 l 222.3 272.2 l h
+B*
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 295 365 m 305 365 l S
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 295 365 m 345 365 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 345 365 m 337.8 367.7 l 337.8 362.3 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 300.108 369.6 Tm (Yes) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 410 345 m 410 308 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 410 308 m 412.7 315.2 l 407.3 315.2 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 233 319.6 Tm (No) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 155 235 m 120 235 l S
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 120 235 m 120 180 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 120 180 m 122.7 187.2 l 117.3 187.2 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 133.216 239.6 Tm (Yes) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 295 235 m 350 235 l S
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 350 235 m 350 120 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 350 120 m 352.7 127.2 l 347.3 127.2 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 303 239.6 Tm (No) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 120 140 m 120 120 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 120 120 m 122.7 127.2 l 117.3 127.2 l h
+B*
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 120 80 m 120 62 l S
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 120 62 m 350 62 l S
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 350 80 m 350 62 l S
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 225 62 m 225 48 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 225 48 m 227.7 55.2 l 222.3 55.2 l h
+B*
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 140 35 m 12 35 l S
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 12 35 m 12 430 l S
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 12 430 m 110 430 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 110 430 m 102.8 432.7 l 102.8 427.3 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 17 247.4 Tm (Next) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 17 237.9 Tm (choice) Tj T* ET
+Q
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 284.1717 33.5 Tm
+(Page 7) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+42 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+43 0 obj
+<<
+/Contents 44 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 45 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 12288
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 284.1695 34.01575 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 56 766.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Class Diagram) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 730.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (The class diagram below shows the main classes with their key fields and methods. Their relationships) Tj T* (are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 709.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 709.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (PharmacyApp) Tj /F1 10.5 Tf ( uses ) Tj /F2 10.5 Tf (PharmacyService) Tj /F1 10.5 Tf ( \(association\) to perform every operation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 677.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 677.8898 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (PharmacyService) Tj /F1 10.5 Tf ( owns one HashMap of medicines, one ) Tj /F2 10.5 Tf (MedicineBST) Tj /F1 10.5 Tf ( and one ) Tj /F2 10.5 Tf (TransactionList) Tj /F1 10.5 Tf  T* (\(composition\) and uses ) Tj /F2 10.5 Tf (FileHandler) Tj /F1 10.5 Tf ( to load and save data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 660.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 660.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (MedicineBST) Tj /F1 10.5 Tf ( stores references to ) Tj /F2 10.5 Tf (Medicine) Tj /F1 10.5 Tf ( objects, each tree node holding one medicine.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 643.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 643.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (TransactionList) Tj /F1 10.5 Tf ( is a singly linked list; each list node holds one stock transaction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 635.8898 cm
+Q
+q
+1 0 0 1 56 248.2898 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+.980392 .980392 .980392 rg
+1 w
+0 J
+0 j
+[] 0 d
+n 0 0 495 387.6 re f*
+Q
+q
+1 1 1 rg
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 0 223 150 156.6 re B*
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 0 362.6 m 150 362.6 l S
+Q
+q
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 46.423 368.05 Tm (PharmacyApp) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 0 338.2 m 150 338.2 l S
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 351.71 Tm (- service : PharmacyService) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 342.51 Tm (- scanner : Scanner) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 328.31 Tm (+ main\(args : String[]\) : void) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 319.11 Tm (- showMenu\(\) : void) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 309.91 Tm (- readChoice\(\) : int) Tj T* ET
+Q
+q
+1 1 1 rg
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 172.5 223 150 156.6 re B*
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 172.5 362.6 m 322.5 362.6 l S
+Q
+q
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 212.0635 368.05 Tm (PharmacyService) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 172.5 319.8 m 322.5 319.8 l S
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 351.71 Tm (- medicineMap : HashMap<String,Medicine>) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 342.51 Tm (- nameTree : MedicineBST) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 333.31 Tm (- transactions : TransactionList) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 324.11 Tm (- LOW_STOCK : int = 10) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 309.91 Tm (+ addMedicine\(name, price, stock, expiry\) : String) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 300.71 Tm (+ searchById\(id : String\) : String) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 291.51 Tm (+ searchByName\(name : String\) : String) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 282.31 Tm (+ sellMedicine\(id, qty\) : String) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 273.11 Tm (+ restockMedicine\(id, qty\) : String) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 263.91 Tm (+ displayAll\(\) : void) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 254.71 Tm (+ lowStockReport\(\) : String) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 245.51 Tm (+ expiryReport\(\) : String) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 236.31 Tm (+ priceReport\(\) : String) Tj T* ET
+Q
+q
+1 1 1 rg
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 345 223 150 156.6 re B*
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 345 362.6 m 495 362.6 l S
+Q
+q
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 396.8545 368.05 Tm (FileHandler) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 345 347.4 m 495 347.4 l S
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 349 351.71 Tm (- fileName : String) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 349 337.51 Tm (+ load\(service\) : void) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 349 328.31 Tm (+ save\(service\) : void) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 349 319.11 Tm (- parseMedicine\(line\) : Medicine) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 349 309.91 Tm (- parseTransaction\(line\) : Transaction) Tj T* ET
+Q
+q
+1 1 1 rg
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 0 14 150 129 re B*
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 0 126 m 150 126 l S
+Q
+q
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 56.81425 131.45 Tm (Medicine) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 0 74 m 150 74 l S
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 115.11 Tm (- id : String) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 105.91 Tm (- name : String) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 96.71 Tm (- price : double) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 87.51 Tm (- stock : int) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 78.31 Tm (- expiryDate : LocalDate) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 64.11 Tm (+ getId\(\) / getName\(\) : String) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 54.91 Tm (+ getPrice\(\) : double) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 45.71 Tm (+ getStock\(\) : int) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 36.51 Tm (+ setStock\(stock : int\) : void) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 4 27.31 Tm (+ toString\(\) : String) Tj T* ET
+Q
+q
+1 1 1 rg
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 172.5 14 150 129 re B*
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 172.5 126 m 322.5 126 l S
+Q
+q
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 220.8143 131.45 Tm (MedicineBST) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 172.5 110.8 m 322.5 110.8 l S
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 115.11 Tm (- root : BSTNode) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 100.91 Tm (+ insert\(m : Medicine\) : void) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 91.71 Tm (+ searchByName\(name : String\) : Medicine) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 82.51 Tm (+ inorder\(\) : List<Medicine>) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.5 73.31 Tm (- insertRec\(node, m\) : BSTNode) Tj T* ET
+Q
+q
+1 1 1 rg
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 345 14 150 129 re B*
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 345 126 m 495 126 l S
+Q
+q
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 388.3545 131.45 Tm (TransactionList) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 345 92.4 m 495 92.4 l S
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 349 115.11 Tm (- head : TxnNode) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 349 105.91 Tm (- tail : TxnNode) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 349 96.71 Tm (- size : int) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 349 82.51 Tm (+ addTransaction\(t : Transaction\) : void) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 349 73.31 Tm (+ toList\(\) : List<Transaction>) Tj T* ET
+Q
+q
+BT /F1 6.3 Tf 7.56 TL ET
+BT /F1 6.3 Tf 7.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 349 64.11 Tm (+ display\(\) : void) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 150 319.6 m 172.5 319.6 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 172.5 319.6 m 165.3 322.3 l 165.3 316.9 l h
+B*
+Q
+q
+BT /F1 6.5 Tf 7.8 TL ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 154.386 322.65 Tm (uses) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 322.5 319.6 m 345 319.6 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 345 319.6 m 337.8 322.3 l 337.8 316.9 l h
+B*
+Q
+q
+BT /F1 6.5 Tf 7.8 TL ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 326.886 322.65 Tm (uses) Tj T* ET
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 247.5 223 m 252.5 215 l 247.5 207 l 242.5 215 l h
+B*
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 247.5 207 m 247.5 183 l S
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 75 183 m 420 183 l S
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 75 183 m 75 143 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 75 143 m 77.7 150.2 l 72.3 150.2 l h
+B*
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 247.5 183 m 247.5 143 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 247.5 143 m 250.2 150.2 l 244.8 150.2 l h
+B*
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 420 183 m 420 143 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 420 143 m 422.7 150.2 l 417.3 150.2 l h
+B*
+Q
+q
+BT /F1 6.5 Tf 7.8 TL ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 253.5 209.05 Tm (has-a \(composition\)) Tj T* ET
+Q
+q
+BT /F1 6.2 Tf 7.44 TL ET
+BT /F1 6.2 Tf 7.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 78 185.14 Tm (stores many \(HashMap by ID\)) Tj T* ET
+Q
+q
+BT /F1 6.5 Tf 7.8 TL ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 250.5 171.05 Tm (1) Tj T* ET
+Q
+q
+BT /F1 6.5 Tf 7.8 TL ET
+BT /F1 6.5 Tf 7.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 413.386 185.05 Tm (1) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 172.5 93 m 150 93 l S
+Q
+q
+.133333 .133333 .133333 rg
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 150 93 m 157.2 90.3 l 157.2 95.7 l h
+B*
+Q
+q
+BT /F1 6.2 Tf 7.44 TL ET
+BT /F1 6.2 Tf 7.44 TL ET
+0 0 0 rg
+BT 1 0 0 1 152.8087 96.14 Tm (stores) Tj T* ET
+Q
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 284.1717 33.5 Tm
+(Page 8) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+45 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+46 0 obj
+<<
+/Contents 47 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 28 0 R
+/F1-0 48 0 R
+/F2 30 0 R
+/F3 31 0 R
+/F4 32 0 R
+/F5 33 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+47 0 obj
+<<
+/Length 12620
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 56 774.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Data Structure Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 725.3898 cm
+q
+BT 1 0 0 1 0 33 Tm 14.5 TL /F1 10.5 Tf 0 0 0 rg (The project uses three in-memory data structures at the same time. Each one is chosen for a different) Tj T* (kind of question the pharmacist asks, and all three refer to the same ) Tj /F2 10.5 Tf (Medicine) Tj /F1 10.5 Tf ( objects, so a stock) Tj T* (change made through one of them is visible through the others.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 705.3898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (1. HashMap for ID lookup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 658.8898 cm
+q
+BT 1 0 0 1 0 33 Tm 14.5 TL /F1 10.5 Tf 0 0 0 rg (Every medicine is stored in a ) Tj /F2 10.5 Tf (HashMap) Tj (<) Tj (String, Medicine) Tj (>) Tj /F1 10.5 Tf ( with its ID \(M101, M102, ...\) as the key.) Tj T* (Selling, restocking and searching by ID need only one hash lookup, which takes constant time on) Tj T* (average, no matter how many medicines are stored.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 534.8898 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 106 Tm (HashMap<String, Medicine>   \(key = medicine ID\)) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 10 78 50 20 re B*
+Q
+q
+BT /F2 9 Tf 10.8 TL ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 23.7455 84.85 Tm (M101) Tj T* ET
+Q
+q
+.2 .2 .2 RG
+.9 w
+0 J
+0 j
+[] 0 d
+n 60 88 m 100 88 l S
+Q
+q
+.2 .2 .2 rg
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 100 88 m 95.3947 89.94709 l 95.3947 86.05291 l h
+B*
+Q
+q
+1 1 1 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 100 78 240 20 re B*
+Q
+q
+BT /F1 8.5 Tf 10.2 TL ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 148.6467 85.025 Tm (Paracetamol | 25.00 | 50 | 2027-12-31) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 10 53 50 20 re B*
+Q
+q
+BT /F2 9 Tf 10.8 TL ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 23.7455 59.85 Tm (M102) Tj T* ET
+Q
+q
+.2 .2 .2 RG
+.9 w
+0 J
+0 j
+[] 0 d
+n 60 63 m 100 63 l S
+Q
+q
+.2 .2 .2 rg
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 100 63 m 95.3947 64.94709 l 95.3947 61.05291 l h
+B*
+Q
+q
+1 1 1 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 100 53 240 20 re B*
+Q
+q
+BT /F1 8.5 Tf 10.2 TL ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 154.7922 60.025 Tm (Cetirizine | 18.00 | 30 | 2027-03-15) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 10 28 50 20 re B*
+Q
+q
+BT /F2 9 Tf 10.8 TL ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 23.7455 34.85 Tm (M103) Tj T* ET
+Q
+q
+.2 .2 .2 RG
+.9 w
+0 J
+0 j
+[] 0 d
+n 60 38 m 100 38 l S
+Q
+q
+.2 .2 .2 rg
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 100 38 m 95.3947 39.94709 l 95.3947 36.05291 l h
+B*
+Q
+q
+1 1 1 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 100 28 240 20 re B*
+Q
+q
+BT /F1 8.5 Tf 10.2 TL ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 154.7965 35.025 Tm (Amoxicillin | 95.00 | 8 | 2026-12-20) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 10 3 50 20 re B*
+Q
+q
+BT /F2 9 Tf 10.8 TL ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 23.7455 9.85 Tm (M104) Tj T* ET
+Q
+q
+.2 .2 .2 RG
+.9 w
+0 J
+0 j
+[] 0 d
+n 60 13 m 100 13 l S
+Q
+q
+.2 .2 .2 rg
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 100 13 m 95.3947 14.94709 l 95.3947 11.05291 l h
+B*
+Q
+q
+1 1 1 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 100 3 240 20 re B*
+Q
+q
+BT /F1 8.5 Tf 10.2 TL ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 154.5457 10.025 Tm (Ibuprofen | 32.00 | 40 | 2028-01-10) Tj T* ET
+Q
+q
+BT /F4 8 Tf 9.6 TL ET
+BT /F4 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 360 62 Tm (get\(id\) / put\(id, m\): O\(1\) average) Tj T* ET
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56 514.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (2. Binary Search Tree for name order) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 468.3898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33 Tm /F1 10.5 Tf 14.5 TL -0.140276 Tw (The BST stores the same medicines ordered by lowercase name. Searching by name follows left or right) Tj T* 0 Tw (children instead of scanning all medicines, and an in-order traversal produces the alphabetical list used) Tj T* (by "display all". Using lowercase names makes the search case-insensitive.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 327.3898 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 124 Tm (MedicineBST   \(key = lowercase name\)) Tj T* ET
+Q
+q
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 200 90 m 110 64 l S
+Q
+q
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 110 50 m 50 24 l S
+Q
+q
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 110 50 m 170 24 l S
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n
+174 90 m
+226 90 l
+231.528 90 236 94.472 236 100 c
+236 102 l
+236 107.528 231.528 112 226 112 c
+174 112 l
+168.472 112 164 107.528 164 102 c
+164 100 l
+164 94.472 168.472 90 174 90 c
+h
+B*
+Q
+q
+BT /F1 8.5 Tf 10.2 TL ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 176.6165 97 Tm (paracetamol) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n
+84 50 m
+136 50 l
+141.528 50 146 54.472 146 60 c
+146 62 l
+146 67.528 141.528 72 136 72 c
+84 72 l
+78.472 72 74 67.528 74 62 c
+74 60 l
+74 54.472 78.472 50 84 50 c
+h
+B*
+Q
+q
+BT /F1 8.5 Tf 10.2 TL ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 93.23375 57 Tm (cetirizine) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n
+24 10 m
+76 10 l
+81.528 10 86 14.472 86 20 c
+86 22 l
+86 27.528 81.528 32 76 32 c
+24 32 l
+18.472 32 14 27.528 14 22 c
+14 20 l
+14 14.472 18.472 10 24 10 c
+h
+B*
+Q
+q
+BT /F1 8.5 Tf 10.2 TL ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.40325 17 Tm (amoxicillin) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n
+144 10 m
+196 10 l
+201.528 10 206 14.472 206 20 c
+206 22 l
+206 27.528 201.528 32 196 32 c
+144 32 l
+138.472 32 134 27.528 134 22 c
+134 20 l
+134 14.472 138.472 10 144 10 c
+h
+B*
+Q
+q
+BT /F1 8.5 Tf 10.2 TL ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 152.2817 17 Tm (ibuprofen) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 290 90 Tm (Insert order: M101, M102, M103, M104) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 290 76 Tm (Left child  < parent   <   right child) Tj T* ET
+Q
+q
+BT /F2 8 Tf 9.6 TL ET
+BT /F2 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 290 56 Tm (In-order traversal \(left, node, right\):) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 290 43 Tm (amoxicillin, cetirizine, ibuprofen,) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 290 31 Tm (paracetamol  \(alphabetical, O\(n\)\)) Tj T* ET
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56 307.3898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (3. Singly linked list for stock history) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 260.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33 Tm /F1 10.5 Tf 14.5 TL (Each ADD, RESTOCK and SELL operation creates a transaction node that is appended at the tail. The) Tj T* (list therefore keeps the history in the exact order in which the operations happened, and adding a node) Tj T* (never requires shifting existing records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 182.8898 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+BT /F2 8.5 Tf 10.2 TL ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 60 Tm (TransactionList   \(singly linked list, appended at tail\)) Tj T* ET
+Q
+q
+BT /F2 8 Tf 9.6 TL ET
+BT /F2 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 2 36 Tm (head) Tj T* ET
+Q
+q
+.2 .2 .2 RG
+.9 w
+0 J
+0 j
+[] 0 d
+n 26 38 m 40 38 l S
+Q
+q
+.2 .2 .2 rg
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 40 38 m 35.3947 39.94709 l 35.3947 36.05291 l h
+B*
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 40 22 70 32 re B*
+Q
+q
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 92 22 m 92 54 l S
+Q
+q
+BT /F2 7 Tf 8.4 TL ET
+BT /F2 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 42 Tm (T1 ADD M101) Tj T* ET
+Q
+q
+BT /F1 7 Tf 8.4 TL ET
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 28 Tm (qty 50) Tj T* ET
+Q
+q
+BT /F1 5.5 Tf 6.6 TL ET
+BT /F1 5.5 Tf 6.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 96 35 Tm (next) Tj T* ET
+Q
+q
+.2 .2 .2 RG
+.9 w
+0 J
+0 j
+[] 0 d
+n 110 38 m 132 38 l S
+Q
+q
+.2 .2 .2 rg
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 132 38 m 127.3947 39.94709 l 127.3947 36.05291 l h
+B*
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 132 22 70 32 re B*
+Q
+q
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 184 22 m 184 54 l S
+Q
+q
+BT /F2 7 Tf 8.4 TL ET
+BT /F2 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 135 42 Tm (T2 ADD M102) Tj T* ET
+Q
+q
+BT /F1 7 Tf 8.4 TL ET
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 135 28 Tm (qty 30) Tj T* ET
+Q
+q
+BT /F1 5.5 Tf 6.6 TL ET
+BT /F1 5.5 Tf 6.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 188 35 Tm (next) Tj T* ET
+Q
+q
+.2 .2 .2 RG
+.9 w
+0 J
+0 j
+[] 0 d
+n 202 38 m 224 38 l S
+Q
+q
+.2 .2 .2 rg
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 224 38 m 219.3947 39.94709 l 219.3947 36.05291 l h
+B*
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 224 22 70 32 re B*
+Q
+q
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 276 22 m 276 54 l S
+Q
+q
+BT /F2 7 Tf 8.4 TL ET
+BT /F2 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 227 42 Tm (T3 ADD M103) Tj T* ET
+Q
+q
+BT /F1 7 Tf 8.4 TL ET
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 227 28 Tm (qty 8) Tj T* ET
+Q
+q
+BT /F1 5.5 Tf 6.6 TL ET
+BT /F1 5.5 Tf 6.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 280 35 Tm (next) Tj T* ET
+Q
+q
+.2 .2 .2 RG
+.9 w
+0 J
+0 j
+[] 0 d
+n 294 38 m 316 38 l S
+Q
+q
+.2 .2 .2 rg
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 316 38 m 311.3947 39.94709 l 311.3947 36.05291 l h
+B*
+Q
+q
+.772549 .85098 .92549 rg
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 316 22 70 32 re B*
+Q
+q
+.13 .13 .13 RG
+.8 w
+0 J
+0 j
+[] 0 d
+n 368 22 m 368 54 l S
+Q
+q
+BT /F2 7 Tf 8.4 TL ET
+BT /F2 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 319 42 Tm (T4 ADD M104) Tj T* ET
+Q
+q
+BT /F1 7 Tf 8.4 TL ET
+BT /F1 7 Tf 8.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 319 28 Tm (qty 40) Tj T* ET
+Q
+q
+BT /F1 5.5 Tf 6.6 TL ET
+BT /F1 5.5 Tf 6.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 372 35 Tm (next) Tj T* ET
+Q
+q
+.2 .2 .2 RG
+.9 w
+0 J
+0 j
+[] 0 d
+n 386 38 m 400 38 l S
+Q
+q
+.2 .2 .2 rg
+.2 .2 .2 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 400 38 m 395.3947 39.94709 l 395.3947 36.05291 l h
+B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 403 35 Tm (null) Tj T* ET
+Q
+q
+BT /F2 8 Tf 9.6 TL ET
+BT /F2 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 403 10 Tm (tail) Tj T* ET
+Q
+q
+BT /F4 8 Tf 9.6 TL ET
+BT /F4 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 8 Tm (addTransaction\(\): O\(1\) using the tail reference) Tj T* ET
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56 178.8898 cm
+Q
+q
+1 0 0 1 75.1378 110.8898 cm
+q
+.93 .9 .99 rg
+n 0 68 445 -17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Structure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Key / order) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Used for) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Main cost) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 37 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (HashMap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86 37 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Medicine ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 37 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Search by ID, sell, restock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366 37 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (O\(1\) average) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 20 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (BST) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86 20 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Lowercase name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 20 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Search by name, alphabetical display) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366 20 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (O\(h\); O\(log n\) avg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Linked list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Order of events) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Transaction history) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (O\(1\) append at tail) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.55 .55 .55 RG
+.5 w
+n 0 68 m 445 68 l S
+n 0 0 m 445 0 l S
+n 0 0 m 0 68 l S
+n 445 0 m 445 68 l S
+n 0 51 m 445 51 l S
+n 0 34 m 445 34 l S
+n 0 17 m 445 17 l S
+n 80 0 m 80 68 l S
+n 170 0 m 170 68 l S
+n 360 0 m 360 68 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 284.1717 33.5 Tm
+(Page 9) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+48 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+49 0 obj
+<<
+/Contents 50 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 28 0 R
+/F1-0 51 0 R
+/F2 30 0 R
+/F3 31 0 R
+/F4 32 0 R
+/F5 33 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 4565
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 56 774.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Algorithms \(Pseudocode\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 739.8898 cm
+q
+BT 1 0 0 1 0 18.5 Tm 14.5 TL /F1 10.5 Tf 0 0 0 rg (The main operations of ) Tj /F2 10.5 Tf (PharmacyService) Tj /F1 10.5 Tf ( are outlined below in simplified pseudocode. They show the) Tj T* (order of checks and updates that the Java methods follow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 719.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Add and sell) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 543.6898 cm
+q
+.98 .98 .98 rg
+n 0 173.2 483.2756 -173.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 5 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 155.2 Tm /F5 8 Tf 10.2 TL (addMedicine\(name, price, stock, expiry\):) Tj T* (    if price <= 0 or stock < 0: return error      // nothing is stored) Tj T* (    id = "M" + nextNumber\(\)                        // M101, M102, ...) Tj T* (    m  = new Medicine\(id, name, price, stock, expiry\)) Tj T* (    medicineMap.put\(id, m\)                        // O\(1\) average) Tj T* (    nameTree.insert\(m\)                            // O\(h\)) Tj T* (    transactions.addTransaction\(ADD, id, stock\)   // O\(1\)) Tj T* (    return "Medicine added: " + id + ...) Tj T*  T* (sellMedicine\(id, qty\):) Tj T* (    m = medicineMap.get\(id\)) Tj T* (    if m == null:           return "Medicine " + id + " not found.") Tj T* (    if qty <= 0 or qty > m.stock: return error    // stock unchanged) Tj T* (    m.setStock\(m.stock - qty\)) Tj T* (    transactions.addTransaction\(SELL, id, qty\)) Tj T* (    return "Sale recorded. Remaining stock: " + m.stock) Tj T* ET
+Q
+q
+1 J
+1 j
+.6 .6 .6 RG
+.6 w
+n 0 173.2 m 483.2756 173.2 l S
+n 0 0 m 483.2756 0 l S
+n 0 0 m 0 173.2 l S
+n 483.2756 0 m 483.2756 173.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 56 523.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (BST insert, search and in-order traversal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 347.4898 cm
+q
+.98 .98 .98 rg
+n 0 173.2 483.2756 -173.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 5 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 155.2 Tm /F5 8 Tf 10.2 TL (insertRec\(node, m\):) Tj T* (    if node == null: return new BSTNode\(m\)) Tj T* (    if key\(m\) < key\(node.medicine\): node.left  = insertRec\(node.left, m\)) Tj T* (    else:                           node.right = insertRec\(node.right, m\)) Tj T* (    return node) Tj T*  T* (searchByName\(name\):                  // key = name.toLowerCase\(\)) Tj T* (    node = root) Tj T* (    while node != null:) Tj T* (        if key == key\(node.medicine\): return node.medicine) Tj T* (        node = \(key < key\(node.medicine\)\) ? node.left : node.right) Tj T* (    return null) Tj T*  T* (inorder\(node, out\):                  // alphabetical order) Tj T* (    if node == null: return) Tj T* (    inorder\(node.left, out\); out.add\(node.medicine\); inorder\(node.right, out\)) Tj T* ET
+Q
+q
+1 J
+1 j
+.6 .6 .6 RG
+.6 w
+n 0 173.2 m 483.2756 173.2 l S
+n 0 0 m 483.2756 0 l S
+n 0 0 m 0 173.2 l S
+n 483.2756 0 m 483.2756 173.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 56 327.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Merge sort for reports and the low-stock filter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 222.6898 cm
+q
+.98 .98 .98 rg
+n 0 101.8 483.2756 -101.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 5 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 83.8 Tm /F5 8 Tf 10.2 TL (mergeSort\(list, compareBy\):          // compareBy = expiry date or price) Tj T* (    if list.size <= 1: return list) Tj T* (    left  = mergeSort\(firstHalf\(list\),  compareBy\)) Tj T* (    right = mergeSort\(secondHalf\(list\), compareBy\)) Tj T* (    return merge\(left, right, compareBy\)   // take the smaller front item each time) Tj T*  T* (lowStockReport\(\):) Tj T* (    for each m in medicineMap.values\(\): if m.stock < LOW_STOCK \(10\): add m to result) Tj T* (    if result is empty: return "No medicines below the low-stock threshold.") Tj T* ET
+Q
+q
+1 J
+1 j
+.6 .6 .6 RG
+.6 w
+n 0 101.8 m 483.2756 101.8 l S
+n 0 0 m 483.2756 0 l S
+n 0 0 m 0 101.8 l S
+n 483.2756 0 m 483.2756 101.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 56 198.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Merge sort is stable and always takes O\(n log n\) time, so medicines with equal prices or expiry dates keep their original) Tj T* (relative order in the reports.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 281.8087 33.5 Tm
+(Page 10) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+51 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+52 0 obj
+<<
+/Contents 53 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 28 0 R
+/F1-0 54 0 R
+/F2 30 0 R
+/F3 31 0 R
+/F4 32 0 R
+/F5 33 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+53 0 obj
+<<
+/Length 11421
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 56 774.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Validation Rules and Test Plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 739.8898 cm
+q
+BT 1 0 0 1 0 18.5 Tm 14.5 TL /F1 10.5 Tf 0 0 0 rg (Every operation is checked ) Tj /F4 10.5 Tf (before) Tj /F1 10.5 Tf ( any data is changed. If a check fails, an error message is returned,) Tj T* (the stock is left unchanged and no transaction is recorded.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 72.6378 614.8898 cm
+q
+.93 .9 .99 rg
+n 0 119 450 -17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Rule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Applies to) Tj T* ET
+Q
+Q
+q
+1 0 0 1 316 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Result when violated) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Price must be greater than zero) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Add medicine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 316 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Medicine is not added) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 71 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Stock must not be negative) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206 71 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Add medicine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 316 71 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Medicine is not added) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Quantity must be positive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sell, restock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 316 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Operation rejected) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 37 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sale quantity must not exceed available stock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206 37 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sell) Tj T* ET
+Q
+Q
+q
+1 0 0 1 316 37 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sale rejected, stock unchanged) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 20 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Medicine ID must exist in the HashMap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206 20 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Search, sell, restock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 316 20 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11 TL /F1 8.5 Tf 0 0 0 rg (Medicine <) Tj (ID) Tj (> not found.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Missing data file is treated as empty inventory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 206 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Start-up load) Tj T* ET
+Q
+Q
+q
+1 0 0 1 316 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Program starts with no medicines) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.55 .55 .55 RG
+.5 w
+n 0 119 m 450 119 l S
+n 0 0 m 450 0 l S
+n 0 0 m 0 119 l S
+n 450 0 m 450 119 l S
+n 0 102 m 450 102 l S
+n 0 85 m 450 85 l S
+n 0 68 m 450 68 l S
+n 0 51 m 450 51 l S
+n 0 34 m 450 34 l S
+n 0 17 m 450 17 l S
+n 200 0 m 200 119 l S
+n 310 0 m 310 119 l S
+Q
+Q
+Q
+q
+1 0 0 1 56 608.8898 cm
+Q
+q
+1 0 0 1 56 588.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Planned test cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 561.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (The first four cases are the test cases of the problem statement. The others cover the remaining rules and features. Test) Tj T* (data uses the sample inventory \(M101 to M104\) given in this report.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.1378 181.8898 cm
+q
+.93 .9 .99 rg
+n 0 377 435 -17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (No.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Test case) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Input / action) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Expected result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 346 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 346 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Normal input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 346 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Add Paracetamol, price 25, stock 50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 335 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Medicine added: M101 | Paracetamol |) Tj T* (25 | Stock 50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 318 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 318 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Boundary / minimum) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 307 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Only one medicine exists; low-stock) Tj T* (report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 307 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (No medicines below the low-stock) Tj T* (threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 290 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 290 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Invalid input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 290 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Search for medicine M999) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 290 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Medicine M999 not found.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 262 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Different valid) Tj T* (scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Paracetamol stock is 10; sell 3 units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sale recorded. Remaining stock: 7.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 245 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 245 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Zero price) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 245 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Add a medicine with price 0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 245 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Rejected; inventory unchanged) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Negative stock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Add a medicine with stock -5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Rejected; inventory unchanged) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 211 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 211 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Overselling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 211 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Medicine has stock 8; sell 9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 211 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Rejected; stock stays 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 194 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 194 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sell exactly all stock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 194 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Medicine has stock 8; sell 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 194 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sale recorded. Remaining stock: 0.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Restock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Restock M103 by 20 \(stock 8\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Stock becomes 28; RESTOCK) Tj T* (transaction added) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 149 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 149 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Search by name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 149 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Search "IBUPROFEN") Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 149 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Ibuprofen is found \(lowercase key\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Display all) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Display with M101 to M104) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 121 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Amoxicillin, Cetirizine, Ibuprofen,) Tj T* (Paracetamol) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Expiry report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Expiry report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Amoxicillin, Cetirizine, Paracetamol,) Tj T* (Ibuprofen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Price report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Price report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Cetirizine, Paracetamol, Ibuprofen,) Tj T* (Amoxicillin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Low-stock report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 48 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11 TL /F1 8.5 Tf 0 0 0 rg (Low-stock report \(stock < 10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Amoxicillin \(stock 8\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 31 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 31 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Persistence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 31 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Add, sell, exit, restart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 20 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (Medicines, stock and transactions are) Tj T* (restored) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (16) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Missing file) Tj T* ET
+Q
+Q
+q
+1 0 0 1 131 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Start with no pharmacy.txt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 281 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Empty inventory, no crash) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.55 .55 .55 RG
+.5 w
+n 0 377 m 435 377 l S
+n 0 0 m 435 0 l S
+n 0 0 m 0 377 l S
+n 435 0 m 435 377 l S
+n 0 360 m 435 360 l S
+n 0 332 m 435 332 l S
+n 0 304 m 435 304 l S
+n 0 287 m 435 287 l S
+n 0 259 m 435 259 l S
+n 0 242 m 435 242 l S
+n 0 225 m 435 225 l S
+n 0 208 m 435 208 l S
+n 0 191 m 435 191 l S
+n 0 163 m 435 163 l S
+n 0 146 m 435 146 l S
+n 0 118 m 435 118 l S
+n 0 90 m 435 90 l S
+n 0 62 m 435 62 l S
+n 0 45 m 435 45 l S
+n 0 17 m 435 17 l S
+n 30 0 m 30 377 l S
+n 125 0 m 125 377 l S
+n 275 0 m 275 377 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 281.8087 33.5 Tm
+(Page 11) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+54 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+55 0 obj
+<<
+/Contents 56 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 28 0 R
+/F1-0 57 0 R
+/F2 30 0 R
+/F3 31 0 R
+/F4 32 0 R
+/F5 33 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+56 0 obj
+<<
+/Length 6810
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 56 774.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Console Interface and Sample Session) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 725.3898 cm
+q
+BT 1 0 0 1 0 33 Tm 14.5 TL /F1 10.5 Tf 0 0 0 rg (The program is menu driven. ) Tj /F2 10.5 Tf (PharmacyApp) Tj /F1 10.5 Tf ( displays the menu, reads the choice, passes the values to) Tj T* /F2 10.5 Tf (PharmacyService) Tj /F1 10.5 Tf ( and prints the message that is returned. The layout below is the planned design; the) Tj T* (wording of the prompts may change slightly during implementation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 705.3898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Main menu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 620.9898 cm
+q
+.98 .98 .98 rg
+n 0 81.4 483.2756 -81.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 5 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 63.4 Tm /F5 8 Tf 10.2 TL (===== Pharmacy Inventory System =====) Tj T* ( 1. Add medicine            6. Display all medicines) Tj T* ( 2. Search by ID            7. Low-stock report) Tj T* ( 3. Search by name          8. Expiry report) Tj T* ( 4. Sell medicine           9. Price report) Tj T* ( 5. Restock medicine        0. Save and exit) Tj T* (Enter your choice: ) Tj T* ET
+Q
+q
+1 J
+1 j
+.6 .6 .6 RG
+.6 w
+n 0 81.4 m 483.2756 81.4 l S
+n 0 0 m 483.2756 0 l S
+n 0 0 m 0 81.4 l S
+n 483.2756 0 m 483.2756 81.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 56 600.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Illustrative session) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 573.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (The messages for add, search failure, sale and low-stock report are the expected outputs defined in the test cases; the) Tj T* (remaining lines are illustrative.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 346.7898 cm
+q
+.98 .98 .98 rg
+n 0 224.2 483.2756 -224.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 5 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 206.2 Tm /F5 8 Tf 10.2 TL (Enter your choice: 1) Tj T* (Name: Paracetamol   Price: 25   Stock: 50   Expiry \(yyyy-mm-dd\): 2027-12-31) Tj T* (Medicine added: M101 | Paracetamol | 25 | Stock 50) Tj T*  T* (Enter your choice: 3) Tj T* (Medicine name: paracetamol) Tj T* (M101 | Paracetamol | 25.0 | Stock 50 | Expiry 2027-12-31) Tj T*  T* (Enter your choice: 4) Tj T* (Medicine ID: M101   Quantity: 3) Tj T* (Sale recorded. Remaining stock: 47.) Tj T*  T* (Enter your choice: 2) Tj T* (Medicine ID: M999) Tj T* (Medicine M999 not found.) Tj T*  T* (Enter your choice: 7) Tj T* (No medicines below the low-stock threshold.) Tj T*  T* (Enter your choice: 0) Tj T* (Data saved to pharmacy.txt. Goodbye.) Tj T* ET
+Q
+q
+1 J
+1 j
+.6 .6 .6 RG
+.6 w
+n 0 224.2 m 483.2756 224.2 l S
+n 0 0 m 483.2756 0 l S
+n 0 0 m 0 224.2 l S
+n 483.2756 0 m 483.2756 224.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 56 326.7898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Features and data structures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.1378 187.7898 cm
+q
+.93 .9 .99 rg
+n 0 136 435 -17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Menu option) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Data structure used) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Time complexity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Add medicine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (HashMap + BST + linked list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (O\(1\) avg + O\(h\) + O\(1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Search by ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (HashMap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (O\(1\) average) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 71 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Search by name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 71 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (BST) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326 71 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (O\(h\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Sell / Restock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (HashMap + linked list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (O\(1\) average) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 37 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Display all) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 37 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (BST in-order traversal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326 37 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (O\(n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 20 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Expiry / Price report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 20 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Merge sort) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326 20 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (O\(n log n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Low-stock report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Linear scan of HashMap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 326 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (O\(n\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.55 .55 .55 RG
+.5 w
+n 0 136 m 435 136 l S
+n 0 0 m 435 0 l S
+n 0 0 m 0 136 l S
+n 435 0 m 435 136 l S
+n 0 119 m 435 119 l S
+n 0 102 m 435 102 l S
+n 0 85 m 435 85 l S
+n 0 68 m 435 68 l S
+n 0 51 m 435 51 l S
+n 0 34 m 435 34 l S
+n 0 17 m 435 17 l S
+n 150 0 m 150 136 l S
+n 320 0 m 320 136 l S
+Q
+Q
+Q
+q
+1 0 0 1 56 167.7898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Known limitations of this version) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 135.7898 cm
+q
+BT 1 0 0 1 2 18.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 16 18.5 Tm /F1 10.5 Tf 14.5 TL (The BST is not self-balancing, so searching by name can degrade to O\(n\) if medicines are added in) Tj T* (alphabetical order \(see Future Scope\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 104.7898 cm
+q
+BT 1 0 0 1 2 18.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 16 18.5 Tm /F1 10.5 Tf 14.5 TL (Data is kept in a plain text file; it is loaded fully into memory and rewritten on exit, so work done in a) Tj T* (session is lost if the program is closed without choosing Exit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 88.28976 cm
+q
+BT 1 0 0 1 2 4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 16 4 Tm /F1 10.5 Tf 14.5 TL (The program is single-user and has no login, billing or supplier management.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 281.8087 33.5 Tm
+(Page 12) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+57 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+58 0 obj
+<<
+/Contents 59 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 60 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+59 0 obj
+<<
+/Length 7409
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 284.1695 34.01575 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 56 766.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 715.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (The system is designed using six main Java classes \(plus the small Transaction, BSTNode and) Tj T* (TxnNode helper classes\) and a text data file. This section describes the planned design of the) Tj T* (application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 695.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Medicine Class:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 662.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Holds the details of one medicine: ID, name, price, stock quantity and expiry date. The setter for stock is) Tj T* (only called after the stock rules have been checked.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 642.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (MedicineBST Class:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 594.8898 cm
+q
+BT 1 0 0 1 0 34.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (A Binary Search Tree ordered by the lowercase medicine name. ) Tj /F2 10.5 Tf (insert\(medicine\)) Tj /F1 10.5 Tf ( places a medicine in) Tj T* (its correct position, ) Tj /F2 10.5 Tf (searchByName\(name\)) Tj /F1 10.5 Tf ( follows left or right children until the name is found and) Tj T* /F2 10.5 Tf (inorder\(\)) Tj /F1 10.5 Tf ( returns all medicines in alphabetical order.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 574.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (TransactionList Class:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 526.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (A singly linked list of stock transactions. Each node stores a transaction ID, medicine ID, type \(ADD,) Tj T* (RESTOCK or SELL\), quantity and date. New transactions are appended at the tail in O\(1\) time, so the) Tj T* (list keeps the history in the order in which the transactions happened.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 506.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (PharmacyService Class:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 473.8898 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (The core class of the project. It keeps a ) Tj /F2 10.5 Tf (HashMap) Tj (<) Tj (String, Medicine) Tj (>) Tj /F1 10.5 Tf ( for ID lookup, the BST for) Tj T* (name-based organisation and the linked list for transactions. Its main methods are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 452.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 452.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (addMedicine) Tj /F1 10.5 Tf ( \226 rejects price <) Tj (= 0 or negative stock, generates the ID and stores the medicine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 435.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 435.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (searchById / searchByName) Tj /F1 10.5 Tf ( \226 use the HashMap and the BST respectively) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 418.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 418.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (sellMedicine) Tj /F1 10.5 Tf ( \226 rejects a quantity greater than the available stock, otherwise reduces the stock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 401.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 401.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (restockMedicine) Tj /F1 10.5 Tf ( \226 increases the stock by a positive quantity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 384.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 384.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (displayAll) Tj /F1 10.5 Tf ( \226 prints medicines in alphabetical order using the BST in-order traversal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 367.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 367.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (expiryReport / priceReport) Tj /F1 10.5 Tf ( \226 sort the medicines \(merge sort\) by expiry date or price) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 350.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 350.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (lowStockReport) Tj /F1 10.5 Tf ( \226 lists medicines whose stock is below the threshold) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 330.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (FileHandler Class:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 297.8898 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (Reads ) Tj /F2 10.5 Tf (pharmacy.txt) Tj /F1 10.5 Tf ( at start-up and writes the current medicines and transactions back when the) Tj T* (program exits. A missing file is treated as an empty inventory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 277.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (PharmacyApp Class:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 244.8898 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (Contains the ) Tj /F2 10.5 Tf (main) Tj /F1 10.5 Tf ( method and the console menu. It reads the user's choice, passes the values to) Tj T* (PharmacyService and prints the returned message.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 224.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Data file format \(pharmacy.txt\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 198.8898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F4 8.5 Tf 11 TL (MED|M101|Paracetamol|25.0|50|2027-12-31) Tj T* (TXN|T1|M101|ADD|50|2026-11-10) Tj T* ET
+Q
+q
+1 0 0 1 56 174.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Time Complexity \(n = number of medicines, h = height of the BST, T = number of transactions\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 156.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 156.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Lookup, add or update a medicine by ID in the HashMap: O\(1\) on average) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 139.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 139.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Insert or search by name in the BST: O\(h\), which is O\(log n\) on average and O\(n\) in the worst case) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 122.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 122.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Display all medicines in name order \(in-order traversal\): O\(n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 105.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 105.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Add a transaction at the tail of the linked list: O\(1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 88.88976 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 88.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Sort medicines by expiry date or price \(merge sort\): O\(n log n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 71.88976 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 71.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Low-stock report: O\(n\)) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 281.8087 33.5 Tm
+(Page 13) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+60 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+61 0 obj
+<<
+/Contents 62 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 63 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+62 0 obj
+<<
+/Length 9259
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 284.1695 34.01575 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 56 770.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 770.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Load or save the data file: O\(n + T\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 739.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Sample Input/Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 718.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (The four test cases of the problem statement and their expected output are given below:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.1378 576.8898 cm
+q
+.890196 .909804 .94902 rg
+n 0 136 495 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Test Case) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Expected Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1. Normal Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Add Paracetamol, price 25, stock 50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Medicine added: M101 | Paracetamol | 25 |) Tj T* (Stock 50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 56 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (2. Boundary / Minimum) Tj T* (Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 56 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Only one medicine exists; display low-stock) Tj T* (report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306 62 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (No medicines below the low-stock threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3. Invalid Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Search for medicine M999) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Medicine M999 not found.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (4. Different Valid) Tj T* (Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Paracetamol stock is 10; sell 3 units and) Tj T* (display stock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 306 10 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Sale recorded. Remaining stock: 7.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.333333 .333333 .333333 RG
+.6 w
+n 0 136 m 495 136 l S
+n 0 0 m 495 0 l S
+n 0 0 m 0 136 l S
+n 495 0 m 495 136 l S
+n 0 116 m 495 116 l S
+n 0 84 m 495 84 l S
+n 0 52 m 495 52 l S
+n 0 32 m 495 32 l S
+n 110 0 m 110 136 l S
+n 300 0 m 300 136 l S
+Q
+Q
+Q
+q
+1 0 0 1 56 568.8898 cm
+Q
+q
+1 0 0 1 56 538.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Invalid operations such as a price of 0 or less, a negative stock value, or selling more units than are) Tj T* (available are rejected with an error message, and the stock is left unchanged.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 517.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (An illustrative sample inventory \(the values are example values chosen for demonstration\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.1378 411.8898 cm
+q
+.890196 .909804 .94902 rg
+n 0 100 495 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 84 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 84 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 196 84 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Price) Tj T* ET
+Q
+Q
+q
+1 0 0 1 276 84 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Stock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356 84 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Expiry Date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (M101) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Paracetamol) Tj T* ET
+Q
+Q
+q
+1 0 0 1 196 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (25.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 276 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2027-12-31) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (M102) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Cetirizine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 196 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (18.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 276 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2027-03-15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (M103) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Amoxicillin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 196 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (95.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 276 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2026-12-20) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (M104) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Ibuprofen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 196 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (32.00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 276 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (40) Tj T* ET
+Q
+Q
+q
+1 0 0 1 356 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2028-01-10) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.333333 .333333 .333333 RG
+.6 w
+n 0 100 m 495 100 l S
+n 0 0 m 495 0 l S
+n 0 0 m 0 100 l S
+n 495 0 m 495 100 l S
+n 0 80 m 495 80 l S
+n 0 60 m 495 60 l S
+n 0 40 m 495 40 l S
+n 0 20 m 495 20 l S
+n 60 0 m 60 100 l S
+n 190 0 m 190 100 l S
+n 270 0 m 270 100 l S
+n 350 0 m 350 100 l S
+Q
+Q
+Q
+q
+1 0 0 1 56 403.8898 cm
+Q
+q
+1 0 0 1 56 388.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Reports produced from this inventory:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 50.1378 270.8898 cm
+q
+.890196 .909804 .94902 rg
+n 0 112 495 -20 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Output \(in order\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Display all \(BST, by name\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Amoxicillin, Cetirizine, Ibuprofen, Paracetamol) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Expiry report \(earliest first\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Amoxicillin \(2026-12-20\), Cetirizine \(2027-03-15\), Paracetamol \(2027-12-31\),) Tj T* (Ibuprofen \(2028-01-10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Price report \(lowest first\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Cetirizine \(18\), Paracetamol \(25\), Ibuprofen \(32\), Amoxicillin \(95\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf 0 0 0 rg (Low-stock report \(stock < 10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Amoxicillin \(stock 8\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.333333 .333333 .333333 RG
+.6 w
+n 0 112 m 495 112 l S
+n 0 0 m 495 0 l S
+n 0 0 m 0 112 l S
+n 495 0 m 495 112 l S
+n 0 92 m 495 92 l S
+n 0 72 m 495 72 l S
+n 0 40 m 495 40 l S
+n 0 20 m 495 20 l S
+n 150 0 m 150 112 l S
+Q
+Q
+Q
+q
+1 0 0 1 56 262.8898 cm
+Q
+q
+1 0 0 1 56 231.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Future Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 195.8898 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (The following are possible later extensions. They are ) Tj /F2 10.5 Tf (future work) Tj /F1 10.5 Tf ( and are ) Tj /F2 10.5 Tf (not) Tj /F1 10.5 Tf ( part of the current) Tj T* (version:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 174.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 174.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Store the data in an optional database instead of a text file) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 157.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 157.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Add a graphical user interface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 140.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 140.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Add billing, invoice generation and supplier management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 123.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 123.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Send automatic alerts for medicines that are close to their expiry date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 106.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 106.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Use a self-balancing tree \(AVL or Red-Black\) to guarantee O\(log n\) name search) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 281.8087 33.5 Tm
+(Page 14) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+63 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+64 0 obj
+<<
+/Contents 65 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 66 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+65 0 obj
+<<
+/Length 7362
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 284.1695 34.01575 Tm (Page 8) Tj T* ET
+Q
+q
+1 0 0 1 56 766.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Gantt Chart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 570.8898 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 187.052 159.6 Tm (Day 1) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 232.052 159.6 Tm (Day 2) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 277.052 159.6 Tm (Day 3) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 322.052 159.6 Tm (Day 4) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 367.052 159.6 Tm (Day 5) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 412.052 159.6 Tm (Day 6) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 457.052 159.6 Tm (Day 7) Tj T* ET
+Q
+q
+.133333 .133333 .133333 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 175 18 315 132 re S
+Q
+q
+.733333 .733333 .733333 RG
+.6 w
+0 J
+0 j
+[] 0 d
+n 220 150 m 220 18 l S
+Q
+q
+.733333 .733333 .733333 RG
+.6 w
+0 J
+0 j
+[] 0 d
+n 265 150 m 265 18 l S
+Q
+q
+.733333 .733333 .733333 RG
+.6 w
+0 J
+0 j
+[] 0 d
+n 310 150 m 310 18 l S
+Q
+q
+.733333 .733333 .733333 RG
+.6 w
+0 J
+0 j
+[] 0 d
+n 355 150 m 355 18 l S
+Q
+q
+.733333 .733333 .733333 RG
+.6 w
+0 J
+0 j
+[] 0 d
+n 400 150 m 400 18 l S
+Q
+q
+.733333 .733333 .733333 RG
+.6 w
+0 J
+0 j
+[] 0 d
+n 445 150 m 445 18 l S
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 95.184 136.6 Tm (Planning and Design) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 175 131 45 16 re B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 187.052 136.6 Tm (Day 1) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 44.504 114.6 Tm (HashMap and BST Implementation) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 220 109 90 16 re B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 250.996 114.6 Tm (Day 2-3) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 55.168 92.6 Tm (Linked List, Sorting and Reports) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 265 87 135 16 re B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 318.496 92.6 Tm (Day 3-5) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 84.52 70.6 Tm (File Handling and Menu) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 310 65 90 16 re B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 340.996 70.6 Tm (Day 4-5) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 105.864 48.6 Tm (Testing and Fixes) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 355 43 90 16 re B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 385.996 48.6 Tm (Day 5-6) Tj T* ET
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 45.392 26.6 Tm (Documentation and Demonstration) Tj T* ET
+Q
+q
+.772549 .85098 .92549 rg
+.133333 .133333 .133333 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 400 21 90 16 re B*
+Q
+q
+BT /F1 8 Tf 9.6 TL ET
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 430.996 26.6 Tm (Day 6-7) Tj T* ET
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56 566.8898 cm
+Q
+q
+1 0 0 1 56 546.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Time Management:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 528.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 528.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Planning and design ) Tj /F5 10.5 Tf 15 TL (\256) Tj /F1 10.5 Tf 15 TL ( Day 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 511.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 511.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (HashMap and BST implementation ) Tj /F5 10.5 Tf 15 TL (\256) Tj /F1 10.5 Tf 15 TL ( Days 2\2263) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 494.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 494.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Linked list, sorting and reports ) Tj /F5 10.5 Tf 15 TL (\256) Tj /F1 10.5 Tf 15 TL ( Days 3\2265) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 477.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 477.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (File handling and menu ) Tj /F5 10.5 Tf 15 TL (\256) Tj /F1 10.5 Tf 15 TL ( Days 4\2265) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 460.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 460.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Testing and fixes ) Tj /F5 10.5 Tf 15 TL (\256) Tj /F1 10.5 Tf 15 TL ( Days 5\2266) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 443.8898 cm
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72 443.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Documentation and demonstration ) Tj /F5 10.5 Tf 15 TL (\256) Tj /F1 10.5 Tf 15 TL ( Days 6\2267) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 412.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 316.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 79.5 Tm /F1 10.5 Tf 15 TL (The Pharmacy Inventory System demonstrates how a HashMap, a BST, sorting, a linked list and file) Tj T* (handling can be combined to manage medicines and stock. The HashMap gives fast ID lookup, the BST) Tj T* -0.032651 Tw (keeps the medicines organised by name, sorting prepares the expiry and price reports and the linked list) Tj T* 0 Tw -0.099906 Tw (keeps a history of every stock change. The validation rules ensure that prices stay positive and the stock) Tj T* 0 Tw (never becomes negative. The project is simple and easy to demonstrate, and it can be extended in the) Tj T* (future with the features listed under Future Scope.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 285.8898 cm
+q
+.419608 .184314 .878431 rg
+BT 1 0 0 1 0 4 Tm /F1 15 Tf 19 TL (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 265.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Book) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 232.8898 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg ([1] T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein, ) Tj /F6 10.5 Tf (Introduction to Algorithms) Tj /F1 10.5 Tf (, 4th ed.) Tj T* (Cambridge, MA, USA: MIT Press, 2022.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 211.8898 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg ([2] R. Sedgewick and K. Wayne, ) Tj /F6 10.5 Tf (Algorithms) Tj /F1 10.5 Tf (, 4th ed. Boston, MA, USA: Addison-Wesley, 2011.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 191.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Website) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 173.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL ([3] Oracle, "Java Documentation," Oracle. [Online]. Available: https://docs.oracle.com/en/java/) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+262 24 72 24 re
+f*
+0.333 0.333 0.333 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 281.8087 33.5 Tm
+(Page 15) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+66 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 67
+0000000000 65535 f 
+0000000015 00000 n 
+0000000142 00000 n 
+0000000300 00000 n 
+0000000349 00000 n 
+0000000712 00000 n 
+0000004243 00000 n 
+0000004350 00000 n 
+0000004457 00000 n 
+0000004569 00000 n 
+0000004681 00000 n 
+0000004791 00000 n 
+0000004897 00000 n 
+0000004975 00000 n 
+0000005091 00000 n 
+0000024246 00000 n 
+0000031768 00000 n 
+0000032080 00000 n 
+0000035380 00000 n 
+0000054535 00000 n 
+0000062057 00000 n 
+0000062165 00000 n 
+0000062273 00000 n 
+0000062386 00000 n 
+0000062634 00000 n 
+0000065950 00000 n 
+0000066058 00000 n 
+0000066339 00000 n 
+0000073278 00000 n 
+0000073386 00000 n 
+0000073494 00000 n 
+0000073607 00000 n 
+0000073717 00000 n 
+0000073833 00000 n 
+0000073939 00000 n 
+0000074229 00000 n 
+0000081481 00000 n 
+0000081589 00000 n 
+0000081879 00000 n 
+0000089548 00000 n 
+0000089656 00000 n 
+0000089946 00000 n 
+0000101041 00000 n 
+0000101149 00000 n 
+0000101439 00000 n 
+0000113781 00000 n 
+0000113889 00000 n 
+0000114170 00000 n 
+0000126844 00000 n 
+0000126952 00000 n 
+0000127233 00000 n 
+0000131851 00000 n 
+0000131959 00000 n 
+0000132240 00000 n 
+0000143715 00000 n 
+0000143823 00000 n 
+0000144104 00000 n 
+0000150967 00000 n 
+0000151075 00000 n 
+0000151365 00000 n 
+0000158827 00000 n 
+0000158935 00000 n 
+0000159225 00000 n 
+0000168537 00000 n 
+0000168645 00000 n 
+0000168935 00000 n 
+0000176350 00000 n 
+trailer
+<<
+/Size 67
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+176458
+%%EOF
